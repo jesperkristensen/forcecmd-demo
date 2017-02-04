@@ -1,0 +1,10 @@
+{
+  "apiVersion": "39.0",
+  "loginUrl": "https://login.salesforce.com/",
+  "username": "demo@force.cmd",
+  "objects": {
+    "Product2": true,
+    "Pricebook2": ["Id", "Name", "IsActive"],
+    "PricebookEntry": "select Product2Id, Pricebook2Id, UnitPrice from PricebookEntry where IsActive = true"
+  }
+}
