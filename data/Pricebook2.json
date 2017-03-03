@@ -1,0 +1,12 @@
+[
+    {
+        "Id": "01s58000003vwydAAA",
+        "Name": "Standard",
+        "IsActive": true
+    },
+    {
+        "Id": "01s58000003vwyeAAA",
+        "Name": "Standard Price Book",
+        "IsActive": false
+    }
+]
