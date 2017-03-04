@@ -793,6 +793,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>FeedItem-Feed Item Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Global-Global Layout</members>
         <name>Layout</name>
     </types>
