@@ -1,6 +1,6 @@
 {
   "apiVersion": "39.0",
-  "loginUrl": "https://login.salesforce.com/",
+  "hostname": "login.salesforce.com",
   "username": "demo@force.cmd",
   "objects": {
     "Product2": true,
