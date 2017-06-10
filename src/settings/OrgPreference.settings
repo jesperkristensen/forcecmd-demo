@@ -13,15 +13,7 @@
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>Translation</settingName>
-        <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
-        <settingName>AnalyticsSharingEnable</settingName>
-        <settingValue>true</settingValue>
-    </preferences>
-    <preferences>
-        <settingName>DisableParallelApexTesting</settingName>
+        <settingName>ActivityAnalyticsEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
@@ -33,19 +25,47 @@
         <settingValue>true</settingValue>
     </preferences>
     <preferences>
+        <settingName>XssProtection</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>ContentSniffingProtection</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>UpgradeInsecureRequestsPref</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>PathAssistantsEnabled</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>UsePathCollapsedUserPref</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>Translation</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>S1DesktopEnabled</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>NotesReservedPref01</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>DisableParallelApexTesting</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
         <settingName>NetworksEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>S1OfflinePref</settingName>
-        <settingValue>true</settingValue>
-    </preferences>
-    <preferences>
-        <settingName>S1EncryptedStoragePref2</settingName>
-        <settingValue>true</settingValue>
-    </preferences>
-    <preferences>
-        <settingName>OfflineDraftsEnabled</settingName>
+        <settingName>AnalyticsSharingEnable</settingName>
         <settingValue>true</settingValue>
     </preferences>
     <preferences>
@@ -61,31 +81,31 @@
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>XssProtection</settingName>
+        <settingName>VoiceMailDropEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>ContentSniffingProtection</settingName>
+        <settingName>VoiceLocalPresenceEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>NotesReservedPref01</settingName>
-        <settingValue>false</settingValue>
+        <settingName>S1OfflinePref</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>S1EncryptedStoragePref2</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>OfflineDraftsEnabled</settingName>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>EnhancedEmailEnabled</settingName>
         <settingValue>true</settingValue>
     </preferences>
     <preferences>
-        <settingName>PathAssistantsEnabled</settingName>
-        <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
-        <settingName>S1DesktopEnabled</settingName>
-        <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
-        <settingName>ActivityAnalyticsEnabled</settingName>
-        <settingValue>false</settingValue>
+        <settingName>SelfSetPasswordInApi</settingName>
+        <settingValue>true</settingValue>
     </preferences>
 </OrgPreferenceSettings>

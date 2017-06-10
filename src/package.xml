@@ -353,6 +353,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>AssetRelationship</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>AssistantProgress</members>
         <name>CustomObject</name>
     </types>
@@ -554,6 +558,14 @@
     </types>
     <types>
         <members>*</members>
+        <name>DuplicateRule</name>
+    </types>
+    <types>
+        <members>Contact.Standardregel_for_Kontakter_med_dubletten_Emner</members>
+        <name>DuplicateRule</name>
+    </types>
+    <types>
+        <members>Lead.Standardregel_for_Emner_med_dubletten_Kontakter</members>
         <name>DuplicateRule</name>
     </types>
     <types>
@@ -1898,6 +1910,10 @@
     </types>
     <types>
         <members>Asset</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>AssetRelationship</members>
         <name>Workflow</name>
     </types>
     <types>
