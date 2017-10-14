@@ -126,6 +126,9 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>StockKeepingUnit</fullName>
+    </fields>
+    <fields>
         <fullName>UsageEndDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>

@@ -74,6 +74,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>AssistantRecommendationType</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
@@ -493,6 +497,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Scorecard</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ScorecardMetric</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Site</members>
         <name>CustomObject</name>
     </types>
@@ -658,6 +670,14 @@
     </types>
     <types>
         <members>*</members>
+        <name>EventDelivery</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>EventSubscription</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ExternalDataSource</name>
     </types>
     <types>
@@ -711,6 +731,10 @@
     <types>
         <members>DE Default</members>
         <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Index</name>
     </types>
     <types>
         <members>*</members>
@@ -874,6 +898,14 @@
     </types>
     <types>
         <members>Product2-Product Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Scorecard-Scorecard Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>ScorecardMetric-Scorecard Metric Layout</members>
         <name>Layout</name>
     </types>
     <types>

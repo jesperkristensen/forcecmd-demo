@@ -144,6 +144,9 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>IqScore</fullName>
+    </fields>
+    <fields>
         <fullName>Jigsaw</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>

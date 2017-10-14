@@ -59,6 +59,9 @@
         <fullName>IsRecurrence</fullName>
     </fields>
     <fields>
+        <fullName>IsReminderSet</fullName>
+    </fields>
+    <fields>
         <fullName>OwnerId</fullName>
         <type>Lookup</type>
     </fields>
