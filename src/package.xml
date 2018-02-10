@@ -381,6 +381,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>CollaborationGroup</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>CollaborationGroupMember</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Contact</members>
         <name>CustomObject</name>
     </types>
@@ -481,6 +489,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>OrgDeleteRequest</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>PartnerRole</members>
         <name>CustomObject</name>
     </types>
@@ -497,7 +509,15 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>QuickText</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Scorecard</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ScorecardAssociation</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -522,6 +542,14 @@
     </types>
     <types>
         <members>Task</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Topic</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>TopicAssignment</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -905,6 +933,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>ScorecardAssociation-Scorecard Association Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
         <name>Layout</name>
     </types>
@@ -1014,6 +1046,10 @@
     </types>
     <types>
         <members>Case.MyOpenCases</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>CollaborationGroup.All_ChatterGroups</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1138,6 +1174,14 @@
     </types>
     <types>
         <members>Product2.AllProducts</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Scorecard.AllScorecards</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Scorecard.MyScorecards</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1965,6 +2009,14 @@
         <name>Workflow</name>
     </types>
     <types>
+        <members>CollaborationGroup</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>CollaborationGroupMember</members>
+        <name>Workflow</name>
+    </types>
+    <types>
         <members>Contact</members>
         <name>Workflow</name>
     </types>
@@ -2037,11 +2089,19 @@
         <name>Workflow</name>
     </types>
     <types>
+        <members>OrgDeleteRequest</members>
+        <name>Workflow</name>
+    </types>
+    <types>
         <members>Organization</members>
         <name>Workflow</name>
     </types>
     <types>
         <members>Product2</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>QuickText</members>
         <name>Workflow</name>
     </types>
     <types>
@@ -2062,6 +2122,14 @@
     </types>
     <types>
         <members>Task</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>Topic</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>TopicAssignment</members>
         <name>Workflow</name>
     </types>
     <types>

@@ -39,24 +39,12 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <fields>
-        <fullName>Description</fullName>
+        <fullName>ScorecardId</fullName>
+        <type>MasterDetail</type>
     </fields>
     <fields>
-        <fullName>Name</fullName>
-    </fields>
-    <fields>
-        <fullName>OwnerId</fullName>
+        <fullName>TargetEntityId</fullName>
         <type>Lookup</type>
     </fields>
-    <listViews>
-        <fullName>AllScorecards</fullName>
-        <filterScope>Everything</filterScope>
-        <label>All Scorecards</label>
-    </listViews>
-    <listViews>
-        <fullName>MyScorecards</fullName>
-        <filterScope>Mine</filterScope>
-        <label>My Scorecards</label>
-    </listViews>
-    <sharingModel>Private</sharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>
