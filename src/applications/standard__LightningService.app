@@ -3,7 +3,7 @@
     <formFactors>Large</formFactors>
     <label>Service Console</label>
     <navType>Console</navType>
-    <setupExperience>ServiceSetup</setupExperience>
+    <setupExperience>service</setupExperience>
     <tab>standard-Case</tab>
     <tab>standard-Contact</tab>
     <tab>standard-Account</tab>

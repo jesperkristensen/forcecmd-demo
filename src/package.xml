@@ -74,10 +74,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>AssistantRecommendationType</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
@@ -510,6 +506,10 @@
     </types>
     <types>
         <members>QuickText</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>RecordAction</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1669,7 +1669,15 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>FlowInterview</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Lead</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ListEmail</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2254,10 +2262,6 @@
     </types>
     <types>
         <members>PathAssistant</members>
-        <name>Settings</name>
-    </types>
-    <types>
-        <members>PersonalJourney</members>
         <name>Settings</name>
     </types>
     <types>
