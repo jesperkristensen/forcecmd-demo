@@ -164,4 +164,8 @@
         <settingName>TerritoryManagement2Enable</settingName>
         <settingValue>false</settingValue>
     </preferences>
+    <preferences>
+        <settingName>CompileOnDeploy</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
 </OrgPreferenceSettings>

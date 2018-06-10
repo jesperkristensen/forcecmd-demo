@@ -169,6 +169,10 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>standard__LightningInstrumentation</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>standard__LightningSalesConsole</members>
         <name>CustomApplication</name>
     </types>
@@ -1190,6 +1194,34 @@
     </types>
     <types>
         <members>Solution.AllUnreviewedSolutions</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Task.CompletedTasks</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Task.DelegatedTasks</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Task.OpenTasks</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Task.OverdueTasks</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Task.RecurringTasks</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Task.TodaysTasks</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Task.UnscheduledTasks</members>
         <name>ListView</name>
     </types>
     <types>
