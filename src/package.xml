@@ -381,6 +381,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ChatterActivity</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>CollaborationGroup</members>
         <name>CustomObject</name>
     </types>
@@ -2046,6 +2050,10 @@
     </types>
     <types>
         <members>Case</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>ChatterActivity</members>
         <name>Workflow</name>
     </types>
     <types>
