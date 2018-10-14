@@ -825,6 +825,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>CommunityMemberLayout-Community Member Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Contact-Contact (Marketing) Layout</members>
         <name>Layout</name>
     </types>
