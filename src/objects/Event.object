@@ -21,6 +21,10 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+        <actionName>DeleteFromThisEventOnwards</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
         <actionName>DeleteSeries</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -51,6 +55,9 @@
     </fields>
     <fields>
         <fullName>ActivityDateTime</fullName>
+    </fields>
+    <fields>
+        <fullName>Attendees</fullName>
     </fields>
     <fields>
         <fullName>Description</fullName>

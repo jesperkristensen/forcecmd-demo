@@ -401,6 +401,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ContactRequest</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>ContentVersion</members>
         <name>CustomObject</name>
     </types>
@@ -446,6 +450,10 @@
     </types>
     <types>
         <members>Idea</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Image</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -514,6 +522,10 @@
     </types>
     <types>
         <members>QuickText</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Recommendation</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1765,14 +1777,6 @@
         <name>StandardValueSet</name>
     </types>
     <types>
-        <members>AddressCountryCode</members>
-        <name>StandardValueSet</name>
-    </types>
-    <types>
-        <members>AddressStateCode</members>
-        <name>StandardValueSet</name>
-    </types>
-    <types>
         <members>AssetStatus</members>
         <name>StandardValueSet</name>
     </types>
@@ -1873,10 +1877,6 @@
         <name>StandardValueSet</name>
     </types>
     <types>
-        <members>InvoiceStatus</members>
-        <name>StandardValueSet</name>
-    </types>
-    <types>
         <members>LeadSource</members>
         <name>StandardValueSet</name>
     </types>
@@ -1894,10 +1894,6 @@
     </types>
     <types>
         <members>OpportunityType</members>
-        <name>StandardValueSet</name>
-    </types>
-    <types>
-        <members>OrderStatus1</members>
         <name>StandardValueSet</name>
     </types>
     <types>
@@ -1926,6 +1922,10 @@
     </types>
     <types>
         <members>QuoteStatus</members>
+        <name>StandardValueSet</name>
+    </types>
+    <types>
+        <members>RoleInTerritory2</members>
         <name>StandardValueSet</name>
     </types>
     <types>
@@ -2073,6 +2073,10 @@
         <name>Workflow</name>
     </types>
     <types>
+        <members>ContactRequest</members>
+        <name>Workflow</name>
+    </types>
+    <types>
         <members>Contract</members>
         <name>Workflow</name>
     </types>
@@ -2106,6 +2110,10 @@
     </types>
     <types>
         <members>Idea</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>Image</members>
         <name>Workflow</name>
     </types>
     <types>
