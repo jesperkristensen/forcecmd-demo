@@ -68,5 +68,10 @@
         <fullName>WhoId</fullName>
         <type>Lookup</type>
     </fields>
+    <listViews>
+        <fullName>My_ContactRequests</fullName>
+        <filterScope>Mine</filterScope>
+        <label>Mine kontaktanmodninger</label>
+    </listViews>
     <sharingModel>Private</sharingModel>
 </CustomObject>
