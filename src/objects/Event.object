@@ -21,10 +21,6 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>DeleteFromThisEventOnwards</actionName>
-        <type>Default</type>
-    </actionOverrides>
-    <actionOverrides>
         <actionName>DeleteSeries</actionName>
         <type>Default</type>
     </actionOverrides>
