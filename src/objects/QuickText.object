@@ -21,11 +21,19 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
         <actionName>Preview</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
         <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Share</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>

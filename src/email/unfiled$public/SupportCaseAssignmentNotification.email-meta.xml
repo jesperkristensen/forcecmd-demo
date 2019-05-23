@@ -7,4 +7,5 @@
     <style>none</style>
     <subject>Case {!Case.CaseNumber}:&quot;{!Case.Subject}&quot; auto-assigned to you</subject>
     <type>text</type>
+    <uiType>Aloha</uiType>
 </EmailTemplate>

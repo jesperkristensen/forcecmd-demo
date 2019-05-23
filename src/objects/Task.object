@@ -101,5 +101,6 @@
         <fullName>WhoId</fullName>
         <type>Lookup</type>
     </fields>
+    <searchLayouts/>
     <sharingModel>Private</sharingModel>
 </CustomObject>

@@ -16,8 +16,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkuAAC",
@@ -36,8 +38,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003Pgl0AAC",
@@ -56,8 +60,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkqAAC",
@@ -76,8 +82,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgktAAC",
@@ -96,8 +104,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkxAAC",
@@ -116,8 +126,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkyAAC",
@@ -136,8 +148,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkkAAC",
@@ -156,8 +170,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkvAAC",
@@ -176,8 +192,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkpAAC",
@@ -196,8 +214,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgklAAC",
@@ -216,8 +236,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkmAAC",
@@ -236,8 +258,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkrAAC",
@@ -256,8 +280,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgksAAC",
@@ -276,8 +302,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkoAAC",
@@ -296,8 +324,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgknAAC",
@@ -316,8 +346,10 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     },
     {
         "Id": "01t58000003PgkwAAC",
@@ -336,7 +368,9 @@
         "DisplayUrl": null,
         "QuantityUnitOfMeasure": null,
         "IsDeleted": false,
+        "IsArchived": false,
         "LastViewedDate": null,
-        "LastReferencedDate": null
+        "LastReferencedDate": null,
+        "StockKeepingUnit": null
     }
 ]

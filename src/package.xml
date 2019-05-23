@@ -98,6 +98,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>BrandingSet</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>BusinessProcess</name>
     </types>
     <types>
@@ -106,11 +110,19 @@
     </types>
     <types>
         <members>*</members>
+        <name>CaseSubjectParticle</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Certificate</name>
     </types>
     <types>
         <members>*</members>
         <name>ChannelLayout</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ChatterExtension</name>
     </types>
     <types>
         <members>*</members>
@@ -315,6 +327,10 @@
     <types>
         <members>Opportunity.TrackingNumber__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomHelpMenuSection</name>
     </types>
     <types>
         <members>*</members>
@@ -637,6 +653,10 @@
         <name>EmailFolder</name>
     </types>
     <types>
+        <members>*</members>
+        <name>EmailServicesFunction</name>
+    </types>
+    <types>
         <members>unfiled$public</members>
         <name>EmailTemplate</name>
     </types>
@@ -702,6 +722,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>EmbeddedServiceFlowConfig</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>EscalationRule</name>
     </types>
     <types>
@@ -751,6 +775,10 @@
     <types>
         <members>*</members>
         <name>Flow</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>FlowCategory</name>
     </types>
     <types>
         <members>*</members>
@@ -1003,6 +1031,18 @@
     <types>
         <members>*</members>
         <name>Letterhead</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>LightningBolt</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>LightningExperienceTheme</name>
     </types>
     <types>
         <members>*</members>
@@ -1310,6 +1350,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>NetworkBranding</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>PathAssistant</name>
     </types>
     <types>
@@ -1319,6 +1363,10 @@
     <types>
         <members>*</members>
         <name>PlatformCachePartition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PlatformEventChannel</name>
     </types>
     <types>
         <members>*</members>
@@ -1474,6 +1522,18 @@
     </types>
     <types>
         <members>*</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <types>
+        <members>PT1_profilePasswordPolicy1494056276901</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ProfileSessionSetting</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Queue</name>
     </types>
     <types>
@@ -1571,6 +1631,14 @@
     <types>
         <members>Task.UpdateStatus_0</members>
         <name>QuickAction</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>RecommendationStrategy</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>RecordActionDeployment</name>
     </types>
     <types>
         <members>*</members>
@@ -2002,6 +2070,62 @@
     </types>
     <types>
         <members>*</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Asset</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Campaign</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Contact</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>ContentDocument</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Contract</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Event</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Lead</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Opportunity</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Order</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Solution</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Task</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>TransactionSecurityPolicy</name>
     </types>
     <types>
@@ -2030,182 +2154,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Account</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Asset</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>AssetRelationship</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>AssistantProgress</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Campaign</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>CampaignMember</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Case</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>ChatterActivity</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>CollaborationGroup</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>CollaborationGroupMember</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Contact</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>ContactRequest</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Contract</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>DandBCompany</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>DuplicateRecordItem</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>DuplicateRecordSet</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>EmailMessage</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Event</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>ExchangeUserMapping</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>FeedItem</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Idea</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Image</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Lead</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Macro</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>MacroAction</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>MacroInstruction</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Opportunity</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>OpportunityLineItem</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Order</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>OrderItem</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>OrgDeleteRequest</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Organization</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Product2</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>QuickText</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Site</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>SocialPersona</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Solution</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>StreamingChannel</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Task</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>Topic</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>TopicAssignment</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>User</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>UserLicense</members>
-        <name>Workflow</name>
-    </types>
-    <types>
-        <members>UserProvisioningRequest</members>
         <name>Workflow</name>
     </types>
     <types>
@@ -2273,6 +2221,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>FieldService</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>FileUploadAndDownloadSecurity</members>
         <name>Settings</name>
     </types>
@@ -2282,6 +2234,10 @@
     </types>
     <types>
         <members>Ideas</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>IoT</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2302,6 +2258,10 @@
     </types>
     <types>
         <members>Name</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>OmniChannel</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2336,5 +2296,5 @@
         <members>Security</members>
         <name>Settings</name>
     </types>
-    <version>39.0</version>
+    <version>45.0</version>
 </Package>

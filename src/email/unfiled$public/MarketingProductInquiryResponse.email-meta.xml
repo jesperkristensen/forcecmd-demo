@@ -7,4 +7,5 @@
     <style>none</style>
     <subject>GenWatt: Thanks for your inquiry</subject>
     <type>text</type>
+    <uiType>Aloha</uiType>
 </EmailTemplate>
