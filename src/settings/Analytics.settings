@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticsSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableInsights>true</enableInsights>
+    <enablePowerInsights>false</enablePowerInsights>
+    <enableSmartDataDiscovery>false</enableSmartDataDiscovery>
+    <enableWaveReplication>false</enableWaveReplication>
+    <enableWaveSharingInheritance>false</enableWaveSharingInheritance>
+    <enableWaveTemplate>false</enableWaveTemplate>
+</AnalyticsSettings>

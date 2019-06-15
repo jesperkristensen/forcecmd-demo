@@ -10,6 +10,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>AnimationRule</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -350,6 +354,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>CustomNotificationType</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -381,6 +389,22 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>AuthorizationForm</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AuthorizationFormConsent</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AuthorizationFormDataUse</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AuthorizationFormText</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Campaign</members>
         <name>CustomObject</name>
     </types>
@@ -409,11 +433,23 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ConsumptionRate</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ConsumptionSchedule</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Contact</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>ContactCleanInfo</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ContactPointTypeConsent</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -437,6 +473,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>DataUseLegalBasis</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DataUsePurpose</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>DuplicateRecordItem</members>
         <name>CustomObject</name>
     </types>
@@ -457,6 +501,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ExpressionFilter</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ExpressionFilterCriteria</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>FeedItem</members>
         <name>CustomObject</name>
     </types>
@@ -470,6 +522,10 @@
     </types>
     <types>
         <members>Image</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Individual</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -534,6 +590,14 @@
     </types>
     <types>
         <members>Product2</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ProductConsumptionSchedule</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>PromptAction</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -742,14 +806,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>EventDelivery</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>EventSubscription</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>ExternalDataSource</name>
     </types>
     <types>
@@ -869,6 +925,14 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>ConsumptionRate-Forbrugssats-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>ConsumptionSchedule-Forbrugsplan-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Contact-Contact (Marketing) Layout</members>
         <name>Layout</name>
     </types>
@@ -918,6 +982,10 @@
     </types>
     <types>
         <members>Idea-Idea Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Individual-Enkeltperson-layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -978,6 +1046,10 @@
     </types>
     <types>
         <members>Product2-Product Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>ProductConsumptionSchedule-Produktforbrugsplan-layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1117,6 +1189,14 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>ConsumptionSchedule.All_ConsumptionSchedules</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ConsumptionSchedule.My_ConsumptionSchedules</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>Contact.AllContacts</members>
         <name>ListView</name>
     </types>
@@ -1166,6 +1246,26 @@
     </types>
     <types>
         <members>Contract.MyInApprovalContracts</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Event.MyRecentEvents</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Event.MyTeamsRecentEvents</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Event.MyTeamsUpcomingEvents</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Event.MyUpcomingEvents</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Event.TodaysAgenda</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1341,6 +1441,10 @@
         <name>MatchingRules</name>
     </types>
     <types>
+        <members>Individual</members>
+        <name>MatchingRules</name>
+    </types>
+    <types>
         <members>Lead</members>
         <name>MatchingRules</name>
     </types>
@@ -1351,6 +1455,14 @@
     <types>
         <members>*</members>
         <name>NetworkBranding</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>OauthCustomScope</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>OrchestrationContext</name>
     </types>
     <types>
         <members>*</members>
@@ -1531,6 +1643,10 @@
     <types>
         <members>*</members>
         <name>ProfileSessionSetting</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Prompt</name>
     </types>
     <types>
         <members>*</members>
@@ -1794,6 +1910,10 @@
     </types>
     <types>
         <members>FlowInterview</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Individual</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2201,6 +2321,14 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Analytics</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Bot</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>BusinessHours</members>
         <name>Settings</name>
     </types>
@@ -2221,6 +2349,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>ExperienceBundle</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>FieldService</members>
         <name>Settings</name>
     </types>
@@ -2230,6 +2362,10 @@
     </types>
     <types>
         <members>Forecasting</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>GoogleApps</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2261,6 +2397,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Notifications</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>OmniChannel</members>
         <name>Settings</name>
     </types>
@@ -2270,6 +2410,10 @@
     </types>
     <types>
         <members>Order</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Org</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2296,5 +2440,13 @@
         <members>Security</members>
         <name>Settings</name>
     </types>
-    <version>45.0</version>
+    <types>
+        <members>UserInterface</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>UserManagement</members>
+        <name>Settings</name>
+    </types>
+    <version>46.0</version>
 </Package>
