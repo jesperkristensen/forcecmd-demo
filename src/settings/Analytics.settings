@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AnalyticsSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+<AnalyticsSettings xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <enableInsights>true</enableInsights>
-    <enablePowerInsights>false</enablePowerInsights>
-    <enableSmartDataDiscovery>false</enableSmartDataDiscovery>
+    <enablePowerInsights xsi:nil="true"/>
+    <enableSmartDataDiscovery xsi:nil="true"/>
     <enableWaveReplication>false</enableWaveReplication>
     <enableWaveSharingInheritance>false</enableWaveSharingInheritance>
     <enableWaveTemplate>false</enableWaveTemplate>
