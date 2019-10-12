@@ -168,21 +168,34 @@
     <fields>
         <fullName>PartyId</fullName>
         <trackHistory>false</trackHistory>
-        <type>MasterDetail</type>
+        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>PrivacyConsentStatus</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <listViews>
+        <fullName>All_ContactPointTypeConsents</fullName>
+        <filterScope>Everything</filterScope>
+        <label>Alle Samtykker for kontaktpunkttype</label>
+    </listViews>
     <searchLayouts>
+        <customTabListAdditionalFields>Party</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ContactPointType</customTabListAdditionalFields>
+        <customTabListAdditionalFields>DataUsePurpose</customTabListAdditionalFields>
+        <customTabListAdditionalFields>PrivacyConsentStatus</customTabListAdditionalFields>
+        <customTabListAdditionalFields>EffectiveFrom</customTabListAdditionalFields>
+        <customTabListAdditionalFields>EffectiveTo</customTabListAdditionalFields>
         <customTabListAdditionalFields>LastModifiedDate</customTabListAdditionalFields>
         <customTabListAdditionalFields>LastModifiedBy</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Party</customTabListAdditionalFields>
-        <customTabListAdditionalFields>DataUsePurpose</customTabListAdditionalFields>
+        <searchResultsAdditionalFields>Party</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ContactPointType</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>DataUsePurpose</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>PrivacyConsentStatus</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>EffectiveFrom</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>EffectiveTo</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LastModifiedDate</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LastModifiedBy</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Party</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>DataUsePurpose</searchResultsAdditionalFields>
     </searchLayouts>
-    <sharingModel>ControlledByParent</sharingModel>
+    <sharingModel>Private</sharingModel>
 </CustomObject>

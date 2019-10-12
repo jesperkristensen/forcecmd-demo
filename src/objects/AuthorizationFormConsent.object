@@ -146,23 +146,43 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>ConsentGiverId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>DocumentVersionId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>PartyId</fullName>
+        <fullName>Status</fullName>
         <trackHistory>false</trackHistory>
-        <type>Lookup</type>
     </fields>
+    <listViews>
+        <fullName>All_AuthorizationFormConsents</fullName>
+        <filterScope>Everything</filterScope>
+        <label>Alle samtykker til godkendelsesformular</label>
+    </listViews>
     <searchLayouts>
+        <customTabListAdditionalFields>ConsentGiver</customTabListAdditionalFields>
+        <customTabListAdditionalFields>AuthorizationFormText</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ConsentCapturedSource</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ConsentCapturedSourceType</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Status</customTabListAdditionalFields>
         <customTabListAdditionalFields>LastModifiedDate</customTabListAdditionalFields>
         <customTabListAdditionalFields>LastModifiedBy</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Party</customTabListAdditionalFields>
-        <customTabListAdditionalFields>AuthorizationFormText</customTabListAdditionalFields>
+        <searchResultsAdditionalFields>ConsentGiver</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>AuthorizationFormText</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ConsentCapturedSource</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ConsentCapturedSourceType</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Status</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LastModifiedDate</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LastModifiedBy</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Party</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>AuthorizationFormText</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>Private</sharingModel>
 </CustomObject>

@@ -114,6 +114,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>CanvasMetadata</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>CaseSubjectParticle</name>
     </types>
     <types>
@@ -549,6 +553,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>MacroUsage</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Opportunity</members>
         <name>CustomObject</name>
     </types>
@@ -574,6 +582,14 @@
     </types>
     <types>
         <members>OrgDeleteRequest</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>OrgMetricScanResult</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>OrgMetricScanSummary</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -605,11 +621,19 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>QuickTextUsage</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Recommendation</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>RecordAction</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>RecordMergeHistory</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1118,6 +1142,14 @@
     </types>
     <types>
         <members>*</members>
+        <name>LightningMessageChannel</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>LightningOnboardingConfig</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1158,6 +1190,22 @@
     </types>
     <types>
         <members>Asset.AllAssets</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>AuthorizationForm.All_AuthorizationForms</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>AuthorizationFormConsent.All_AuthorizationFormConsents</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>AuthorizationFormDataUse.All_AuthorizationFormDataUses</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>AuthorizationFormText.All_AuthorizationFormText</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1217,6 +1265,10 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>ContactPointTypeConsent.All_ContactPointTypeConsents</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>ContactRequest.My_ContactRequests</members>
         <name>ListView</name>
     </types>
@@ -1246,6 +1298,14 @@
     </types>
     <types>
         <members>Contract.MyInApprovalContracts</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>DataUseLegalBasis.All_DataUseLegalBases</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>DataUsePurpose.All_DataUsePurposes</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1450,6 +1510,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>MobileApplicationDetail</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>NamedCredential</name>
     </types>
     <types>
@@ -1479,6 +1543,10 @@
     <types>
         <members>*</members>
         <name>PlatformEventChannel</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PlatformEventChannelMember</name>
     </types>
     <types>
         <members>*</members>
@@ -1893,7 +1961,39 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>ActivityRecurrence2</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Asset</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>AssistantInteraction</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>AssistantProgress</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>AssistantRecommendation</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>AuthorizationForm</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>AuthorizationFormConsent</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>AuthorizationFormDataUse</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Calendar2</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -1905,11 +2005,47 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>CleanLeadBackup</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ComponentResponseCache</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ConsumptionSchedule</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Contact</members>
         <name>SharingRules</name>
     </types>
     <types>
+        <members>ContactPointTypeConsent</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ContactRequest</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DataUseLegalBasis</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DataUsePurpose</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ExchangeUserMapping</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>FlowInterview</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Image</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -1925,6 +2061,18 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>Macro</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>MacroUsage</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>NotifDeliveryUserPref</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Opportunity</members>
         <name>SharingRules</name>
     </types>
@@ -1933,7 +2081,55 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>OrgDeleteRequest</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>PromptAction</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>QuickText</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>QuickTextUsage</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>RecordMergeHistory</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ReportResultBlob</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Scorecard</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>StreamingChannel</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>TodayGoal</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>User</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>UserAppMenuCustomization</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>UserEmailPreferredPerson</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>UserProvisioningRequest</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2313,6 +2509,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Actions</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Activities</members>
         <name>Settings</name>
     </types>
@@ -2325,6 +2525,22 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Apex</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>AppExperience</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Archive</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Blockchain</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Bot</members>
         <name>Settings</name>
     </types>
@@ -2333,7 +2549,23 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Campaign</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Case</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Chatter</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ChatterEmailsMD</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Communities</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2341,7 +2573,59 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>ConnectedApp</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Content</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Contract</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Currency</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>DataDotCom</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Deployment</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>DevHub</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Discovery</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EAC</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EmailAdministration</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EmailIntegration</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EmailTemplate</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EncryptionKey</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EnhancedNotes</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2349,7 +2633,23 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Essentials</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EssentialsTrialOrg</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Event</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ExperienceBundle</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ExternalServices</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2361,7 +2661,19 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>FilesConnect</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Flow</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Forecasting</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Formula</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2373,11 +2685,35 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Industries</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>InvocableAction</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>IoT</members>
         <name>Settings</name>
     </types>
     <types>
+        <members>IsvHammer</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Knowledge</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Language</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>LeadConfig</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>LightningExperience</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2393,11 +2729,19 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>MyDomain</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Name</members>
         <name>Settings</name>
     </types>
     <types>
         <members>Notifications</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ObjectLinking</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2421,7 +2765,31 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Pardot</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>PardotEinstein</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>PartyDataModel</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>PathAssistant</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Picklist</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>PlatformEncryption</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Privacy</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2433,11 +2801,55 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>RecordPage</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>RetailExecution</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Schema</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Search</members>
         <name>Settings</name>
     </types>
     <types>
         <members>Security</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Sharing</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Site</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>SocialProfile</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Survey</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>SystemNotification</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Territory2</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Trailhead</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>UserEngagement</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2448,5 +2860,13 @@
         <members>UserManagement</members>
         <name>Settings</name>
     </types>
-    <version>46.0</version>
+    <types>
+        <members>Voice</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>WorkDotCom</members>
+        <name>Settings</name>
+    </types>
+    <version>47.0</version>
 </Package>

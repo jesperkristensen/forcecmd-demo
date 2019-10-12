@@ -102,6 +102,7 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>IsActive</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Pricebook2Id</fullName>
@@ -119,9 +120,11 @@
     </fields>
     <fields>
         <fullName>UnitPrice</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>UseStandardPrice</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <searchLayouts>
         <searchResultsAdditionalFields>PRODUCT.NAME</searchResultsAdditionalFields>
