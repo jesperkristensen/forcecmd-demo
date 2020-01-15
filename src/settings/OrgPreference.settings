@@ -102,7 +102,7 @@
     </preferences>
     <preferences>
         <settingName>S1DesktopEnabled</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>S1EncryptedStoragePref2</settingName>

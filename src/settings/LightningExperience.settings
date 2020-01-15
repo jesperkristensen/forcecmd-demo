@@ -13,7 +13,7 @@
     <enableRemoveThemeBrandBanner>false</enableRemoveThemeBrandBanner>
     <enableS1BannerPref>true</enableS1BannerPref>
     <enableS1BrowserEnabled>true</enableS1BrowserEnabled>
-    <enableS1DesktopEnabled>false</enableS1DesktopEnabled>
+    <enableS1DesktopEnabled>true</enableS1DesktopEnabled>
     <enableS1UiLoggingEnabled>true</enableS1UiLoggingEnabled>
     <enableTryLightningOptOut>false</enableTryLightningOptOut>
     <enableUseS1AlohaDesktop>false</enableUseS1AlohaDesktop>

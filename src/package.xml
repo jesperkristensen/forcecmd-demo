@@ -193,6 +193,10 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>standard__LightningSales</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>standard__LightningSalesConsole</members>
         <name>CustomApplication</name>
     </types>
@@ -1074,6 +1078,10 @@
     </types>
     <types>
         <members>ProductConsumptionSchedule-Produktforbrugsplan-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>QuickText-Hurtig tekst-layout</members>
         <name>Layout</name>
     </types>
     <types>
