@@ -129,6 +129,11 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>DigitalAssetStatus</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+    </fields>
+    <fields>
         <fullName>InstallDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>

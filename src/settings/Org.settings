@@ -2,7 +2,7 @@
 <OrgSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableCustomerSuccessPortal>false</enableCustomerSuccessPortal>
     <enableExtendedMailMerge>false</enableExtendedMailMerge>
-    <enableMakeDeploymentsMandatory>false</enableMakeDeploymentsMandatory>
+    <enableMakeDeploymentsMandatory>true</enableMakeDeploymentsMandatory>
     <enableManageSelfServiceUsers>false</enableManageSelfServiceUsers>
     <enableRADeploymentAttributeOnly>true</enableRADeploymentAttributeOnly>
     <saveMailMergeDocsAsSalesforceDocs>false</saveMailMergeDocsAsSalesforceDocs>

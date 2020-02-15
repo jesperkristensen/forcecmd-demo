@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<LanguageSettings xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<LanguageSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableEndUserLanguages>false</enableEndUserLanguages>
-    <enableICULocaleDateFormat xsi:nil="true"/>
+    <enableICULocaleDateFormat>false</enableICULocaleDateFormat>
+    <enableLocalNamesForStdObjects>false</enableLocalNamesForStdObjects>
     <enablePlatformLanguages>false</enablePlatformLanguages>
-    <enableTranslationWorkbench xsi:nil="true"/>
-    <useLanguageFallback xsi:nil="true"/>
+    <enableTranslationWorkbench>false</enableTranslationWorkbench>
+    <useLanguageFallback>false</useLanguageFallback>
 </LanguageSettings>

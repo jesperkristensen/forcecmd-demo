@@ -2,6 +2,7 @@
 <ChatterSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <allowChatterGroupArchiving>true</allowChatterGroupArchiving>
     <allowRecordsInChatterGroup>true</allowRecordsInChatterGroup>
+    <enableCaseFeedRelativeTimestamps>true</enableCaseFeedRelativeTimestamps>
     <enableChatter>true</enableChatter>
     <enableChatterEmoticons>false</enableChatterEmoticons>
     <enableFeedEdit>true</enableFeedEdit>

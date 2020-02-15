@@ -217,6 +217,10 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>standard__SalesforceCMS</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>standard__Service</members>
         <name>CustomApplication</name>
     </types>
@@ -441,6 +445,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>CommSubscription</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>CommSubscriptionChannelType</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>ConsumptionRate</members>
         <name>CustomObject</name>
     </types>
@@ -501,6 +513,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>EngagementChannelType</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Event</members>
         <name>CustomObject</name>
     </types>
@@ -517,11 +533,11 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>FeedItem</members>
+        <members>ExternalEventMapping</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>ForecastingCategoryMapping</members>
+        <members>FeedItem</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -598,6 +614,10 @@
     </types>
     <types>
         <members>PartnerRole</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>PartyConsent</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -815,6 +835,10 @@
     <types>
         <members>*</members>
         <name>EmbeddedServiceFlowConfig</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>EmbeddedServiceMenuSettings</name>
     </types>
     <types>
         <members>*</members>
@@ -1245,6 +1269,14 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>CommSubscription.All_CommSubscriptions</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>CommSubscriptionChannelType.All_CommSubscriptionChannelTypes</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>ConsumptionSchedule.All_ConsumptionSchedules</members>
         <name>ListView</name>
     </types>
@@ -1314,6 +1346,10 @@
     </types>
     <types>
         <members>DataUsePurpose.All_DataUsePurposes</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>EngagementChannelType.All_EngagementChannelTypes</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1409,6 +1445,10 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>PartyConsent.All_PartyConsents</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>Product2.AllProducts</members>
         <name>ListView</name>
     </types>
@@ -1482,6 +1522,14 @@
     </types>
     <types>
         <members>*</members>
+        <name>ManagedContentType</name>
+    </types>
+    <types>
+        <members>news</members>
+        <name>ManagedContentType</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>MatchingRule</name>
     </types>
     <types>
@@ -1522,6 +1570,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>MyDomainDiscoverableLogin</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>NamedCredential</name>
     </types>
     <types>
@@ -1530,11 +1582,15 @@
     </types>
     <types>
         <members>*</members>
-        <name>OauthCustomScope</name>
+        <name>NotificationTypeConfig</name>
+    </types>
+    <types>
+        <members>NotificationTypeConfig</members>
+        <name>NotificationTypeConfig</name>
     </types>
     <types>
         <members>*</members>
-        <name>OrchestrationContext</name>
+        <name>OauthCustomScope</name>
     </types>
     <types>
         <members>*</members>
@@ -1846,6 +1902,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>RedirectWhitelistUrl</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>RemoteSiteSetting</name>
     </types>
     <types>
@@ -2001,7 +2061,11 @@
         <name>SharingRules</name>
     </types>
     <types>
-        <members>Calendar2</members>
+        <members>CalendarModel</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>CalendarView</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2014,6 +2078,14 @@
     </types>
     <types>
         <members>CleanLeadBackup</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>CommSubscription</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>CommSubscriptionChannelType</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2045,7 +2117,15 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>EngagementChannelType</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>ExchangeUserMapping</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ExternalEventMapping</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2090,6 +2170,10 @@
     </types>
     <types>
         <members>OrgDeleteRequest</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>PartyConsent</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2517,6 +2601,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>AccountIntelligence</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Actions</members>
         <name>Settings</name>
     </types>
@@ -2597,6 +2685,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>CustomerDataPlatform</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>DataDotCom</members>
         <name>Settings</name>
     </types>
@@ -2610,6 +2702,10 @@
     </types>
     <types>
         <members>Discovery</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>DocumentChecklist</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2642,10 +2738,6 @@
     </types>
     <types>
         <members>Essentials</members>
-        <name>Settings</name>
-    </types>
-    <types>
-        <members>EssentialsTrialOrg</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2769,10 +2861,6 @@
         <name>Settings</name>
     </types>
     <types>
-        <members>OrgPreference</members>
-        <name>Settings</name>
-    </types>
-    <types>
         <members>Pardot</members>
         <name>Settings</name>
     </types>
@@ -2797,11 +2885,23 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Portals</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>PredictionBuilder</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Privacy</members>
         <name>Settings</name>
     </types>
     <types>
         <members>Product</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>QuickText</members>
         <name>Settings</name>
     </types>
     <types>
@@ -2857,6 +2957,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>TrialOrg</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>UserEngagement</members>
         <name>Settings</name>
     </types>
@@ -2873,8 +2977,12 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>WebToX</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>WorkDotCom</members>
         <name>Settings</name>
     </types>
-    <version>47.0</version>
+    <version>48.0</version>
 </Package>
