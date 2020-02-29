@@ -197,14 +197,6 @@
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>standard__LightningSalesConsole</members>
-        <name>CustomApplication</name>
-    </types>
-    <types>
-        <members>standard__LightningService</members>
-        <name>CustomApplication</name>
-    </types>
-    <types>
         <members>standard__Marketing</members>
         <name>CustomApplication</name>
     </types>
@@ -453,6 +445,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>CommSubscriptionConsent</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>CommSubscriptionTiming</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>ConsumptionRate</members>
         <name>CustomObject</name>
     </types>
@@ -466,6 +466,18 @@
     </types>
     <types>
         <members>ContactCleanInfo</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ContactPointConsent</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ContactPointEmail</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ContactPointPhone</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -658,6 +670,10 @@
     </types>
     <types>
         <members>RecordMergeHistory</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>RevenueElement</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1001,6 +1017,14 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>ContactPointEmail-Kontaktpunkts mail-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>ContactPointPhone-Kontaktpunkts telefonnummer-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>ContentVersion-Content Version Layout</members>
         <name>Layout</name>
     </types>
@@ -1277,6 +1301,14 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>CommSubscriptionConsent.All_CommSubscriptionConsents</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>CommSubscriptionTiming.All_CommSubscriptionTimings</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>ConsumptionSchedule.All_ConsumptionSchedules</members>
         <name>ListView</name>
     </types>
@@ -1302,6 +1334,10 @@
     </types>
     <types>
         <members>Contact.NewThisWeek</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ContactPointConsent.All_ContactPointConsents</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1570,6 +1606,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>MutingPermissionSet</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>MyDomainDiscoverableLogin</name>
     </types>
     <types>
@@ -1599,6 +1639,10 @@
     <types>
         <members>*</members>
         <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PermissionSetGroup</name>
     </types>
     <types>
         <members>*</members>
@@ -2089,6 +2133,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>CommSubscriptionConsent</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>ComponentResponseCache</members>
         <name>SharingRules</name>
     </types>
@@ -2098,6 +2146,10 @@
     </types>
     <types>
         <members>Contact</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ContactPointConsent</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2790,10 +2842,6 @@
     </types>
     <types>
         <members>InvocableAction</members>
-        <name>Settings</name>
-    </types>
-    <types>
-        <members>IoT</members>
         <name>Settings</name>
     </types>
     <types>
