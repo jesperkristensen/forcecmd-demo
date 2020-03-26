@@ -3,6 +3,7 @@
     <enableCspContactVisibilityPref>false</enableCspContactVisibilityPref>
     <enableEnablePRM>false</enableEnablePRM>
     <enableGuestRecordReassignOrgPref>false</enableGuestRecordReassignOrgPref>
+    <enableGuestSecurityOptOutCruc>false</enableGuestSecurityOptOutCruc>
     <enableInviteChatterGuestEnabled>true</enableInviteChatterGuestEnabled>
     <enableNetworksEnabled>false</enableNetworksEnabled>
     <enableOotbProfExtUserOpsEnable>false</enableOotbProfExtUserOpsEnable>
