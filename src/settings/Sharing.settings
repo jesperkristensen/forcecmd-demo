@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SharingSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deferGroupMembership>false</deferGroupMembership>
+    <deferSharingRules>false</deferSharingRules>
     <enableAssetSharing>true</enableAssetSharing>
     <enableCommunityUserVisibility>true</enableCommunityUserVisibility>
     <enableExternalSharingModel>false</enableExternalSharingModel>
@@ -7,6 +9,6 @@
     <enableManualUserRecordSharing>false</enableManualUserRecordSharing>
     <enablePortalUserVisibility>true</enablePortalUserVisibility>
     <enableRestrictAccessLookupRecords>false</enableRestrictAccessLookupRecords>
-    <enableSecureGuestAccess>false</enableSecureGuestAccess>
+    <enableSecureGuestAccess>true</enableSecureGuestAccess>
     <enableStandardReportVisibility>true</enableStandardReportVisibility>
 </SharingSettings>

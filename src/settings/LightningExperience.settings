@@ -18,6 +18,7 @@
     <enableLEXOnIpadEnabled>false</enableLEXOnIpadEnabled>
     <enableLexEndUsersNoSwitching>false</enableLexEndUsersNoSwitching>
     <enableNavPersonalizationOptOut>false</enableNavPersonalizationOptOut>
+    <enableNoBackgroundNavigations>false</enableNoBackgroundNavigations>
     <enableRemoveThemeBrandBanner>false</enableRemoveThemeBrandBanner>
     <enableS1BannerPref>true</enableS1BannerPref>
     <enableS1BrowserEnabled>true</enableS1BrowserEnabled>

@@ -5,6 +5,8 @@
     <enableApexApprovalLockUnlock>false</enableApexApprovalLockUnlock>
     <enableApexCtrlImplicitWithSharingPref>false</enableApexCtrlImplicitWithSharingPref>
     <enableApexPropertyGetterPref>false</enableApexPropertyGetterPref>
+    <enableApexTestReqViewSetup>false</enableApexTestReqViewSetup>
+    <enableAsyncRequiresViewSetup>false</enableAsyncRequiresViewSetup>
     <enableAuraApexCtrlAuthUserAccessCheckPref>false</enableAuraApexCtrlAuthUserAccessCheckPref>
     <enableAuraApexCtrlGuestUserAccessCheckPref>false</enableAuraApexCtrlGuestUserAccessCheckPref>
     <enableCompileOnDeploy>false</enableCompileOnDeploy>

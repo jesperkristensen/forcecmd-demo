@@ -4,7 +4,6 @@
     <enableAccountImportButtonOff>false</enableAccountImportButtonOff>
     <enableAllowDupeContactFromLead>false</enableAllowDupeContactFromLead>
     <enableAllowDupeLeadFromContact>false</enableAllowDupeLeadFromContact>
-    <enableCleanUpgradeRequested>false</enableCleanUpgradeRequested>
     <enableContactExportButtonOff>false</enableContactExportButtonOff>
     <enableContactImportButtonOff>false</enableContactImportButtonOff>
     <enableDDCSocialKeyEnabled>false</enableDDCSocialKeyEnabled>

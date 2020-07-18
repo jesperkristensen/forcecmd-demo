@@ -5,4 +5,5 @@
     <defaultContactAccessLevel>Edit</defaultContactAccessLevel>
     <defaultOpportunityAccessLevel>Edit</defaultOpportunityAccessLevel>
     <enableTerritoryManagement2>false</enableTerritoryManagement2>
+    <t2ForecastAccessLevel>Read</t2ForecastAccessLevel>
 </Territory2Settings>
