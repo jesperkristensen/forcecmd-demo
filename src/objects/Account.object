@@ -322,9 +322,6 @@
         <type>Picklist</type>
     </fields>
     <fields>
-        <fullName>IsBuyer</fullName>
-    </fields>
-    <fields>
         <fullName>Jigsaw</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>

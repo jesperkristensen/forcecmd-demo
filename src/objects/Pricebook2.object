@@ -144,37 +144,21 @@
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
-    <fields>
-        <fullName>ValidFrom</fullName>
-        <trackHistory>false</trackHistory>
-    </fields>
-    <fields>
-        <fullName>ValidTo</fullName>
-        <trackHistory>false</trackHistory>
-    </fields>
     <searchLayouts>
         <customTabListAdditionalFields>PRICEBOOK2.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>PRICEBOOK2.DESCRIPTION</customTabListAdditionalFields>
-        <customTabListAdditionalFields>PRICEBOOK2.VALIDFROM</customTabListAdditionalFields>
-        <customTabListAdditionalFields>PRICEBOOK2.VALIDTO</customTabListAdditionalFields>
         <customTabListAdditionalFields>PRICEBOOK2.LAST_UPDATE</customTabListAdditionalFields>
         <customTabListAdditionalFields>PRICEBOOK2.IS_ACTIVE</customTabListAdditionalFields>
         <lookupDialogsAdditionalFields>PRICEBOOK2.NAME</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>PRICEBOOK2.DESCRIPTION</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>PRICEBOOK2.VALIDFROM</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>PRICEBOOK2.VALIDTO</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>PRICEBOOK2.LAST_UPDATE</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>PRICEBOOK2.IS_ACTIVE</lookupDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>PRICEBOOK2.NAME</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>PRICEBOOK2.DESCRIPTION</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>PRICEBOOK2.VALIDFROM</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>PRICEBOOK2.VALIDTO</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>PRICEBOOK2.LAST_UPDATE</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>PRICEBOOK2.IS_ACTIVE</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>PRICEBOOK2.NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>PRICEBOOK2.DESCRIPTION</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>PRICEBOOK2.VALIDFROM</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>PRICEBOOK2.VALIDTO</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>PRICEBOOK2.LAST_UPDATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>PRICEBOOK2.IS_ACTIVE</searchResultsAdditionalFields>
     </searchLayouts>

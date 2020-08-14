@@ -429,22 +429,6 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>BuyerAccount</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>BuyerGroup</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>BuyerGroupMember</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>BuyerGroupPricebook</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
         <members>Campaign</members>
         <name>CustomObject</name>
     </types>
@@ -490,18 +474,6 @@
     </types>
     <types>
         <members>CommSubscriptionTiming</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>CommerceEntitlementBuyerGroup</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>CommerceEntitlementPolicy</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>CommerceEntitlementProduct</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -569,10 +541,6 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>DelegatedAccount</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
         <members>DigitalWallet</members>
         <name>CustomObject</name>
     </types>
@@ -582,14 +550,6 @@
     </types>
     <types>
         <members>DuplicateRecordSet</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>ElectronicMediaGroup</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>ElectronicMediaUse</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -737,27 +697,7 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>ProductCatalog</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>ProductCategory</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>ProductCategoryMedia</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>ProductCategoryProduct</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
         <members>ProductConsumptionSchedule</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>ProductMedia</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1089,10 +1029,6 @@
         <name>Layout</name>
     </types>
     <types>
-        <members>BuyerAccount-Layout for køberkonto</members>
-        <name>Layout</name>
-    </types>
-    <types>
         <members>Campaign-Campaign Layout</members>
         <name>Layout</name>
     </types>
@@ -1174,10 +1110,6 @@
     </types>
     <types>
         <members>DandBCompany-D&amp;B Company Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>DelegatedAccount-Layout foreksternt administreret konto</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1437,14 +1369,6 @@
         <name>ListView</name>
     </types>
     <types>
-        <members>BuyerGroup.All_Buyer_Groups</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>BuyerGroup.My_Buyer_Groups</members>
-        <name>ListView</name>
-    </types>
-    <types>
         <members>Campaign.AllActiveCampaigns</members>
         <name>ListView</name>
     </types>
@@ -1490,14 +1414,6 @@
     </types>
     <types>
         <members>CommSubscriptionTiming.All_CommSubscriptionTimings</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>CommerceEntitlementPolicy.ALL_Entitlement_Policies</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>CommerceEntitlementPolicy.My_Entitlement_Policies</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1574,14 +1490,6 @@
     </types>
     <types>
         <members>DataUsePurpose.All_DataUsePurposes</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>DelegatedAccount.Alle_eksternt_administrerede_konti</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>DelegatedAccount.Mine_eksternt_administrerede_konti</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1706,18 +1614,6 @@
     </types>
     <types>
         <members>Product2.AllProducts</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>ProductCatalog.All_Product_Catalogs_List_View</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>ProductCategory.All_Product_Categories_List_View</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>ProductCategory.Org_ProductCategory_Hierarchy</members>
         <name>ListView</name>
     </types>
     <types>
@@ -2377,10 +2273,6 @@
         <name>SharingRules</name>
     </types>
     <types>
-        <members>BuyerGroup</members>
-        <name>SharingRules</name>
-    </types>
-    <types>
         <members>CalendarModel</members>
         <name>SharingRules</name>
     </types>
@@ -2413,10 +2305,6 @@
         <name>SharingRules</name>
     </types>
     <types>
-        <members>CommerceEntitlementPolicy</members>
-        <name>SharingRules</name>
-    </types>
-    <types>
         <members>ComponentResponseCache</members>
         <name>SharingRules</name>
     </types>
@@ -2446,14 +2334,6 @@
     </types>
     <types>
         <members>DataUsePurpose</members>
-        <name>SharingRules</name>
-    </types>
-    <types>
-        <members>DelegatedAccount</members>
-        <name>SharingRules</name>
-    </types>
-    <types>
-        <members>ElectronicMediaGroup</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2518,18 +2398,6 @@
     </types>
     <types>
         <members>PartyConsent</members>
-        <name>SharingRules</name>
-    </types>
-    <types>
-        <members>PriceAdjustmentSchedule</members>
-        <name>SharingRules</name>
-    </types>
-    <types>
-        <members>ProductCatalog</members>
-        <name>SharingRules</name>
-    </types>
-    <types>
-        <members>ProductMedia</members>
         <name>SharingRules</name>
     </types>
     <types>
