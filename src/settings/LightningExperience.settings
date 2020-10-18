@@ -4,6 +4,7 @@
     <enableApiUserLtngOutAccessPref>false</enableApiUserLtngOutAccessPref>
     <enableAuraCDNPref>false</enableAuraCDNPref>
     <enableAuraDepAccessChksCRUCPref>false</enableAuraDepAccessChksCRUCPref>
+    <enableAuraSecStaticResCRUCPref>false</enableAuraSecStaticResCRUCPref>
     <enableFeedbackInMobile>true</enableFeedbackInMobile>
     <enableIE11DeprecationMsgHidden>false</enableIE11DeprecationMsgHidden>
     <enableIE11LEXCrucPref>true</enableIE11LEXCrucPref>
@@ -18,20 +19,17 @@
     <enableLEXOnIpadEnabled>false</enableLEXOnIpadEnabled>
     <enableLexEndUsersNoSwitching>false</enableLexEndUsersNoSwitching>
     <enableNavPersonalizationOptOut>false</enableNavPersonalizationOptOut>
+    <enableNoBackgroundNavigations>false</enableNoBackgroundNavigations>
+    <enableQuip>false</enableQuip>
     <enableRemoveThemeBrandBanner>false</enableRemoveThemeBrandBanner>
     <enableS1BannerPref>true</enableS1BannerPref>
     <enableS1BrowserEnabled>true</enableS1BrowserEnabled>
     <enableS1DesktopEnabled>true</enableS1DesktopEnabled>
     <enableS1UiLoggingEnabled>true</enableS1UiLoggingEnabled>
-    <enableSkypeChatEnabled>false</enableSkypeChatEnabled>
-    <enableSparkAllUsers>false</enableSparkAllUsers>
-    <enableSparkConversationEnabled>false</enableSparkConversationEnabled>
     <enableSplitViewOnStandard>false</enableSplitViewOnStandard>
     <enableTryLightningOptOut>false</enableTryLightningOptOut>
     <enableUseS1AlohaDesktop>false</enableUseS1AlohaDesktop>
     <enableUsersAreLightningOnly>false</enableUsersAreLightningOnly>
-    <enableWebExEnabled>false</enableWebExEnabled>
-    <enableWebexAllUsers>false</enableWebexAllUsers>
     <isLEXExtensionComponentCustomizationOff>false</isLEXExtensionComponentCustomizationOff>
     <isLEXExtensionDarkModeOff>false</isLEXExtensionDarkModeOff>
     <isLEXExtensionLinkGrabberOff>false</isLEXExtensionLinkGrabberOff>

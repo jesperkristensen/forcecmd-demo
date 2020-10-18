@@ -401,6 +401,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ActivityRecurrence2Exception</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Asset</members>
         <name>CustomObject</name>
     </types>
@@ -914,6 +918,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>EntityImplements</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>EscalationRule</name>
     </types>
     <types>
@@ -963,6 +971,10 @@
     <types>
         <members>*</members>
         <name>FlowDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>GatewayProviderPaymentMethodType</name>
     </types>
     <types>
         <members>*</members>
@@ -2245,6 +2257,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>ActivityRecurrence2Exception</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Asset</members>
         <name>SharingRules</name>
     </types>
@@ -2398,6 +2414,10 @@
     </types>
     <types>
         <members>PartyConsent</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Product2</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2853,6 +2873,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>AppAnalytics</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>AppExperience</members>
         <name>Settings</name>
     </types>
@@ -3137,6 +3161,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>RecommendationBuilder</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>RecordPage</members>
         <name>Settings</name>
     </types>
@@ -3158,6 +3186,10 @@
     </types>
     <types>
         <members>ServiceCloudVoice</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ServiceSetupAssistant</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3220,5 +3252,5 @@
         <members>WorkDotCom</members>
         <name>Settings</name>
     </types>
-    <version>49.0</version>
+    <version>50.0</version>
 </Package>

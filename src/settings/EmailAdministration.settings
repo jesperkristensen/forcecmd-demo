@@ -15,7 +15,6 @@
     <enableRestrictTlsToDomains>false</enableRestrictTlsToDomains>
     <enableSendViaExchangePref>false</enableSendViaExchangePref>
     <enableSendViaGmailPref>false</enableSendViaGmailPref>
-    <enableSetMatchingEmailsOnBounce>false</enableSetMatchingEmailsOnBounce>
     <enableUseOrgFootersForExtTrans>false</enableUseOrgFootersForExtTrans>
     <sendEmailsEvenWhenAutomationUpdatesSameRecord>false</sendEmailsEvenWhenAutomationUpdatesSameRecord>
     <sendMassEmailNotification>true</sendMassEmailNotification>

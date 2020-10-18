@@ -4,17 +4,14 @@
     <analyticsAdoptionMetadata>false</analyticsAdoptionMetadata>
     <canAccessAnalyticsViaAPI>false</canAccessAnalyticsViaAPI>
     <canAnnotateDashboards>false</canAnnotateDashboards>
-    <canEnableLiveMetrics>false</canEnableLiveMetrics>
     <canEnableSavedView>true</canEnableSavedView>
     <canExploreDataConversationally>false</canExploreDataConversationally>
     <canShareAppsWithCommunities>false</canShareAppsWithCommunities>
-    <canSubscribeDashboardWidgets>false</canSubscribeDashboardWidgets>
     <canViewThumbnailAssets>false</canViewThumbnailAssets>
     <enableAnalyticsSharingEnable>true</enableAnalyticsSharingEnable>
     <enableAutoCompleteCombo>true</enableAutoCompleteCombo>
     <enableDashboardComponentSnapshot>false</enableDashboardComponentSnapshot>
     <enableDashboardFlexiTable>true</enableDashboardFlexiTable>
-    <enableDataBlending>false</enableDataBlending>
     <enableEmailReportsToPortalUsers>false</enableEmailReportsToPortalUsers>
     <enableFirebirdEditor>false</enableFirebirdEditor>
     <enableFloatingReportHeaders>true</enableFloatingReportHeaders>
@@ -23,21 +20,26 @@
     <enableLotusNotesImages>false</enableLotusNotesImages>
     <enableMassEnableReportBuilder>true</enableMassEnableReportBuilder>
     <enableNewChartsEngine>true</enableNewChartsEngine>
-    <enableOrgHasWatchlistEnabled>false</enableOrgHasWatchlistEnabled>
+    <enableOrgHasWatchlistEnabled>true</enableOrgHasWatchlistEnabled>
     <enableQueryLiveConnectors>false</enableQueryLiveConnectors>
     <enableRemoveFooterForRepDisplay>false</enableRemoveFooterForRepDisplay>
     <enableRemoveFooterFromRepExp>false</enableRemoveFooterFromRepExp>
+    <enableReportCrtAutoAddPref>false</enableReportCrtAutoAddPref>
     <enableReportNotificationsEnable>true</enableReportNotificationsEnable>
+    <enableRequestPrioritySchdl>false</enableRequestPrioritySchdl>
     <enableS1AnalyticsEclairEnable>true</enableS1AnalyticsEclairEnable>
     <enableS3OutputConnector>false</enableS3OutputConnector>
     <enableSFXJoinedReportsEnable>false</enableSFXJoinedReportsEnable>
-    <enableSubscriptionAttachmentPref>false</enableSubscriptionAttachmentPref>
+    <enableSecureImageSharing>false</enableSecureImageSharing>
+    <enableSnowflakeOutputConnector>false</enableSnowflakeOutputConnector>
     <enableUseOldChartsLookAndFeel>false</enableUseOldChartsLookAndFeel>
+    <enableWaveAssetsNewDateVersion>false</enableWaveAssetsNewDateVersion>
+    <enableWaveIndexMVDim>true</enableWaveIndexMVDim>
     <enableWaveRecordNavigation>false</enableWaveRecordNavigation>
     <enableWaveReplication>false</enableWaveReplication>
     <enableWaveSharingInheritance>false</enableWaveSharingInheritance>
-    <enableWaveTemplate>false</enableWaveTemplate>
     <enableWaveTrendedDatasetCleanup>false</enableWaveTrendedDatasetCleanup>
+    <maxHoursAppInProgress>48</maxHoursAppInProgress>
     <replaceBlankMeasuresWithNulls>false</replaceBlankMeasuresWithNulls>
     <turnOnTimeZones>false</turnOnTimeZones>
 </AnalyticsSettings>

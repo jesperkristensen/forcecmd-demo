@@ -179,6 +179,15 @@
         <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
     </fields>
+    <fields>
+        <fullName>PreferenceRank</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>UsageType</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+    </fields>
     <searchLayouts>
         <customTabListAdditionalFields>Parent</customTabListAdditionalFields>
         <customTabListAdditionalFields>ActiveFromDate</customTabListAdditionalFields>

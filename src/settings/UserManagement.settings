@@ -8,4 +8,5 @@
     <enableNewProfileUI>false</enableNewProfileUI>
     <enableScrambleUserData>false</enableScrambleUserData>
     <enableUserSelfDeactivate>false</enableUserSelfDeactivate>
+    <restrictedProfileCloning>false</restrictedProfileCloning>
 </UserManagementSettings>
