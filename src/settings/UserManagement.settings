@@ -6,6 +6,7 @@
     <enableEnhancedPermsetMgmt>false</enableEnhancedPermsetMgmt>
     <enableEnhancedProfileMgmt>true</enableEnhancedProfileMgmt>
     <enableNewProfileUI>false</enableNewProfileUI>
+    <enableProfileFiltering>false</enableProfileFiltering>
     <enableScrambleUserData>false</enableScrambleUserData>
     <enableUserSelfDeactivate>false</enableUserSelfDeactivate>
     <restrictedProfileCloning>false</restrictedProfileCloning>
