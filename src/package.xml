@@ -2981,6 +2981,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>EmployeeUser</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>EncryptionKey</members>
         <name>Settings</name>
     </types>
