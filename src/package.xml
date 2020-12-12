@@ -697,6 +697,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ProcessException</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Product2</members>
         <name>CustomObject</name>
     </types>
@@ -1233,6 +1237,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>ProcessException-Procesundtagelse-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Product2-Product Layout</members>
         <name>Layout</name>
     </types>
@@ -1622,6 +1630,10 @@
     </types>
     <types>
         <members>PaymentGroup.PaymentGroup</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ProcessException.all_process_exceptions</members>
         <name>ListView</name>
     </types>
     <types>
@@ -2414,6 +2426,10 @@
     </types>
     <types>
         <members>PartyConsent</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ProcessException</members>
         <name>SharingRules</name>
     </types>
     <types>

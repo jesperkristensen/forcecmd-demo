@@ -1942,6 +1942,9 @@
         <layout>PaymentGroup-Betalingsgruppe-layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>ProcessException-Procesundtagelse-layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Refund-Refusion-layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2112,6 +2115,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Pricebook2</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>standard-ProcessException</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
