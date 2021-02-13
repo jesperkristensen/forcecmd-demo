@@ -122,6 +122,9 @@
         <fullName>Amount</fullName>
     </fields>
     <fields>
+        <fullName>Balance</fullName>
+    </fields>
+    <fields>
         <fullName>Comments</fullName>
     </fields>
     <fields>
@@ -183,6 +186,12 @@
     </fields>
     <fields>
         <fullName>Status</fullName>
+    </fields>
+    <fields>
+        <fullName>TotalAuthReversalAmount</fullName>
+    </fields>
+    <fields>
+        <fullName>TotalPaymentCaptureAmount</fullName>
     </fields>
     <listViews>
         <fullName>PaymentAuthorization</fullName>

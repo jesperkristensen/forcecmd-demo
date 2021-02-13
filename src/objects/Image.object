@@ -130,34 +130,44 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>AlternateText</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>CapturedAngle</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>ContentDocumentId</fullName>
+        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>ImageClass</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>ImageClassObjectType</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>ImageViewType</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>IsActive</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Name</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Title</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Url</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <searchLayouts>
         <customTabListAdditionalFields>LastModifiedBy</customTabListAdditionalFields>

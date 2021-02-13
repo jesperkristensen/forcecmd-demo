@@ -405,7 +405,27 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Address</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AlternativePaymentMethod</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ApiAnomalyEventStore</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Asset</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AssetAction</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AssetActionSource</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -413,7 +433,15 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>AssetStatePeriod</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>AssistantProgress</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AssociatedLocation</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -533,6 +561,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>CredentialStuffingEventStore</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>DandBCompany</members>
         <name>CustomObject</name>
     </types>
@@ -589,6 +621,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>FinanceBalanceSnapshot</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>FinanceTransaction</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Idea</members>
         <name>CustomObject</name>
     </types>
@@ -609,6 +649,26 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>LearningAssignment</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>LearningAssignmentProgress</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>LearningLinkProgress</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>LegalEntity</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Location</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Macro</members>
         <name>CustomObject</name>
     </types>
@@ -622,6 +682,10 @@
     </types>
     <types>
         <members>MacroUsage</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ManagedContentVersion</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -670,6 +734,10 @@
     </types>
     <types>
         <members>Payment</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>PaymentAuthAdjustment</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -741,6 +809,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ReportAnomalyEventStore</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Scorecard</members>
         <name>CustomObject</name>
     </types>
@@ -750,6 +822,10 @@
     </types>
     <types>
         <members>ScorecardMetric</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>SessionHijackingEventStore</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1041,7 +1117,27 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Address-Adresse-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Asset-Asset Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>AssetAction-Aktivhandling-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>AssetActionSource-Aktivhandlingskilde-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>AssetStatePeriod-Aktivtilstandsperiode-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>AssociatedLocation-Tilknyttet placering-layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1149,6 +1245,14 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>FinanceBalanceSnapshot-Øjebliksbillede af finansiel saldo-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>FinanceTransaction-Økonomisk transaktion-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Global-Global Layout</members>
         <name>Layout</name>
     </types>
@@ -1174,6 +1278,14 @@
     </types>
     <types>
         <members>Lead-Lead Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>LegalEntity-Juridisk enhed-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Location-Placering-layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1373,6 +1485,18 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>AssetAction.AssetAction</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>AssetActionSource.AssetActionSource</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>AssetStatePeriod.AssetStatePeriod</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>AuthorizationForm.All_AuthorizationForms</members>
         <name>ListView</name>
     </types>
@@ -1517,6 +1641,14 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>Employee.AllEmployees</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Employee.EmployeesWithoutUser</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>EngagementChannelType.All_EngagementChannelTypes</members>
         <name>ListView</name>
     </types>
@@ -1541,7 +1673,19 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>FinanceBalanceSnapshot.mine</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>FinanceTransaction.mine</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>Idea.Ideas_Last_7_Days</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>InternalOrganizationUnit.AllInternalOrganizationUnits</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1562,6 +1706,10 @@
     </types>
     <types>
         <members>Lead.ViewCustom2</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>LegalEntity.mine</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1831,6 +1979,10 @@
     <types>
         <members>*</members>
         <name>PlatformEventChannelMember</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PlatformEventSubscriberConfig</name>
     </types>
     <types>
         <members>*</members>
@@ -2273,6 +2425,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>AlternativePaymentMethod</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Asset</members>
         <name>SharingRules</name>
     </types>
@@ -2377,6 +2533,14 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>FinanceBalanceSnapshot</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>FinanceTransaction</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>FlowInterview</members>
         <name>SharingRules</name>
     </types>
@@ -2397,7 +2561,15 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>LegalEntity</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>ListEmail</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Location</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -3097,6 +3269,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Meetings</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Mobile</members>
         <name>Settings</name>
     </types>
@@ -3178,6 +3354,10 @@
     </types>
     <types>
         <members>Quote</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>RealTimeEvent</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3272,5 +3452,5 @@
         <members>WorkDotCom</members>
         <name>Settings</name>
     </types>
-    <version>50.0</version>
+    <version>51.0</version>
 </Package>
