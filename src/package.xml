@@ -405,10 +405,6 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Address</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
         <members>AlternativePaymentMethod</members>
         <name>CustomObject</name>
     </types>
@@ -438,10 +434,6 @@
     </types>
     <types>
         <members>AssistantProgress</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>AssociatedLocation</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -662,10 +654,6 @@
     </types>
     <types>
         <members>LegalEntity</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Location</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1117,10 +1105,6 @@
         <name>Layout</name>
     </types>
     <types>
-        <members>Address-Adresse-layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
         <members>Asset-Asset Layout</members>
         <name>Layout</name>
     </types>
@@ -1134,10 +1118,6 @@
     </types>
     <types>
         <members>AssetStatePeriod-Aktivtilstandsperiode-layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>AssociatedLocation-Tilknyttet placering-layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1282,10 +1262,6 @@
     </types>
     <types>
         <members>LegalEntity-Juridisk enhed-layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Location-Placering-layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1641,14 +1617,6 @@
         <name>ListView</name>
     </types>
     <types>
-        <members>Employee.AllEmployees</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>Employee.EmployeesWithoutUser</members>
-        <name>ListView</name>
-    </types>
-    <types>
         <members>EngagementChannelType.All_EngagementChannelTypes</members>
         <name>ListView</name>
     </types>
@@ -1682,10 +1650,6 @@
     </types>
     <types>
         <members>Idea.Ideas_Last_7_Days</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>InternalOrganizationUnit.AllInternalOrganizationUnits</members>
         <name>ListView</name>
     </types>
     <types>
@@ -2566,10 +2530,6 @@
     </types>
     <types>
         <members>ListEmail</members>
-        <name>SharingRules</name>
-    </types>
-    <types>
-        <members>Location</members>
         <name>SharingRules</name>
     </types>
     <types>
