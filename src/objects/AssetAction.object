@@ -135,6 +135,9 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>CategoryEnum</fullName>
+    </fields>
+    <fields>
         <fullName>EstimatedTaxChange</fullName>
     </fields>
     <fields>
@@ -197,9 +200,11 @@
         <customTabListAdditionalFields>Asset</customTabListAdditionalFields>
         <customTabListAdditionalFields>Type</customTabListAdditionalFields>
         <customTabListAdditionalFields>Category</customTabListAdditionalFields>
+        <customTabListAdditionalFields>CategoryEnum</customTabListAdditionalFields>
         <searchResultsAdditionalFields>Asset</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Type</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Category</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>CategoryEnum</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>

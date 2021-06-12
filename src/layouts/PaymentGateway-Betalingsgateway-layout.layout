@@ -24,6 +24,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>ExternalReference</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>Comments</field>
             </layoutItems>
         </layoutColumns>

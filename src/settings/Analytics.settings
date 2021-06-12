@@ -25,7 +25,6 @@
     <enableQueryLiveConnectors>false</enableQueryLiveConnectors>
     <enableRemoveFooterForRepDisplay>false</enableRemoveFooterForRepDisplay>
     <enableRemoveFooterFromRepExp>false</enableRemoveFooterFromRepExp>
-    <enableReportCrtAutoAddPref>false</enableReportCrtAutoAddPref>
     <enableReportHideXlsExportPref>false</enableReportHideXlsExportPref>
     <enableReportNotificationsEnable>true</enableReportNotificationsEnable>
     <enableRequestPrioritySchdl>false</enableRequestPrioritySchdl>
@@ -35,16 +34,20 @@
     <enableSalesforceOutputConnector>false</enableSalesforceOutputConnector>
     <enableSecureImageSharing>false</enableSecureImageSharing>
     <enableSnowflakeOutputConnector>false</enableSnowflakeOutputConnector>
+    <enableSqlDataset>false</enableSqlDataset>
     <enableSqlLiveDataset>false</enableSqlLiveDataset>
     <enableTableauHyperOutputConnector>false</enableTableauHyperOutputConnector>
     <enableUseOldChartsLookAndFeel>false</enableUseOldChartsLookAndFeel>
     <enableWaveAssetsNewDateVersion>false</enableWaveAssetsNewDateVersion>
     <enableWaveIndexMVDim>true</enableWaveIndexMVDim>
+    <enableWaveIndexMVDimV2>false</enableWaveIndexMVDimV2>
     <enableWaveRecordNavigation>false</enableWaveRecordNavigation>
     <enableWaveReplication>false</enableWaveReplication>
     <enableWaveSharingInheritance>false</enableWaveSharingInheritance>
+    <enableWaveSqlInQueryApi>false</enableWaveSqlInQueryApi>
     <enableWaveTrendedDatasetCleanup>false</enableWaveTrendedDatasetCleanup>
     <maxHoursAppInProgress>48</maxHoursAppInProgress>
+    <recipePreCachingOptOut>false</recipePreCachingOptOut>
     <replaceBlankMeasuresWithNulls>false</replaceBlankMeasuresWithNulls>
     <sonicEnabled>false</sonicEnabled>
     <turnOnTimeZones>false</turnOnTimeZones>

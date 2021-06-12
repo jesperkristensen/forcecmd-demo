@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<LightningExperienceSettings xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<LightningExperienceSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableAccessCheckCrucPref>false</enableAccessCheckCrucPref>
     <enableApiUserLtngOutAccessPref>false</enableApiUserLtngOutAccessPref>
     <enableAuraCDNPref>false</enableAuraCDNPref>
@@ -25,7 +25,6 @@
     <enableS1BrowserEnabled>true</enableS1BrowserEnabled>
     <enableS1DesktopEnabled>true</enableS1DesktopEnabled>
     <enableS1UiLoggingEnabled>true</enableS1UiLoggingEnabled>
-    <enableSplitViewOnStandard xsi:nil="true"/>
     <enableTryLightningOptOut>false</enableTryLightningOptOut>
     <enableUseS1AlohaDesktop>false</enableUseS1AlohaDesktop>
     <enableUsersAreLightningOnly>false</enableUsersAreLightningOnly>

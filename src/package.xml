@@ -2,6 +2,14 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>*</members>
+        <name>AIApplication</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AIApplicationConfig</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ActionLinkGroupTemplate</name>
     </types>
     <types>
@@ -557,6 +565,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>CreditMemo</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>CreditMemoLine</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>DandBCompany</members>
         <name>CustomObject</name>
     </types>
@@ -633,6 +649,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Invoice</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>InvoiceLine</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Lead</members>
         <name>CustomObject</name>
     </types>
@@ -654,6 +678,18 @@
     </types>
     <types>
         <members>LegalEntity</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>MLModel</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>MLModelFactor</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>MLModelFactorComponent</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -741,6 +777,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>PaymentLineInvoice</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>PaymentMethod</members>
         <name>CustomObject</name>
     </types>
@@ -766,6 +806,10 @@
     </types>
     <types>
         <members>PromptAction</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>PromptError</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1070,6 +1114,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>IPAddressRange</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>IframeWhiteListUrlSettings</name>
     </types>
     <types>
@@ -1201,6 +1249,14 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>CreditMemo-Kreditnota-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>CreditMemoLine-Kreditnotalinje-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>DandBCompany-D&amp;B Company Layout</members>
         <name>Layout</name>
     </types>
@@ -1242,6 +1298,14 @@
     </types>
     <types>
         <members>Individual-Enkeltperson-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Invoice-Faktura-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>InvoiceLine-Fakturalinje-layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1314,6 +1378,10 @@
     </types>
     <types>
         <members>PaymentGroup-Betalingsgruppe-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>PaymentLineInvoice-Betaling for fakturalinje-layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1605,6 +1673,10 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>CreditMemo.mine</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>DataUseLegalBasis.All_DataUseLegalBases</members>
         <name>ListView</name>
     </types>
@@ -1650,6 +1722,10 @@
     </types>
     <types>
         <members>Idea.Ideas_Last_7_Days</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Invoice.mine</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1745,6 +1821,10 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>PaymentLineInvoice.PaymentLineInvoice</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>ProcessException.all_process_exceptions</members>
         <name>ListView</name>
     </types>
@@ -1827,6 +1907,14 @@
     <types>
         <members>WorkFeedbackTemplate.All</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>MLDataDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>MLPredictionDefinition</name>
     </types>
     <types>
         <members>*</members>
@@ -2029,6 +2117,10 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>External Apps Login User</members>
+        <name>Profile</name>
+    </types>
+    <types>
         <members>External Identity User</members>
         <name>Profile</name>
     </types>
@@ -2081,7 +2173,7 @@
         <name>Profile</name>
     </types>
     <types>
-        <members>ReadOnly</members>
+        <members>Read Only</members>
         <name>Profile</name>
     </types>
     <types>
@@ -2477,6 +2569,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>CreditMemo</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>DataUseLegalBasis</members>
         <name>SharingRules</name>
     </types>
@@ -2518,6 +2614,10 @@
     </types>
     <types>
         <members>Individual</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Invoice</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2570,6 +2670,10 @@
     </types>
     <types>
         <members>PromptAction</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>PromptError</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -3061,6 +3165,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Commerce</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Communities</members>
         <name>Settings</name>
     </types>
@@ -3126,6 +3234,10 @@
     </types>
     <types>
         <members>EmailTemplate</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EmployeeFieldAccess</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3229,6 +3341,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>MailMerge</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Meetings</members>
         <name>Settings</name>
     </types>
@@ -3262,6 +3378,10 @@
     </types>
     <types>
         <members>Order</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>OrderManagement</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3412,5 +3532,5 @@
         <members>WorkDotCom</members>
         <name>Settings</name>
     </types>
-    <version>51.0</version>
+    <version>52.0</version>
 </Package>

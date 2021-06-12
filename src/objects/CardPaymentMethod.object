@@ -180,6 +180,9 @@
         <fullName>GatewayTokenDetails</fullName>
     </fields>
     <fields>
+        <fullName>GatewayTokenEncrypted</fullName>
+    </fields>
+    <fields>
         <fullName>InputCardNumber</fullName>
     </fields>
     <fields>

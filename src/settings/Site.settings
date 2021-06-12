@@ -2,5 +2,4 @@
 <SiteSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableProxyLoginICHeader>true</enableProxyLoginICHeader>
     <enableTopicsInSites>false</enableTopicsInSites>
-    <enableVisualforceApiAccessAllowed>false</enableVisualforceApiAccessAllowed>
 </SiteSettings>

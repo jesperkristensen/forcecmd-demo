@@ -5,6 +5,7 @@
     <enableEmailSenderIdCompliance>false</enableEmailSenderIdCompliance>
     <enableEmailSpfCompliance>true</enableEmailSpfCompliance>
     <enableEmailToSalesforce>false</enableEmailToSalesforce>
+    <enableEmailTrackingIPBlocklist>false</enableEmailTrackingIPBlocklist>
     <enableEmailWorkflowApproval>false</enableEmailWorkflowApproval>
     <enableEnhancedEmailEnabled>true</enableEnhancedEmailEnabled>
     <enableHandleBouncedEmails>true</enableHandleBouncedEmails>

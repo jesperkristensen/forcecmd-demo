@@ -3,22 +3,6 @@
     <description>Add content using any file type or an external URL.</description>
     <developerName>cms_document</developerName>
     <managedContentNodeTypes>
-        <helpText>Enter the file name.</helpText>
-        <isLocalizable>true</isLocalizable>
-        <isRequired>true</isRequired>
-        <nodeLabel>Title</nodeLabel>
-        <nodeName>title</nodeName>
-        <nodeType>NAMEFIELD</nodeType>
-    </managedContentNodeTypes>
-    <managedContentNodeTypes>
-        <helpText>Enter a brief description of the document.</helpText>
-        <isLocalizable>true</isLocalizable>
-        <isRequired>false</isRequired>
-        <nodeLabel>Alt Text</nodeLabel>
-        <nodeName>altText</nodeName>
-        <nodeType>MTEXT</nodeType>
-    </managedContentNodeTypes>
-    <managedContentNodeTypes>
         <helpText>Adds media to your content from a desktop file or URL link. Make sure the domain for your URL is allowed by your org so your users can access it.</helpText>
         <isLocalizable>false</isLocalizable>
         <isRequired>true</isRequired>
@@ -33,6 +17,22 @@
         <nodeLabel>Link to Thumbnail</nodeLabel>
         <nodeName>thumbUrl</nodeName>
         <nodeType>URL</nodeType>
+    </managedContentNodeTypes>
+    <managedContentNodeTypes>
+        <helpText>Enter the file name.</helpText>
+        <isLocalizable>true</isLocalizable>
+        <isRequired>true</isRequired>
+        <nodeLabel>Title</nodeLabel>
+        <nodeName>title</nodeName>
+        <nodeType>NAMEFIELD</nodeType>
+    </managedContentNodeTypes>
+    <managedContentNodeTypes>
+        <helpText>Enter a brief description of the document.</helpText>
+        <isLocalizable>true</isLocalizable>
+        <isRequired>false</isRequired>
+        <nodeLabel>Alt Text</nodeLabel>
+        <nodeName>altText</nodeName>
+        <nodeType>MTEXT</nodeType>
     </managedContentNodeTypes>
     <masterLabel>Document</masterLabel>
 </ManagedContentType>

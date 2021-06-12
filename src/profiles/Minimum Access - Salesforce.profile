@@ -991,14 +991,14 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>ContactPointAddress.PreferenceRank</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>ContactPointAddress.UsageType</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -1993,6 +1993,12 @@
         <layout>CardPaymentMethod-Kortbetalingsmetode-layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>CreditMemo-Kreditnota-layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CreditMemoLine-Kreditnotalinje-layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>DigitalWallet-Digital wallet-layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2000,6 +2006,12 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>FinanceTransaction-Økonomisk transaktion-layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Invoice-Faktura-layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>InvoiceLine-Fakturalinje-layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>LegalEntity-Juridisk enhed-layout</layout>
@@ -2018,6 +2030,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>PaymentGroup-Betalingsgruppe-layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>PaymentLineInvoice-Betaling for fakturalinje-layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ProcessException-Procesundtagelse-layout</layout>
@@ -2140,6 +2155,10 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>standard-CreditMemo</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>standard-DandBCompany</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
@@ -2184,6 +2203,10 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>standard-Invoice</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>standard-Lead</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
@@ -2221,6 +2244,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-PaymentGateway</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>standard-PaymentLineInvoice</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
