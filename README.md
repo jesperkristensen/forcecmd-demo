@@ -9,3 +9,10 @@ This repository is an example of how to do this using completely in the cloud us
 In this example, all Salesforce metadata is automatically downloaded on a regular schedule and committed to Git.
 This branch contains both the GitHub Actions YAML configuration files, as well as the backed up metadata.
 To back up sandboxes, create a branch for each sandbox.
+
+Setup guide:
+1. Create a repository in GitHub.
+2. Add the files `forcecmd.json`, `package.json`, `.github/workflows/git_backup.yml` and `.github/workflows/run_tests.yml` to the repository.
+3. Edit `forcecmd.json` to configure hostname, username and other desired configuration.
+4. Commit and push the changes.
+5. In `Settings` -> `Secrets and variables` -> `Actions` -> `Repository secrets` add a secret named `SALESFORCE_PASSWORD` with the Salesforce user's password and security token.
