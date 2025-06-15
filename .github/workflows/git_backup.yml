@@ -1,0 +1,22 @@
+name: git_backup
+on:
+  schedule:
+  - cron: "0 4 * * *"
+  workflow_dispatch:
+jobs:
+  git_backup:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Setup Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22.x'
+    - name: npm install
+      run: npm install
+    - name: forcecmd retrieve
+      run: npx forcecmd retrieve
+      env:
+        FORCEPW: ${{ secrets.SALESFORCE_PASSWORD }}
+    - name: git commit and push
+      run: git add -A && git config user.name "GitHub Actions" && git config user.email "actions@actions" && git commit -m retrieve && git push

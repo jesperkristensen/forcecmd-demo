@@ -1,0 +1,7 @@
+{
+  "name": "forcecmd-demo",
+  "version": "0.0.0",
+  "dependencies": {
+    "forcecmd": "jesperkristensen/forcecmd"
+  }
+}
