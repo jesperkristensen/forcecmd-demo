@@ -129,6 +129,11 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <fields>
+        <fullName>CommunicationSubscriptionCode</fullName>
+        <inlineHelpText>The code associated with the communication subscription.</inlineHelpText>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>DataUsePurposeId</fullName>
         <inlineHelpText>The data use purpose record associated with the communication subscription.</inlineHelpText>
         <trackHistory>false</trackHistory>

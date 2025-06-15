@@ -2,6 +2,7 @@
 <ManagedContentType xmlns="http://soap.sforce.com/2006/04/metadata">
     <description>Add media files, such as PNG or JPEG, or link to a URL.</description>
     <developerName>cms_image</developerName>
+    <isMetadataContent>false</isMetadataContent>
     <managedContentNodeTypes>
         <helpText>Adds media to your content from a desktop file or URL link. Make sure the domain for your URL is allowed by your org so your users can access it.</helpText>
         <isLocalizable>false</isLocalizable>

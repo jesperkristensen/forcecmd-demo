@@ -107,6 +107,22 @@
         <fullName>ChargeTaxAmount</fullName>
     </fields>
     <fields>
+        <fullName>CorpCurrencyCnvChargeAmt</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>CorpCurrencyCnvTotalTaxAmt</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>CorporateCurrencyCvsnDate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>CorporateCurrencyCvsnRate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>CreditMemoId</fullName>
         <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
@@ -128,6 +144,11 @@
     </fields>
     <fields>
         <fullName>Product2Id</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>ReferenceEntityItemId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>

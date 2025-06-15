@@ -150,6 +150,11 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>OwnerId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>RevisionNumber</fullName>
         <trackHistory>false</trackHistory>
     </fields>

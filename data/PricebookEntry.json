@@ -1,15 +1,5 @@
 [
     {
-        "Product2Id": "01t58000003PgkkAAC",
-        "Pricebook2Id": "01s58000003vwydAAA",
-        "UnitPrice": 25000
-    },
-    {
-        "Product2Id": "01t58000003PgklAAC",
-        "Pricebook2Id": "01s58000003vwydAAA",
-        "UnitPrice": 5000
-    },
-    {
         "Product2Id": "01t58000003PgkmAAC",
         "Pricebook2Id": "01s58000003vwydAAA",
         "UnitPrice": 85000
@@ -83,6 +73,16 @@
         "Product2Id": "01t58000003Pgl0AAC",
         "Pricebook2Id": "01s58000003vwydAAA",
         "UnitPrice": 50000
+    },
+    {
+        "Product2Id": "01t58000003PgkkAAC",
+        "Pricebook2Id": "01s58000003vwydAAA",
+        "UnitPrice": 25000
+    },
+    {
+        "Product2Id": "01t58000003PgklAAC",
+        "Pricebook2Id": "01s58000003vwydAAA",
+        "UnitPrice": 5000
     },
     {
         "Product2Id": "01t58000003PgkkAAC",

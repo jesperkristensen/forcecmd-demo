@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ActivitiesSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+<ActivitiesSettings xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <allowUsersToRelateMultipleContactsToTasksAndEvents>false</allowUsersToRelateMultipleContactsToTasksAndEvents>
     <autoRelateEventAttendees>false</autoRelateEventAttendees>
     <enableActivityReminders>true</enableActivityReminders>
+    <enableCalendarHomeLWC>false</enableCalendarHomeLWC>
     <enableClickCreateEvents>false</enableClickCreateEvents>
     <enableDragAndDropScheduling>true</enableDragAndDropScheduling>
     <enableEmailTracking>true</enableEmailTracking>
@@ -18,6 +19,7 @@
     <enableRollUpActivToContactsAcct>true</enableRollUpActivToContactsAcct>
     <enableSidebarCalendarShortcut>false</enableSidebarCalendarShortcut>
     <enableSimpleTaskCreateUI>true</enableSimpleTaskCreateUI>
+    <enableTimelineCompDateSort xsi:nil="true"/>
     <enableUNSTaskDelegatedToNotifications>true</enableUNSTaskDelegatedToNotifications>
     <enableUserListViewCalendars>false</enableUserListViewCalendars>
     <showCustomLogoMeetingRequests>false</showCustomLogoMeetingRequests>

@@ -10,7 +10,7 @@
     </realTimeEvents>
     <realTimeEvents>
         <entityName>ApiAnomalyEventStore</entityName>
-        <isEnabled>false</isEnabled>
+        <isEnabled>true</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
         <entityName>ApiAnomalyEvent</entityName>
@@ -30,10 +30,34 @@
     </realTimeEvents>
     <realTimeEvents>
         <entityName>CredentialStuffingEventStore</entityName>
-        <isEnabled>false</isEnabled>
+        <isEnabled>true</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
         <entityName>CredentialStuffingEvent</entityName>
+        <isEnabled>false</isEnabled>
+    </realTimeEvents>
+    <realTimeEvents>
+        <entityName>FileEventStore</entityName>
+        <isEnabled>false</isEnabled>
+    </realTimeEvents>
+    <realTimeEvents>
+        <entityName>FileEvent</entityName>
+        <isEnabled>false</isEnabled>
+    </realTimeEvents>
+    <realTimeEvents>
+        <entityName>GuestUserAnomalyEventStore</entityName>
+        <isEnabled>true</isEnabled>
+    </realTimeEvents>
+    <realTimeEvents>
+        <entityName>GuestUserAnomalyEvent</entityName>
+        <isEnabled>false</isEnabled>
+    </realTimeEvents>
+    <realTimeEvents>
+        <entityName>LoginAnomalyEventStore</entityName>
+        <isEnabled>true</isEnabled>
+    </realTimeEvents>
+    <realTimeEvents>
+        <entityName>LoginAnomalyEvent</entityName>
         <isEnabled>false</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
@@ -85,6 +109,14 @@
         <isEnabled>false</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
+        <entityName>PermissionSetEventStore</entityName>
+        <isEnabled>false</isEnabled>
+    </realTimeEvents>
+    <realTimeEvents>
+        <entityName>PermissionSetEvent</entityName>
+        <isEnabled>false</isEnabled>
+    </realTimeEvents>
+    <realTimeEvents>
         <entityName>ReportEvent</entityName>
         <isEnabled>false</isEnabled>
     </realTimeEvents>
@@ -94,7 +126,7 @@
     </realTimeEvents>
     <realTimeEvents>
         <entityName>ReportAnomalyEventStore</entityName>
-        <isEnabled>false</isEnabled>
+        <isEnabled>true</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
         <entityName>ReportAnomalyEvent</entityName>
@@ -102,7 +134,7 @@
     </realTimeEvents>
     <realTimeEvents>
         <entityName>SessionHijackingEventStore</entityName>
-        <isEnabled>false</isEnabled>
+        <isEnabled>true</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
         <entityName>SessionHijackingEvent</entityName>

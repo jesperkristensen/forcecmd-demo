@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IncidentMgmtSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableAutoClosureOfChildIncident>false</enableAutoClosureOfChildIncident>
+    <enableAutoCreationOfProblem>false</enableAutoCreationOfProblem>
+    <enableChangeRequestValidations>false</enableChangeRequestValidations>
+    <enableChatToIncidentAi>false</enableChatToIncidentAi>
+    <enableCommonPriorityMatrix>false</enableCommonPriorityMatrix>
+    <enableDedupE2IncidentAttachment>false</enableDedupE2IncidentAttachment>
+    <enableEmailToIncident>false</enableEmailToIncident>
+    <enableEmailToIncidentAi>false</enableEmailToIncidentAi>
+    <enableITSMChangeMgmt>false</enableITSMChangeMgmt>
+    <enableITSMIncidentMgmt>false</enableITSMIncidentMgmt>
+    <enableITSMMajorIncParent>false</enableITSMMajorIncParent>
+    <enableITSMProblemMgmt>false</enableITSMProblemMgmt>
+    <enableIncidentValidations>false</enableIncidentValidations>
+    <enableProblemValidations>false</enableProblemValidations>
+    <enableRiskAssessment>false</enableRiskAssessment>
+    <enableSaveE2IncidentAttachment>false</enableSaveE2IncidentAttachment>
+</IncidentMgmtSettings>

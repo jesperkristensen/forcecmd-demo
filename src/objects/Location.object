@@ -214,23 +214,18 @@
         <type>Lookup</type>
     </fields>
     <fields>
-        <fullName>TimeZone</fullName>
+        <fullName>ShouldSyncWithOci</fullName>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>VisitorAddressId</fullName>
+        <fullName>TimeZone</fullName>
         <trackHistory>false</trackHistory>
-        <type>Lookup</type>
     </fields>
     <searchLayouts>
         <customTabListAdditionalFields>LocationType</customTabListAdditionalFields>
-        <customTabListAdditionalFields>VisitorAddress</customTabListAdditionalFields>
         <lookupDialogsAdditionalFields>LocationType</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>VisitorAddress</lookupDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>LocationType</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>VisitorAddress</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>LocationType</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>VisitorAddress</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

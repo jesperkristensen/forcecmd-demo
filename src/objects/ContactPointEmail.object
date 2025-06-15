@@ -173,6 +173,11 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>OwnerId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>ParentId</fullName>
         <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
@@ -186,6 +191,11 @@
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
+    <listViews>
+        <fullName>All_ContactPointEmails</fullName>
+        <filterScope>Everything</filterScope>
+        <label>Alle kontaktpunkts mails</label>
+    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>EmailAddress</customTabListAdditionalFields>
         <customTabListAdditionalFields>ActiveFromDate</customTabListAdditionalFields>

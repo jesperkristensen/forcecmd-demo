@@ -1,0 +1,11 @@
+<html>
+            Kære {!Receiving_User.FirstName}
+            <p>
+            Tag et nærmere kig på denne genbestillingsportal for at få en enklere måde til at afgive gentagne bestillinger hos {!Organization.Name}. Du kan se dine tidligere bestillinger, ændre mængder, oprette nye bestillinger og se bestillingsstatusser.
+            </p>
+            <p>
+            Klik på linket for at få adgang: <a href={!Community_URL}>{!Community_Name}</a>
+            </p>
+            Med venlig hilsen<br>
+            {!Sending_User.Name}
+            </html>

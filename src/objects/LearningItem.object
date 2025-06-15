@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>AssignedCount</fullName>
+    </fields>
+    <fields>
+        <fullName>CompletedCount</fullName>
+    </fields>
+    <fields>
+        <fullName>LearningContentId</fullName>
+    </fields>
+    <fields>
+        <fullName>LearningLinkId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Name</fullName>
+    </fields>
+    <fields>
+        <fullName>OwnerId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Type</fullName>
+    </fields>
+    <sharingModel>Private</sharingModel>
+</CustomObject>

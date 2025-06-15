@@ -185,6 +185,11 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>OwnerId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>ParentId</fullName>
         <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
@@ -206,6 +211,11 @@
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
+    <listViews>
+        <fullName>All_ContactPointPhones</fullName>
+        <filterScope>Everything</filterScope>
+        <label>Alle kontaktpunkters telefonnumre</label>
+    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>TelephoneNumber</customTabListAdditionalFields>
         <customTabListAdditionalFields>ActiveFromDate</customTabListAdditionalFields>

@@ -3,5 +3,6 @@
     <autoPopulateGoogleMeetLinks>false</autoPopulateGoogleMeetLinks>
     <enableInsightsInTimeline>true</enableInsightsInTimeline>
     <enableInsightsInTimelineEacStd>false</enableInsightsInTimelineEacStd>
+    <s2XSvcAccEmail>false</s2XSvcAccEmail>
     <syncInternalEvents>false</syncInternalEvents>
 </EACSettings>

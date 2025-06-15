@@ -3,12 +3,21 @@
     <enableCanAnswerContainUsername>true</enableCanAnswerContainUsername>
     <enableConcealPersonalInfo>true</enableConcealPersonalInfo>
     <enableContactlessExternalIdentityUsers>false</enableContactlessExternalIdentityUsers>
+    <enableEnhancedConcealPersonalInfo>false</enableEnhancedConcealPersonalInfo>
     <enableEnhancedPermsetMgmt>false</enableEnhancedPermsetMgmt>
     <enableEnhancedProfileMgmt>true</enableEnhancedProfileMgmt>
+    <enableEnhcUiUserAccessPolicies>false</enableEnhcUiUserAccessPolicies>
     <enableNewProfileUI>false</enableNewProfileUI>
     <enableProfileFiltering>false</enableProfileFiltering>
+    <enableRestrictEmailDomains>false</enableRestrictEmailDomains>
     <enableScrambleUserData>false</enableScrambleUserData>
     <enableUserSelfDeactivate>false</enableUserSelfDeactivate>
-    <psaExpirationUIEnabled>false</psaExpirationUIEnabled>
+    <enhancedPermSetList>false</enhancedPermSetList>
+    <enhancedUserListView>false</enhancedUserListView>
+    <enhancedUserRoleListView>false</enhancedUserRoleListView>
+    <groupSummaryUIEnhancement>true</groupSummaryUIEnhancement>
+    <permsetsInFieldCreation>false</permsetsInFieldCreation>
+    <psaExpirationUIEnabled>true</psaExpirationUIEnabled>
     <restrictedProfileCloning>false</restrictedProfileCloning>
+    <userAccessPoliciesEnabled>false</userAccessPoliciesEnabled>
 </UserManagementSettings>

@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MyDomainSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <areLegacyRedirectsMaintained>false</areLegacyRedirectsMaintained>
+    <areLgcyRdirMaintainedWntr26>false</areLgcyRdirMaintainedWntr26>
     <canOnlyLoginWithMyDomainUrl>false</canOnlyLoginWithMyDomainUrl>
     <doesApiLoginRequireOrgDomain>false</doesApiLoginRequireOrgDomain>
+    <doesWarnOnForceComRedirect>false</doesWarnOnForceComRedirect>
+    <doesWarnOnRedirect>false</doesWarnOnRedirect>
+    <domainPartition>none</domainPartition>
+    <enableCrossDomainPreviewCookies>true</enableCrossDomainPreviewCookies>
+    <enableEdgeDuringRollout>true</enableEdgeDuringRollout>
+    <enableExtendedRedirections>false</enableExtendedRedirections>
+    <enableLegacyRedirections>false</enableLegacyRedirections>
     <enableNativeBrowserForAuthOnAndroid>false</enableNativeBrowserForAuthOnAndroid>
     <enableNativeBrowserForAuthOnIos>false</enableNativeBrowserForAuthOnIos>
-    <myDomainSuffix>MySalesforceLimited</myDomainSuffix>
+    <enableShareBrowserSessionAndroidForAuth>false</enableShareBrowserSessionAndroidForAuth>
+    <enableShareBrowserSessionIOSForAuth>false</enableShareBrowserSessionIOSForAuth>
+    <instancedUrlRedirectHandling>NoRedirect</instancedUrlRedirectHandling>
+    <isFirstPartyCookieUseRequired>false</isFirstPartyCookieUseRequired>
+    <isInstancedApiTrafficBlocked>false</isInstancedApiTrafficBlocked>
+    <logRedirections>false</logRedirections>
+    <myDomainName>d580000004dqyea2-dev-ed</myDomainName>
+    <myDomainSuffix>MySalesforce</myDomainSuffix>
+    <onboardCustomerSpecificSuffix>false</onboardCustomerSpecificSuffix>
+    <redirectForceComSiteUrls>true</redirectForceComSiteUrls>
+    <redirectPriorMyDomain>true</redirectPriorMyDomain>
     <use3rdPartyCookieBlockingCompatibleHostnames>true</use3rdPartyCookieBlockingCompatibleHostnames>
     <useEdge>false</useEdge>
-    <useStabilizedMyDomainHostnames>false</useStabilizedMyDomainHostnames>
+    <useEnhancedDomainsInSandbox>true</useEnhancedDomainsInSandbox>
+    <useStabilizedMyDomainHostnames>true</useStabilizedMyDomainHostnames>
     <useStabilizedSandboxMyDomainHostnames>true</useStabilizedSandboxMyDomainHostnames>
 </MyDomainSettings>

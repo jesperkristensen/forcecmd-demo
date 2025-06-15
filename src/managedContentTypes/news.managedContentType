@@ -2,6 +2,7 @@
 <ManagedContentType xmlns="http://soap.sforce.com/2006/04/metadata">
     <description>A basic article format with rich text and image support.</description>
     <developerName>news</developerName>
+    <isMetadataContent>false</isMetadataContent>
     <managedContentNodeTypes>
         <isLocalizable>true</isLocalizable>
         <isRequired>true</isRequired>

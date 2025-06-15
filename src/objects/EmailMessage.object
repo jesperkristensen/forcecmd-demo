@@ -87,6 +87,9 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <fields>
+        <fullName>AutomationType</fullName>
+    </fields>
+    <fields>
         <fullName>BccAddress</fullName>
     </fields>
     <fields>

@@ -2,6 +2,7 @@
 <ManagedContentType xmlns="http://soap.sforce.com/2006/04/metadata">
     <description>Add content using any file type or an external URL.</description>
     <developerName>cms_document</developerName>
+    <isMetadataContent>false</isMetadataContent>
     <managedContentNodeTypes>
         <helpText>Adds media to your content from a desktop file or URL link. Make sure the domain for your URL is allowed by your org so your users can access it.</helpText>
         <isLocalizable>false</isLocalizable>

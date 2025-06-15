@@ -10,6 +10,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>ActionLauncherItemDef</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ActionLinkGroupTemplate</name>
     </types>
     <types>
@@ -51,6 +55,10 @@
     <types>
         <members>*</members>
         <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AppFrameworkTemplateBundle</name>
     </types>
     <types>
         <members>*</members>
@@ -126,6 +134,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>BriefcaseDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>BusinessProcess</name>
     </types>
     <types>
@@ -151,6 +163,10 @@
     <types>
         <members>*</members>
         <name>ChatterExtension</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ChoiceList</name>
     </types>
     <types>
         <members>*</members>
@@ -182,6 +198,18 @@
     </types>
     <types>
         <members>*</members>
+        <name>ContentTypeBundle</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ConvIntelligenceSignalRule</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ConversationMessageDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>CorsWhitelistOrigin</name>
     </types>
     <types>
@@ -201,11 +229,11 @@
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>standard__Chatter</members>
+        <members>standard__Approvals</members>
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>standard__Commerce</members>
+        <members>standard__Chatter</members>
         <name>CustomApplication</name>
     </types>
     <types>
@@ -217,11 +245,23 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>standard__DataGovernanceConsole</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>standard__FlowsApp</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>standard__LightningInstrumentation</members>
         <name>CustomApplication</name>
     </types>
     <types>
         <members>standard__LightningSales</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>standard__MSJApp</members>
         <name>CustomApplication</name>
     </types>
     <types>
@@ -234,6 +274,10 @@
     </types>
     <types>
         <members>standard__Sales</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>standard__SalesCloudMobile</members>
         <name>CustomApplication</name>
     </types>
     <types>
@@ -409,15 +453,23 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>ActivityRecurrence2Exception</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
         <members>AlternativePaymentMethod</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>ApiAnomalyEventStore</members>
+        <members>AnalyticsUserAttrFuncTkn</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ApprovalSubmission</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ApprovalSubmissionDetail</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ApprovalWorkItem</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -445,6 +497,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>AssociatedLocation</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>AuthorizationForm</members>
         <name>CustomObject</name>
     </types>
@@ -458,6 +514,10 @@
     </types>
     <types>
         <members>AuthorizationFormText</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>BusinessBrand</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -561,7 +621,11 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>CredentialStuffingEventStore</members>
+        <members>ConversationApiLog</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ConversationApiLogObjSum</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -569,11 +633,23 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>CreditMemoInvApplication</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>CreditMemoLine</members>
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Customer</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>DandBCompany</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DataMaskCustomValueLibrary</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -637,6 +713,26 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>FlowOrchestrationInstance</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>FlowOrchestrationLog</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>FlowOrchestrationStageInstance</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>FlowOrchestrationStepInstance</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>FlowOrchestrationWorkItem</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Idea</members>
         <name>CustomObject</name>
     </types>
@@ -673,11 +769,27 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>LearningItem</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>LearningLinkProgress</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>LegalEntity</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Location</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>LocationGroup</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>LocationGroupAssignment</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -709,7 +821,11 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>ManagedContentVersion</members>
+        <members>MessagingEndUser</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>MessagingSession</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -726,6 +842,10 @@
     </types>
     <types>
         <members>OpportunityLineItem</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>OpportunityRelatedDeleteLog</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -793,6 +913,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>PrivacyJobSession</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>PrivacyRTBFRequest</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>ProcessException</members>
         <name>CustomObject</name>
     </types>
@@ -857,7 +985,7 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>SessionHijackingEventStore</members>
+        <members>Seller</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -877,6 +1005,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>TableauHostMapping</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Task</members>
         <name>CustomObject</name>
     </types>
@@ -890,6 +1022,18 @@
     </types>
     <types>
         <members>User</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>UserCapabilityPreference</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>UserExternalCredential</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>UserLocalWebServerIdentity</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -926,7 +1070,19 @@
     </types>
     <types>
         <members>*</members>
+        <name>DataWeaveResource</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>DelegateGroup</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>DigitalExperience</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>DigitalExperienceBundle</name>
     </types>
     <types>
         <members>*</members>
@@ -958,6 +1114,10 @@
     </types>
     <types>
         <members>unfiled$public</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>unfiled$public/CommerceReorderPortalInvitation</members>
         <name>EmailTemplate</name>
     </types>
     <types>
@@ -1030,10 +1190,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>EntityImplements</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>EscalationRule</name>
     </types>
     <types>
@@ -1050,11 +1206,83 @@
     </types>
     <types>
         <members>*</members>
+        <name>EventRelayConfig</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExperienceContainer</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExperiencePropertyTypeBundle</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExternalAuthIdentityProvider</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExternalClientApplication</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExternalCredential</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ExternalDataSource</name>
     </types>
     <types>
         <members>*</members>
+        <name>ExternalDataSrcDescriptor</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ExternalServiceRegistration</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppConfigurablePolicies</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppGlobalOauthSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppMobileConfigurablePolicies</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppMobileSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppNotificationSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppOauthConfigurablePolicies</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppOauthSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppPushConfigurablePolicies</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppPushSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppSamlConfigurablePolicies</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>FieldRestrictionRule</name>
     </types>
     <types>
         <members>*</members>
@@ -1065,11 +1293,35 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>ContactCenter_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>CrisisCenter_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>DataGovernanceConsole_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>FlowsApp_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
         <members>LightningSalesConsole_UtilityBar</members>
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>LightningSales_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
         <members>LightningService_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>SalesCloudMobile_UtilityBar</members>
         <name>FlexiPage</name>
     </types>
     <types>
@@ -1083,6 +1335,10 @@
     <types>
         <members>*</members>
         <name>FlowDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>FlowTest</name>
     </types>
     <types>
         <members>*</members>
@@ -1166,6 +1422,14 @@
     </types>
     <types>
         <members>AssetStatePeriod-Aktivtilstandsperiode-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>AssociatedLocation-Tilknyttet placering-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>BusinessBrand-Forretningsbrand-layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1257,6 +1521,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Customer-Kunde-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>DandBCompany-D&amp;B Company Layout</members>
         <name>Layout</name>
     </types>
@@ -1326,6 +1594,10 @@
     </types>
     <types>
         <members>LegalEntity-Juridisk enhed-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Location-Placering-layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1429,6 +1701,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Seller-Sælger-layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>SocialPersona-Social Persona Layout</members>
         <name>Layout</name>
     </types>
@@ -1442,6 +1718,10 @@
     </types>
     <types>
         <members>User-User Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>UserAlt-User Profile Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1486,6 +1766,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>LightningTypeBundle</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1525,6 +1809,30 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>ApprovalSubmission.All_ApprovalSubmissions</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ApprovalSubmission.My_ApprovalSubmissions</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ApprovalSubmission.Pending_ApprovalSubmissions</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ApprovalSubmissionDetail.All_ApprovalSubmissionDetails</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ApprovalWorkItem.All_ApprovalWorkItems</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ApprovalWorkItem.Assigned_ApprovalWorkItems</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>Asset.AllAssets</members>
         <name>ListView</name>
     </types>
@@ -1554,6 +1862,10 @@
     </types>
     <types>
         <members>AuthorizationFormText.All_AuthorizationFormText</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>BusinessBrand.All_BusinessBrands</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1633,7 +1945,19 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>ContactPointAddress.All_ContactPointAddresses</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>ContactPointConsent.All_ContactPointConsents</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ContactPointEmail.All_ContactPointEmails</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ContactPointPhone.All_ContactPointPhones</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1674,6 +1998,14 @@
     </types>
     <types>
         <members>CreditMemo.mine</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Customer.All_Customers</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>DataMaskCustomValueLibrary.All_DataMaskCustomValueLibraries</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1721,7 +2053,23 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>FlowOrchestrationInstance.All_Orchestration_Instances</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>FlowOrchestrationWorkItem.ALL_Open_Work_Items</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>FlowOrchestrationWorkItem.All_Work_Items</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>Idea.Ideas_Last_7_Days</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Individual.All_Individuals</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1825,6 +2173,10 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>Pricebook2.All_Pricebooks</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>ProcessException.all_process_exceptions</members>
         <name>ListView</name>
     </types>
@@ -1846,6 +2198,10 @@
     </types>
     <types>
         <members>Scorecard.MyScorecards</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Seller.All_Sellers</members>
         <name>ListView</name>
     </types>
     <types>
@@ -1897,16 +2253,8 @@
         <name>ListView</name>
     </types>
     <types>
-        <members>WorkFeedbackRequest.AboutTopics</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>WorkFeedbackRequest.All</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>WorkFeedbackTemplate.All</members>
-        <name>ListView</name>
+        <members>*</members>
+        <name>LiveChatSensitiveDataRule</name>
     </types>
     <types>
         <members>*</members>
@@ -1915,6 +2263,10 @@
     <types>
         <members>*</members>
         <name>MLPredictionDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>MLRecommendationDefinition</name>
     </types>
     <types>
         <members>*</members>
@@ -1931,6 +2283,10 @@
     <types>
         <members>news</members>
         <name>ManagedContentType</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ManagedEventSubscription</name>
     </types>
     <types>
         <members>*</members>
@@ -1970,6 +2326,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>MessagingChannel</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>MobileApplicationDetail</name>
     </types>
     <types>
@@ -2002,6 +2362,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>OauthTokenExchangeHandler</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>OutboundNetworkConnection</name>
     </types>
     <types>
@@ -2014,6 +2378,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>sfdcInternalInt__sfdc_scrt2</members>
         <name>PermissionSet</name>
     </types>
     <types>
@@ -2042,6 +2410,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>ProcessFlowMigration</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Profile</name>
     </types>
     <types>
@@ -2057,7 +2429,15 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>Anypoint Integration</members>
+        <name>Profile</name>
+    </types>
+    <types>
         <members>Authenticated Website</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>B2B Reordering Portal Buyer Profile</members>
         <name>Profile</name>
     </types>
     <types>
@@ -2153,6 +2533,10 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>Minimum Access - API Only Integrations</members>
+        <name>Profile</name>
+    </types>
+    <types>
         <members>Minimum Access - Salesforce</members>
         <name>Profile</name>
     </types>
@@ -2174,6 +2558,10 @@
     </types>
     <types>
         <members>Read Only</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Salesforce API Only System Integrations</members>
         <name>Profile</name>
     </types>
     <types>
@@ -2214,10 +2602,22 @@
     </types>
     <types>
         <members>*</members>
+        <name>PublicKeyCertificate</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PublicKeyCertificateSet</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Queue</name>
     </types>
     <types>
         <members>*</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
+        <members>Case.CloseCaseLightning</members>
         <name>QuickAction</name>
     </types>
     <types>
@@ -2345,7 +2745,47 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
+        <members>EBotR_v3</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>EBotR_v4</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>EBotR_v5</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>EinsteinBotReports</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>EinsteinBotReports_v2</members>
+        <name>Report</name>
+    </types>
+    <types>
         <members>unfiled$public</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>unfiled$public/flow_orchestration_log_ootb_report_two_four_eight</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>unfiled$public/flow_orchestration_run_ootb_report_two_four_eight</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>unfiled$public/flow_orchestration_stage_run_ootb_report_two_four_eight</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>unfiled$public/flow_orchestration_step_run_ootb_report_two_four_eight</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>unfiled$public/flow_orchestration_work_item_ootb_report_two_four_eight</members>
         <name>Report</name>
     </types>
     <types>
@@ -2361,8 +2801,32 @@
         <name>ReportType</name>
     </types>
     <types>
+        <members>flow_orchestration_log_ootb_crt_two_four_eight</members>
+        <name>ReportType</name>
+    </types>
+    <types>
+        <members>flow_orchestration_run_ootb_crt_two_four_eight</members>
+        <name>ReportType</name>
+    </types>
+    <types>
+        <members>flow_orchestration_stage_run_ootb_crt_two_four_eight</members>
+        <name>ReportType</name>
+    </types>
+    <types>
+        <members>flow_orchestration_step_run_ootb_crt_two_four_eight</members>
+        <name>ReportType</name>
+    </types>
+    <types>
+        <members>flow_orchestration_work_item_ootb_crt_two_four_eight</members>
+        <name>ReportType</name>
+    </types>
+    <types>
         <members>screen_flows_prebuilt_crt</members>
         <name>ReportType</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>RestrictionRule</name>
     </types>
     <types>
         <members>*</members>
@@ -2450,6 +2914,14 @@
     </types>
     <types>
         <members>*</members>
+        <name>SearchCustomization</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>SearchOrgWideObjectConfig</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>SharingCriteriaRule</name>
     </types>
     <types>
@@ -2485,6 +2957,14 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>AnalyticsUserAttrFuncTkn</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ApprovalSubmission</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Asset</members>
         <name>SharingRules</name>
     </types>
@@ -2510,6 +2990,10 @@
     </types>
     <types>
         <members>AuthorizationFormDataUse</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>BusinessBrand</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2569,7 +3053,23 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>ConvCoachingRecommendation</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ConversationApiLog</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>CreditMemo</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Customer</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DataMaskCustomValueLibrary</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2609,6 +3109,30 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>FlowOrchestrationInstance</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>FlowOrchestrationStageInstance</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>FlowOrchestrationStepInstance</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>FlowOrchestrationWorkItem</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>FlowRecord</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>FlowTestResult</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Image</members>
         <name>SharingRules</name>
     </types>
@@ -2625,6 +3149,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>LearningItem</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>LegalEntity</members>
         <name>SharingRules</name>
     </types>
@@ -2633,11 +3161,27 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>Location</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>LocationGroup</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Macro</members>
         <name>SharingRules</name>
     </types>
     <types>
         <members>MacroUsage</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>MessagingEndUser</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>MessagingSession</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2658,6 +3202,22 @@
     </types>
     <types>
         <members>PartyConsent</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>PrivacyJobSession</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>PrivacyObjectSession</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>PrivacyRTBFRequest</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>PrivacySessionRecordFailure</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2697,7 +3257,15 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>Seller</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>StreamingChannel</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>TableauHostMapping</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -2713,7 +3281,27 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>UserCapabilityPreference</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>UserDefinedLabel</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>UserDefinedLabelAssignment</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>UserEmailPreferredPerson</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>UserExternalCredential</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>UserLocalWebServerIdentity</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -3034,11 +3622,19 @@
     </types>
     <types>
         <members>*</members>
+        <name>UiFormatSpecificationSet</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>UserProvisioningConfig</name>
     </types>
     <types>
         <members>*</members>
         <name>ValidationRule</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>WaveAnalyticAssetCollection</name>
     </types>
     <types>
         <members>*</members>
@@ -3071,6 +3667,10 @@
     <types>
         <members>*</members>
         <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>WorkflowFlowAutomation</name>
     </types>
     <types>
         <members>*</members>
@@ -3117,6 +3717,14 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>AgentforceForDevelopers</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Ai4m</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Analytics</members>
         <name>Settings</name>
     </types>
@@ -3130,10 +3738,6 @@
     </types>
     <types>
         <members>AppExperience</members>
-        <name>Settings</name>
-    </types>
-    <types>
-        <members>Archive</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3165,6 +3769,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>CodeBuilder</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Commerce</members>
         <name>Settings</name>
     </types>
@@ -3189,6 +3797,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>ConversationServiceIntegration</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ConversationalIntelligence</members>
         <name>Settings</name>
     </types>
@@ -3197,7 +3809,15 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>CustomAddressField</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>CustomerDataPlatform</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>CustomizablePropensityScoring</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3221,7 +3841,15 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>DynamicForms</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>EAC</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EinsteinDocumentCapture</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3269,7 +3897,7 @@
         <name>Settings</name>
     </types>
     <types>
-        <members>ExternalServices</members>
+        <members>ExternalClientApp</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3305,7 +3933,27 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>IdentityProvider</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>IncidentMgmt</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Industries</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>IndustriesEinsteinFeature</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>IndustriesUnifiedInventory</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>InsuranceBrokerage</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3313,11 +3961,11 @@
         <name>Settings</name>
     </types>
     <types>
-        <members>IsvHammer</members>
+        <members>Knowledge</members>
         <name>Settings</name>
     </types>
     <types>
-        <members>Knowledge</members>
+        <members>KnowledgeGeneration</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3365,11 +4013,23 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>OauthOidc</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ObjectLinking</members>
         <name>Settings</name>
     </types>
     <types>
         <members>OmniChannel</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>OmniChannelPricing</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>OmniStudio</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3405,11 +4065,23 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Payments</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>PaymentsManagementEnabled</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Picklist</members>
         <name>Settings</name>
     </types>
     <types>
         <members>PlatformEncryption</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>PlatformEvent</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3426,6 +4098,10 @@
     </types>
     <types>
         <members>Product</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ProductDiscovery</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3449,7 +4125,19 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>ReleaseMgmt</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>RetailExecution</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Sandbox</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>SceGlobalModelOptOut</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3478,10 +4166,6 @@
     </types>
     <types>
         <members>Site</members>
-        <name>Settings</name>
-    </types>
-    <types>
-        <members>SocialProfile</members>
         <name>Settings</name>
     </types>
     <types>
@@ -3532,5 +4216,5 @@
         <members>WorkDotCom</members>
         <name>Settings</name>
     </types>
-    <version>52.0</version>
+    <version>64.0</version>
 </Package>

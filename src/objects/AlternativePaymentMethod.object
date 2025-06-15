@@ -122,6 +122,21 @@
         <fullName>AuditEmail</fullName>
     </fields>
     <fields>
+        <fullName>BankAccountHolderType</fullName>
+    </fields>
+    <fields>
+        <fullName>BankAccountType</fullName>
+    </fields>
+    <fields>
+        <fullName>BillingFirstName</fullName>
+    </fields>
+    <fields>
+        <fullName>BillingLastName</fullName>
+    </fields>
+    <fields>
+        <fullName>BillingName</fullName>
+    </fields>
+    <fields>
         <fullName>Comments</fullName>
     </fields>
     <fields>
@@ -140,6 +155,9 @@
         <fullName>IpAddress</fullName>
     </fields>
     <fields>
+        <fullName>IsAutoPayEnabled</fullName>
+    </fields>
+    <fields>
         <fullName>MacAddress</fullName>
     </fields>
     <fields>
@@ -154,10 +172,22 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>PaymentMethodDetails</fullName>
+    </fields>
+    <fields>
+        <fullName>PaymentMethodSubType</fullName>
+    </fields>
+    <fields>
+        <fullName>PaymentMethodType</fullName>
+    </fields>
+    <fields>
         <fullName>Phone</fullName>
     </fields>
     <fields>
         <fullName>ProcessingMode</fullName>
+    </fields>
+    <fields>
+        <fullName>StandardEntryClassCode</fullName>
     </fields>
     <fields>
         <fullName>Status</fullName>

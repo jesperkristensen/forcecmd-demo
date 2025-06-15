@@ -139,6 +139,10 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>DetailAuthorizationFormText</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>FullAuthorizationFormUrl</fullName>
         <trackHistory>false</trackHistory>
     </fields>

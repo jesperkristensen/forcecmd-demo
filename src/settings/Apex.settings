@@ -8,10 +8,12 @@
     <enableAuraApexCtrlAuthUserAccessCheckPref>false</enableAuraApexCtrlAuthUserAccessCheckPref>
     <enableAuraApexCtrlGuestUserAccessCheckPref>false</enableAuraApexCtrlGuestUserAccessCheckPref>
     <enableCompileOnDeploy>false</enableCompileOnDeploy>
+    <enableDebugLogsDuringDeployment>false</enableDebugLogsDuringDeployment>
     <enableDisableParallelApexTesting>false</enableDisableParallelApexTesting>
-    <enableDoNotEmailDebugLog>false</enableDoNotEmailDebugLog>
     <enableGaplessTestAutoNum>true</enableGaplessTestAutoNum>
     <enableMngdCtrlActionAccessPref>false</enableMngdCtrlActionAccessPref>
     <enableNonCertifiedApexMdCrud>false</enableNonCertifiedApexMdCrud>
+    <enableRestrictCommunityExecAnon>false</enableRestrictCommunityExecAnon>
     <enableSecureNoArgConstructorPref>false</enableSecureNoArgConstructorPref>
+    <enableTestSetupSkipTestResults>false</enableTestSetupSkipTestResults>
 </ApexSettings>

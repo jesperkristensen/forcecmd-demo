@@ -129,6 +129,10 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <fields>
+        <fullName>AssetId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>AttachedToId</fullName>
         <type>Lookup</type>
     </fields>
