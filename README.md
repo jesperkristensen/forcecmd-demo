@@ -1,4 +1,5 @@
 [![git_backup](https://github.com/jesperkristensen/forcecmd-demo/actions/workflows/git_backup.yml/badge.svg)](https://github.com/jesperkristensen/forcecmd-demo/actions/workflows/git_backup.yml)
+[![run_tests](https://github.com/jesperkristensen/forcecmd-demo/actions/workflows/run_tests.yml/badge.svg)](https://github.com/jesperkristensen/forcecmd-demo/actions/workflows/run_tests.yml)
 
 This repository contains an example of what the output from [forcecmd](https://github.com/jesperkristensen/forcecmd)
 looks like for a new, empty Salesforce Developer Edition org.
