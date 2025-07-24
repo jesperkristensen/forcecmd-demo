@@ -4153,6 +4153,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>ServiceAIRecommendations</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ServiceCloudVoice</members>
         <name>Settings</name>
     </types>
