@@ -3929,6 +3929,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>HerokuAppLink</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Ideas</members>
         <name>Settings</name>
     </types>
