@@ -136,7 +136,20 @@
         <type>MasterDetail</type>
     </fields>
     <fields>
+        <fullName>BillingFrequency</fullName>
+    </fields>
+    <fields>
+        <fullName>Discount</fullName>
+    </fields>
+    <fields>
+        <fullName>DiscountAmount</fullName>
+    </fields>
+    <fields>
         <fullName>EndDate</fullName>
+    </fields>
+    <fields>
+        <fullName>LegalEntityId</fullName>
+        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>Mrr</fullName>
@@ -146,6 +159,12 @@
     </fields>
     <fields>
         <fullName>StartDate</fullName>
+    </fields>
+    <fields>
+        <fullName>UnitPrice</fullName>
+    </fields>
+    <fields>
+        <fullName>UnitPriceUplift</fullName>
     </fields>
     <listViews>
         <fullName>AssetStatePeriod</fullName>

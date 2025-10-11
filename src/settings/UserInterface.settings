@@ -19,6 +19,7 @@
     <enableQuickCreate>true</enableQuickCreate>
     <enableRelatedListHovers>true</enableRelatedListHovers>
     <enableSldsV2>false</enableSldsV2>
+    <enableSldsV2DarkModeInCosmos>false</enableSldsV2DarkModeInCosmos>
     <enableTabOrganizer>true</enableTabOrganizer>
     <multiColumnSort>false</multiColumnSort>
     <multiColumnSortLv>true</multiColumnSortLv>

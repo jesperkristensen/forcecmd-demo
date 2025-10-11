@@ -20,4 +20,5 @@
     <psaExpirationUIEnabled>true</psaExpirationUIEnabled>
     <restrictedProfileCloning>false</restrictedProfileCloning>
     <userAccessPoliciesEnabled>false</userAccessPoliciesEnabled>
+    <userFieldHistoryTracking>false</userFieldHistoryTracking>
 </UserManagementSettings>

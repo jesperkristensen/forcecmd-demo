@@ -34,6 +34,9 @@
         <fullName>ContentSize</fullName>
     </fields>
     <fields>
+        <fullName>ContentSizeLong</fullName>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
         <trackHistory>false</trackHistory>
     </fields>

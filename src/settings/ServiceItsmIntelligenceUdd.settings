@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceItsmIntelligenceUddSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableCheckIncAttrProactvAsst>false</enableCheckIncAttrProactvAsst>
+    <enableEinsteinAssignGrpInc>false</enableEinsteinAssignGrpInc>
+    <enableEinsteinProbmCreationInc>false</enableEinsteinProbmCreationInc>
+    <enableIncAsgntProactvAsst>false</enableIncAsgntProactvAsst>
+    <enableIncPrpsRsolSumProactvAsst>false</enableIncPrpsRsolSumProactvAsst>
+    <enableIncRootCseSumProactvAsst>false</enableIncRootCseSumProactvAsst>
+    <enableIncSmlrRecProactvAsst>false</enableIncSmlrRecProactvAsst>
+    <enableIncSrvcPlanProactvAsst>false</enableIncSrvcPlanProactvAsst>
+    <enableIncSummaryProactvAsst>false</enableIncSummaryProactvAsst>
+    <enableItSrvcsEmployeeAgent>false</enableItSrvcsEmployeeAgent>
+    <enableItSrvcsFulfillerAgent>false</enableItSrvcsFulfillerAgent>
+    <enableProactvAsstforItSrvcs>false</enableProactvAsstforItSrvcs>
+</ServiceItsmIntelligenceUddSettings>

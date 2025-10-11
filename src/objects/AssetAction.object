@@ -167,6 +167,9 @@
         <fullName>SubtotalChange</fullName>
     </fields>
     <fields>
+        <fullName>Subtype</fullName>
+    </fields>
+    <fields>
         <fullName>TotalAmount</fullName>
     </fields>
     <fields>

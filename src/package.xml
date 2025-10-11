@@ -729,6 +729,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>FlowOrchestrationVersion</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>FlowOrchestrationWorkItem</members>
         <name>CustomObject</name>
     </types>
@@ -1078,6 +1082,14 @@
     </types>
     <types>
         <members>*</members>
+        <name>DgtAssetMgmtProvider</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>DgtAssetMgmtPrvdLghtCpnt</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>DigitalExperience</name>
     </types>
     <types>
@@ -1387,6 +1399,10 @@
     <types>
         <members>*</members>
         <name>Index</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>InvocableActionExtension</name>
     </types>
     <types>
         <members>*</members>
@@ -1763,6 +1779,10 @@
     <types>
         <members>*</members>
         <name>LightningOnboardingConfig</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>LightningOutApp</name>
     </types>
     <types>
         <members>*</members>
@@ -2323,6 +2343,10 @@
     <types>
         <members>Lead</members>
         <name>MatchingRules</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>McpServerDefinition</name>
     </types>
     <types>
         <members>*</members>
@@ -3841,6 +3865,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>DxGlobalTerms</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>DynamicForms</members>
         <name>Settings</name>
     </types>
@@ -4101,6 +4129,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>PrmCore</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Product</members>
         <name>Settings</name>
     </types>
@@ -4157,11 +4189,19 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>SecurityHub</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ServiceAIRecommendations</members>
         <name>Settings</name>
     </types>
     <types>
         <members>ServiceCloudVoice</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ServiceItsmIntelligenceUdd</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4224,5 +4264,5 @@
         <members>WorkDotCom</members>
         <name>Settings</name>
     </types>
-    <version>64.0</version>
+    <version>65.0</version>
 </Package>
