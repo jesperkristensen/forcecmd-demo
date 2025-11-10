@@ -997,6 +997,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>SlackChannelRelatedRecord</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>SocialPersona</members>
         <name>CustomObject</name>
     </types>
@@ -1014,6 +1018,10 @@
     </types>
     <types>
         <members>Task</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>TenantPvsnProdtLicMap</members>
         <name>CustomObject</name>
     </types>
     <types>
