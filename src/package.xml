@@ -154,6 +154,18 @@
     </types>
     <types>
         <members>*</members>
+        <name>CatalogedApi</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CatalogedApiArtifactVersionInfo</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CatalogedApiVersion</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Certificate</name>
     </types>
     <types>
