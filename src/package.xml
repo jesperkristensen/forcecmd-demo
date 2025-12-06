@@ -1033,10 +1033,6 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>TenantPvsnProdtLicMap</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
         <members>Topic</members>
         <name>CustomObject</name>
     </types>
@@ -3294,6 +3290,10 @@
     </types>
     <types>
         <members>ReportResultBlob</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>RetentionStoreUsage</members>
         <name>SharingRules</name>
     </types>
     <types>

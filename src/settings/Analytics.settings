@@ -71,6 +71,7 @@
     <enableWaveSharingInheritance>false</enableWaveSharingInheritance>
     <enableWaveSqlCFIndexing>false</enableWaveSqlCFIndexing>
     <enableWaveTrendedDatasetCleanup>false</enableWaveTrendedDatasetCleanup>
+    <enableWriteToDataCloud>false</enableWriteToDataCloud>
     <isDiscoveryOptimizationEnabled>false</isDiscoveryOptimizationEnabled>
     <isHighVolumePushbackEnabled>false</isHighVolumePushbackEnabled>
     <maxHoursAppInProgress>48</maxHoursAppInProgress>
