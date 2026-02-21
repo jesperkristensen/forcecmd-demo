@@ -43,6 +43,20 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+        <actionName>GenerateInvoiceDocument</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>GenerateInvoiceDocument</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>GenerateInvoiceDocument</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -135,6 +149,18 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>FuncCrcyCnvTotAmtWithTax</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>FunctionalCurrencyCvsnDate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>FunctionalCurrencyCvsnRate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>InvoiceDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -200,6 +226,12 @@
     </fields>
     <fields>
         <fullName>TotalTaxAmount</fullName>
+        <inlineHelpText>The rollup of taxes from all line items in the transaction.</inlineHelpText>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>TotalTaxesCapturedAtHeader</fullName>
+        <inlineHelpText>The total tax calculated at the transaction header level.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>

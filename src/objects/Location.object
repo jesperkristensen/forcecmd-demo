@@ -149,7 +149,15 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>Email</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>ExternalReference</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>Fax</fullName>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
@@ -179,6 +187,10 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Mobile</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -195,6 +207,10 @@
         <fullName>ParentLocationId</fullName>
         <trackHistory>false</trackHistory>
         <type>Hierarchy</type>
+    </fields>
+    <fields>
+        <fullName>Phone</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>PossessionDate</fullName>

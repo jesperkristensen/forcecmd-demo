@@ -149,6 +149,9 @@
         <fullName>Email</fullName>
     </fields>
     <fields>
+        <fullName>ExtendedPaymentMethodType</fullName>
+    </fields>
+    <fields>
         <fullName>GatewayToken</fullName>
     </fields>
     <fields>

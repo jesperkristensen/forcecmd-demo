@@ -179,6 +179,9 @@
         <fullName>TotalCrossSellsAmount</fullName>
     </fields>
     <fields>
+        <fullName>TotalDowngradesAmount</fullName>
+    </fields>
+    <fields>
         <fullName>TotalDownsellsAmount</fullName>
     </fields>
     <fields>
@@ -197,10 +200,16 @@
         <fullName>TotalRenewalsAmount</fullName>
     </fields>
     <fields>
+        <fullName>TotalSwapsAmount</fullName>
+    </fields>
+    <fields>
         <fullName>TotalTermsAndConditionsAmount</fullName>
     </fields>
     <fields>
         <fullName>TotalTransfersAmount</fullName>
+    </fields>
+    <fields>
+        <fullName>TotalUpgradesAmount</fullName>
     </fields>
     <fields>
         <fullName>TotalUpsellsAmount</fullName>

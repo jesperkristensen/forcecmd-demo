@@ -58,6 +58,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>ApiNamedQuery</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>AppFrameworkTemplateBundle</name>
     </types>
     <types>
@@ -265,6 +269,10 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>standard__Integration</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>standard__LightningInstrumentation</members>
         <name>CustomApplication</name>
     </types>
@@ -302,6 +310,10 @@
     </types>
     <types>
         <members>standard__ServiceConsole</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>standard__Shield</members>
         <name>CustomApplication</name>
     </types>
     <types>
@@ -465,6 +477,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>AiJobRun</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>AlternativePaymentMethod</members>
         <name>CustomObject</name>
     </types>
@@ -621,6 +637,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ContentDocument</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>ContentVersion</members>
         <name>CustomObject</name>
     </types>
@@ -633,11 +653,19 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ConvEntryRelatedRecordCopy</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>ConversationApiLog</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>ConversationApiLogObjSum</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ConversationEntryCopy</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -746,6 +774,10 @@
     </types>
     <types>
         <members>FlowOrchestrationWorkItem</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>GisPrvdCnctrJobObjRun</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1001,6 +1033,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>SecurityHealthCheckAlertRecipient</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>SecurityHealthCheckResult</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Seller</members>
         <name>CustomObject</name>
     </types>
@@ -1038,6 +1078,14 @@
     </types>
     <types>
         <members>TopicAssignment</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>UnstructuredStorageSpace</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>UnstructuredStorageSpaceLayer</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1270,6 +1318,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>ExtlClntAppCanvasSettings</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ExtlClntAppConfigurablePolicies</name>
     </types>
     <types>
@@ -1337,6 +1389,10 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>Integration_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
         <members>LightningSalesConsole_UtilityBar</members>
         <name>FlexiPage</name>
     </types>
@@ -1367,6 +1423,10 @@
     <types>
         <members>*</members>
         <name>FlowTest</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>FlowValueMap</name>
     </types>
     <types>
         <members>*</members>
@@ -1798,10 +1858,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>LightningOutApp</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>LightningTypeBundle</name>
     </types>
     <types>
@@ -2002,6 +2058,10 @@
     </types>
     <types>
         <members>ContactRequest.My_ContactRequests</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>ContentDocument.OwnedContentDocuments</members>
         <name>ListView</name>
     </types>
     <types>
@@ -2418,6 +2478,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>sfdcInternalInt__sfdc_nc_constraints_engine_deploy</members>
         <name>PermissionSet</name>
     </types>
     <types>
@@ -2993,6 +3057,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>AiJobRun</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>AlternativePaymentMethod</members>
         <name>SharingRules</name>
     </types>
@@ -3314,6 +3382,10 @@
     </types>
     <types>
         <members>TodayGoal</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>UnstructuredStorageSpace</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -3973,6 +4045,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>GRCIntelligenceUdd</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>GoogleApps</members>
         <name>Settings</name>
     </types>
@@ -3998,6 +4074,10 @@
     </types>
     <types>
         <members>IndustriesEinsteinFeature</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>IndustriesEnergyUtilitiesMultiSite</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4161,6 +4241,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>PurchaseOrderMgmt</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>QuickText</members>
         <name>Settings</name>
     </types>
@@ -4189,6 +4273,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>RiskMgmt</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Sandbox</members>
         <name>Settings</name>
     </types>
@@ -4206,6 +4294,10 @@
     </types>
     <types>
         <members>Security</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>SecurityAgent</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4284,5 +4376,5 @@
         <members>WorkDotCom</members>
         <name>Settings</name>
     </types>
-    <version>65.0</version>
+    <version>66.0</version>
 </Package>

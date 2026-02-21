@@ -178,6 +178,22 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>FuncCrcyCnvTotalTaxAmt</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>FuncCurrencyCnvChargeAmt</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>FunctionalCurrencyCvsnDate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>FunctionalCurrencyCvsnRate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>LineAmount</fullName>
     </fields>
     <fields>

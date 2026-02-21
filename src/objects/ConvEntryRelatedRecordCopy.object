@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>ConversationEntryCopyId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Name</fullName>
+    </fields>
+    <fields>
+        <fullName>RelatedRecordId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>RelatedRecordObject</fullName>
+    </fields>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>

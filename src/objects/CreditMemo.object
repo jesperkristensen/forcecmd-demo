@@ -155,6 +155,18 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>FuncCrcyCnvTotAmtWithTax</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>FunctionalCurrencyCvsnDate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>FunctionalCurrencyCvsnRate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>NetCreditsApplied</fullName>
         <inlineHelpText>Net amount applied from the credit memo.</inlineHelpText>
     </fields>
@@ -215,6 +227,12 @@
     </fields>
     <fields>
         <fullName>TotalTaxAmount</fullName>
+        <inlineHelpText>The rollup of taxes from all line items in the transaction.</inlineHelpText>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>TotalTaxesCapturedAtHeader</fullName>
+        <inlineHelpText>The total tax calculated at the transaction header level.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <listViews>

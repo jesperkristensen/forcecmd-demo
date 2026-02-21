@@ -141,6 +141,14 @@
         <isEnabled>false</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
+        <entityName>UniversalAnomalyEventStore</entityName>
+        <isEnabled>false</isEnabled>
+    </realTimeEvents>
+    <realTimeEvents>
+        <entityName>UniversalAnomalyEvent</entityName>
+        <isEnabled>false</isEnabled>
+    </realTimeEvents>
+    <realTimeEvents>
         <entityName>UriEvent</entityName>
         <isEnabled>false</isEnabled>
     </realTimeEvents>

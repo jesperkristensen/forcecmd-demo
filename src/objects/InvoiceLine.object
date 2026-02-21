@@ -99,6 +99,22 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>FuncCrcyCnvTotalTaxAmt</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>FuncCurrencyCnvChargeAmt</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>FunctionalCurrencyCvsnDate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>FunctionalCurrencyCvsnRate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>InvoiceId</fullName>
         <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
@@ -158,6 +174,10 @@
     </fields>
     <fields>
         <fullName>TaxName</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>TaxProcessingStatus</fullName>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>

@@ -108,6 +108,11 @@
         <fullName>AgentMessageCount</fullName>
     </fields>
     <fields>
+        <fullName>CampaignId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>CaseId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>

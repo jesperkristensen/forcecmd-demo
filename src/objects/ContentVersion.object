@@ -76,6 +76,7 @@
     <searchLayouts>
         <searchResultsAdditionalFields>VERSION.TITLE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>VERSION.CONTENT_SIZE</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>VERSION.CONTENT_SIZE_LONG</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>VERSION.FILE_EXTENSION</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>VERSION.LAST_UPDATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>VERSION.OWNER</searchResultsAdditionalFields>

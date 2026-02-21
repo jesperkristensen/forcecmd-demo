@@ -15,6 +15,20 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <formFactor>Large</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <formFactor>Small</formFactor>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -74,30 +88,38 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>ActionChannelName</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>ActionContext</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>ActionName</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>ActionPerformedById</fullName>
+        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>ActionPerformerRole</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>ApprovalSubmissionId</fullName>
+        <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
     </fields>
     <fields>
         <fullName>ApprovalWorkItemId</fullName>
+        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>Comments</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <listViews>
         <fullName>All_ApprovalSubmissionDetails</fullName>
