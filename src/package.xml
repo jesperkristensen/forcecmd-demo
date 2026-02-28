@@ -3754,6 +3754,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>WebApplication</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>WebLink</name>
     </types>
     <types>
