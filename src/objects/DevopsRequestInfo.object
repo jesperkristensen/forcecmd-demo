@@ -129,43 +129,40 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <fields>
-        <fullName>ContentType</fullName>
+        <fullName>ErrorDetails</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>Description</fullName>
+        <fullName>Message</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>IsActive</fullName>
+        <fullName>OperationType</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>Name</fullName>
+        <fullName>RequestCompletionDate</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>All_DataMaskCustomValueLibraries</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle tilpassede biblioteker</label>
-    </listViews>
+    <fields>
+        <fullName>RequestToken</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>Status</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
     <searchLayouts>
-        <customTabListAdditionalFields>Description</customTabListAdditionalFields>
-        <customTabListAdditionalFields>ContentType</customTabListAdditionalFields>
-        <customTabListAdditionalFields>IsActive</customTabListAdditionalFields>
-        <customTabListAdditionalFields>LastModifiedDate</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Status</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Message</customTabListAdditionalFields>
+        <customTabListAdditionalFields>OperationType</customTabListAdditionalFields>
         <customTabListAdditionalFields>LastModifiedBy</customTabListAdditionalFields>
-        <lookupDialogsAdditionalFields>Description</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>ContentType</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>IsActive</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>LastModifiedDate</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>LastModifiedBy</lookupDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Description</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>ContentType</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>IsActive</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>LastModifiedDate</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>LastModifiedBy</lookupPhoneDialogsAdditionalFields>
-        <searchResultsAdditionalFields>Description</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>ContentType</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>IsActive</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>LastModifiedDate</searchResultsAdditionalFields>
+        <customTabListAdditionalFields>LastModifiedDate</customTabListAdditionalFields>
+        <searchResultsAdditionalFields>Status</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Message</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>OperationType</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LastModifiedBy</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>LastModifiedDate</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>Private</sharingModel>
 </CustomObject>

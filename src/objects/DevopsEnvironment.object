@@ -129,43 +129,92 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <fields>
-        <fullName>ContentType</fullName>
+        <fullName>CanTrackChanges</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>Description</fullName>
+        <fullName>DoceHubType</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>IsActive</fullName>
+        <fullName>IsDevEnvironment</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>IsExpired</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>IsTestEnvironment</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>IsVibeEnvironment</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>LastRevisionCounter</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Name</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>All_DataMaskCustomValueLibraries</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle tilpassede biblioteker</label>
-    </listViews>
+    <fields>
+        <fullName>NamedCredential</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>OrgIdentifier</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>OrgType</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>OrgUrl</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>RefreshDate</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>RefreshSourceId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>ReplacesId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
     <searchLayouts>
-        <customTabListAdditionalFields>Description</customTabListAdditionalFields>
-        <customTabListAdditionalFields>ContentType</customTabListAdditionalFields>
-        <customTabListAdditionalFields>IsActive</customTabListAdditionalFields>
-        <customTabListAdditionalFields>LastModifiedDate</customTabListAdditionalFields>
-        <customTabListAdditionalFields>LastModifiedBy</customTabListAdditionalFields>
-        <lookupDialogsAdditionalFields>Description</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>ContentType</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>IsActive</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>LastModifiedDate</lookupDialogsAdditionalFields>
-        <lookupDialogsAdditionalFields>LastModifiedBy</lookupDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Description</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>ContentType</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>IsActive</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>LastModifiedDate</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>LastModifiedBy</lookupPhoneDialogsAdditionalFields>
-        <searchResultsAdditionalFields>Description</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>ContentType</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>IsActive</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>LastModifiedDate</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>LastModifiedBy</searchResultsAdditionalFields>
+        <customTabListAdditionalFields>CanTrackChanges</customTabListAdditionalFields>
+        <customTabListAdditionalFields>IsExpired</customTabListAdditionalFields>
+        <customTabListAdditionalFields>LastRevisionCounter</customTabListAdditionalFields>
+        <customTabListAdditionalFields>NamedCredential</customTabListAdditionalFields>
+        <customTabListAdditionalFields>OrgIdentifier</customTabListAdditionalFields>
+        <customTabListAdditionalFields>RefreshDate</customTabListAdditionalFields>
+        <customTabListAdditionalFields>RefreshSource</customTabListAdditionalFields>
+        <customTabListAdditionalFields>IsTestEnvironment</customTabListAdditionalFields>
+        <customTabListAdditionalFields>IsDevEnvironment</customTabListAdditionalFields>
+        <customTabListAdditionalFields>OrgType</customTabListAdditionalFields>
+        <customTabListAdditionalFields>OrgUrl</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Replaces</customTabListAdditionalFields>
+        <searchResultsAdditionalFields>CanTrackChanges</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>IsExpired</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>LastRevisionCounter</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>NamedCredential</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>OrgIdentifier</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>RefreshDate</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>RefreshSource</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>IsTestEnvironment</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>IsDevEnvironment</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>OrgType</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>OrgUrl</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Replaces</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>Private</sharingModel>
 </CustomObject>
