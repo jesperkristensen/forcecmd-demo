@@ -3154,10 +3154,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-UserDevopsPreference</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-UserProvisioningRequest</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
