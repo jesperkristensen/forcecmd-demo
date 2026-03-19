@@ -701,6 +701,18 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>DevopsActivityLog</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsEnvironment</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsRequestInfo</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>DigitalWallet</members>
         <name>CustomObject</name>
     </types>
@@ -1094,6 +1106,10 @@
     </types>
     <types>
         <members>UserCapabilityPreference</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>UserDevopsPreference</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -2494,6 +2510,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>PermissionSetLicenseDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>PlatformCachePartition</name>
     </types>
     <types>
@@ -3189,6 +3209,18 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>DevopsActivityLog</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsEnvironment</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsRequestInfo</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>EngagementChannelType</members>
         <name>SharingRules</name>
     </types>
@@ -3406,6 +3438,10 @@
     </types>
     <types>
         <members>UserDefinedLabelAssignment</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>UserDevopsPreference</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -4370,6 +4406,10 @@
     </types>
     <types>
         <members>Voice</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>WebApplication</members>
         <name>Settings</name>
     </types>
     <types>
