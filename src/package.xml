@@ -4257,6 +4257,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>PlatformWebIde</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Portals</members>
         <name>Settings</name>
     </types>
