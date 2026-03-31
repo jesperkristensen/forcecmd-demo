@@ -9,11 +9,15 @@
         <fullName>Name</fullName>
     </fields>
     <fields>
+        <fullName>OwnerId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>RelatedRecordId</fullName>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>RelatedRecordObject</fullName>
     </fields>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>Private</sharingModel>
 </CustomObject>

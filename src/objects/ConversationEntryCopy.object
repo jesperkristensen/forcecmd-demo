@@ -31,6 +31,10 @@
         <fullName>Name</fullName>
     </fields>
     <fields>
+        <fullName>OwnerId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>TranscriptedTimestamp</fullName>
     </fields>
     <fields>
@@ -39,5 +43,5 @@
     <fields>
         <fullName>VisibilityStrategy</fullName>
     </fields>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>Private</sharingModel>
 </CustomObject>
