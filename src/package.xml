@@ -3778,6 +3778,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>UIBundle</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>UiFormatSpecificationSet</name>
     </types>
     <types>
@@ -3791,10 +3795,6 @@
     <types>
         <members>*</members>
         <name>WaveAnalyticAssetCollection</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>WebApplication</name>
     </types>
     <types>
         <members>*</members>
@@ -4401,6 +4401,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>UIBundle</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>UserEngagement</members>
         <name>Settings</name>
     </types>
@@ -4414,10 +4418,6 @@
     </types>
     <types>
         <members>Voice</members>
-        <name>Settings</name>
-    </types>
-    <types>
-        <members>WebApplication</members>
         <name>Settings</name>
     </types>
     <types>
