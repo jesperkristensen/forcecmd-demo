@@ -156,5 +156,5 @@
     <fields>
         <fullName>StorageTierType</fullName>
     </fields>
-    <sharingModel>Read</sharingModel>
+    <sharingModel>Private</sharingModel>
 </CustomObject>

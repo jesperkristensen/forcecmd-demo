@@ -4021,6 +4021,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>EmailAuthorization</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>EmailIntegration</members>
         <name>Settings</name>
     </types>
