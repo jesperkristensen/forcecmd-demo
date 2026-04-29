@@ -4229,6 +4229,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>IntegrationIntelligenceUser</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>LightningConsoleAllowedForUser</name>
     </userPermissions>
     <userPermissions>
