@@ -1053,6 +1053,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>SfdcPartnerSbscrOffer</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>SfdcPartnerSbscrOfferItem</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Site</members>
         <name>CustomObject</name>
     </types>
@@ -1355,6 +1363,10 @@
     <types>
         <members>*</members>
         <name>ExtlClntAppOauthConfigurablePolicies</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppOauthSecuritySettings</name>
     </types>
     <types>
         <members>*</members>
@@ -3406,6 +3418,10 @@
     </types>
     <types>
         <members>Seller</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>SfdcPartnerSbscrOffer</members>
         <name>SharingRules</name>
     </types>
     <types>
