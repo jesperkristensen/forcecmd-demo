@@ -12,6 +12,7 @@
     <tabs>standard-Monitor</tabs>
     <tabs>standard-ActionHub</tabs>
     <tabs>standard-FlowLogs</tabs>
+    <tabs>standard-GlobalFlowResources</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>FlowsApp_UtilityBar</utilityBar>
 </CustomApplication>

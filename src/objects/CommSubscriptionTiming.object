@@ -130,7 +130,7 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>CommSubscriptionConsentId</fullName>
-        <inlineHelpText>The communication subscription consent record associated with the communication subscription timing.</inlineHelpText>
+        <inlineHelpText>The Communication Subscription Consent record associated with the Communication Subscription Timing.</inlineHelpText>
         <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
     </fields>

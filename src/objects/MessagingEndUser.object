@@ -149,6 +149,10 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>MessagingExternalUserKey</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>MessagingPlatformKey</fullName>
         <trackHistory>false</trackHistory>
     </fields>

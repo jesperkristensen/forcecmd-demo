@@ -126,5 +126,28 @@
         <filterScope>Everything</filterScope>
         <label>AllApprovalSubmissionDetails</label>
     </listViews>
+    <searchLayouts>
+        <lookupDialogsAdditionalFields>ActionPerformedBy</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ActionPerformerRole</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ActionChannelName</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ActionName</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ActionContext</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>Comments</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>CreatedDate</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ActionPerformedBy</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ActionPerformerRole</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ActionChannelName</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ActionName</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ActionContext</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Comments</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>CreatedDate</lookupPhoneDialogsAdditionalFields>
+        <searchResultsAdditionalFields>ActionPerformedBy</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ActionPerformerRole</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ActionChannelName</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ActionName</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ActionContext</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Comments</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>CreatedDate</searchResultsAdditionalFields>
+    </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>

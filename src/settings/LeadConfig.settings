@@ -7,6 +7,7 @@
     <doesTrackHistory>false</doesTrackHistory>
     <enableConversionsOnMobile>false</enableConversionsOnMobile>
     <enableOrgWideMergeAndDelete>true</enableOrgWideMergeAndDelete>
+    <relateEmailsToContactOnConvert>false</relateEmailsToContactOnConvert>
     <shouldLeadConvertRequireValidation>true</shouldLeadConvertRequireValidation>
     <shouldSendNotificationEmailWhenLeadOwnerUpdatesViaApexInLEX>false</shouldSendNotificationEmailWhenLeadOwnerUpdatesViaApexInLEX>
 </LeadConfigSettings>

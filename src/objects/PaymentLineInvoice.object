@@ -102,52 +102,69 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>Amount</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>AppliedDate</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>AssociatedAccountId</fullName>
+        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>AssociatedPaymentLineId</fullName>
+        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>Comments</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Date</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>EffectiveDate</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>EffectiveImpactAmount</fullName>
     </fields>
     <fields>
         <fullName>HasBeenUnapplied</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>ImpactAmount</fullName>
     </fields>
     <fields>
         <fullName>InvoiceId</fullName>
+        <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
     </fields>
     <fields>
         <fullName>PaymentBalance</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>PaymentId</fullName>
+        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>PaymentLineInvoiceNumber</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>UnappliedDate</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <listViews>
         <fullName>PaymentLineInvoice</fullName>

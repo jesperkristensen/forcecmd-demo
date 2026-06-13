@@ -24,4 +24,5 @@
     <multiColumnSort>false</multiColumnSort>
     <multiColumnSortLv>true</multiColumnSortLv>
     <multiColumnSortRl>true</multiColumnSortRl>
+    <usersEditSharedListViews>false</usersEditSharedListViews>
 </UserInterfaceSettings>

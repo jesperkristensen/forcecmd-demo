@@ -135,7 +135,7 @@
     </fields>
     <fields>
         <fullName>CommSubscriptionChannelTypeId</fullName>
-        <inlineHelpText>The communication subscription channel type record associated with the communication subscription consent.</inlineHelpText>
+        <inlineHelpText>The Communication Subscription Channel Type record associated with the Communication Subscription Consent.</inlineHelpText>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
@@ -157,7 +157,7 @@
     </fields>
     <fields>
         <fullName>ContactPointId</fullName>
-        <inlineHelpText>The contact point record associated with the communication subscription consent.</inlineHelpText>
+        <inlineHelpText>The contact point record associated with the Communication Subscription Consent.</inlineHelpText>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>

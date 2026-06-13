@@ -5,6 +5,7 @@
     <enableALMSimpleDeployPref>false</enableALMSimpleDeployPref>
     <enableDevOpsCenter>false</enableDevOpsCenter>
     <enableDevOpsCenterGA>false</enableDevOpsCenterGA>
+    <enableDevopsTestingPref>false</enableDevopsTestingPref>
     <enableScratchOrgManagementPref>false</enableScratchOrgManagementPref>
     <enableShapeExportPref>false</enableShapeExportPref>
 </DevHubSettings>

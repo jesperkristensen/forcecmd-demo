@@ -78,7 +78,7 @@
     </realTimeEvents>
     <realTimeEvents>
         <entityName>ListViewEvent</entityName>
-        <isEnabled>false</isEnabled>
+        <isEnabled>true</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
         <entityName>ListViewEventStream</entityName>
@@ -86,7 +86,7 @@
     </realTimeEvents>
     <realTimeEvents>
         <entityName>LoginEvent</entityName>
-        <isEnabled>false</isEnabled>
+        <isEnabled>true</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
         <entityName>LoginEventStream</entityName>
@@ -94,7 +94,7 @@
     </realTimeEvents>
     <realTimeEvents>
         <entityName>LoginAsEvent</entityName>
-        <isEnabled>false</isEnabled>
+        <isEnabled>true</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
         <entityName>LoginAsEventStream</entityName>
@@ -102,7 +102,7 @@
     </realTimeEvents>
     <realTimeEvents>
         <entityName>LogoutEvent</entityName>
-        <isEnabled>false</isEnabled>
+        <isEnabled>true</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
         <entityName>LogoutEventStream</entityName>
@@ -118,7 +118,7 @@
     </realTimeEvents>
     <realTimeEvents>
         <entityName>ReportEvent</entityName>
-        <isEnabled>false</isEnabled>
+        <isEnabled>true</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
         <entityName>ReportEventStream</entityName>
@@ -142,7 +142,7 @@
     </realTimeEvents>
     <realTimeEvents>
         <entityName>UniversalAnomalyEventStore</entityName>
-        <isEnabled>false</isEnabled>
+        <isEnabled>true</isEnabled>
     </realTimeEvents>
     <realTimeEvents>
         <entityName>UniversalAnomalyEvent</entityName>

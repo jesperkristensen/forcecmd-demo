@@ -77,33 +77,23 @@
     </fields>
     <fields>
         <fullName>ActivityDate</fullName>
-        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>ActivityType</fullName>
-        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Description</fullName>
-        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>DevopsRequestInfoId</fullName>
-        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
-        <fullName>Name</fullName>
-        <trackHistory>false</trackHistory>
-    </fields>
-    <fields>
         <fullName>ParentActivityId</fullName>
-        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>PerformedById</fullName>
-        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
@@ -111,7 +101,6 @@
     </fields>
     <fields>
         <fullName>Status</fullName>
-        <trackHistory>false</trackHistory>
     </fields>
     <sharingModel>Private</sharingModel>
 </CustomObject>

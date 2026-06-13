@@ -28,10 +28,17 @@
         <fullName>Language</fullName>
     </fields>
     <fields>
+        <fullName>Modality</fullName>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
     </fields>
     <fields>
         <fullName>OwnerId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>ParentConvEntryCopyId</fullName>
         <type>Lookup</type>
     </fields>
     <fields>

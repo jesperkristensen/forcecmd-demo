@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IndustriesInsuranceSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <insBillingCtxDef>InsBillingTransactionContext__stdctx</insBillingCtxDef>
+    <insBillingCtxSchedGrpMap>BSGEntitiesMapping</insBillingCtxSchedGrpMap>
+    <insBillingCtxTnxMapping>InsBillingTransactionMapping</insBillingCtxTnxMapping>
+</IndustriesInsuranceSettings>

@@ -141,6 +141,11 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>ParentRequestInfoId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>RequestCompletionDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>

@@ -749,6 +749,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ExtlRecShrStagedRecord</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>FeedItem</members>
         <name>CustomObject</name>
     </types>
@@ -1029,6 +1033,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ReportHierarchyObjectField</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Scorecard</members>
         <name>CustomObject</name>
     </types>
@@ -1038,6 +1046,10 @@
     </types>
     <types>
         <members>ScorecardMetric</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>SearchRecentQuery</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1397,6 +1409,10 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>AdvertisingInventoryCalendar_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
         <members>ContactCenter_UtilityBar</members>
         <name>FlexiPage</name>
     </types>
@@ -1429,6 +1445,10 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>MediaAdSalesManagement_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
         <members>SalesCloudMobile_UtilityBar</members>
         <name>FlexiPage</name>
     </types>
@@ -1437,11 +1457,19 @@
         <name>Flow</name>
     </types>
     <types>
+        <members>sfdc_default_ReportExport_Protection_Flow</members>
+        <name>Flow</name>
+    </types>
+    <types>
         <members>*</members>
         <name>FlowCategory</name>
     </types>
     <types>
         <members>*</members>
+        <name>FlowDefinition</name>
+    </types>
+    <types>
+        <members>sfdc_default_ReportExport_Protection_Flow</members>
         <name>FlowDefinition</name>
     </types>
     <types>
@@ -2517,6 +2545,10 @@
         <name>PermissionSetGroup</name>
     </types>
     <types>
+        <members>force__SalesCloudSeller</members>
+        <name>PermissionSetGroup</name>
+    </types>
+    <types>
         <members>*</members>
         <name>PermissionSetLicenseDefinition</name>
     </types>
@@ -2531,6 +2563,10 @@
     <types>
         <members>*</members>
         <name>PlatformEventChannelMember</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PlatformEventMigration</name>
     </types>
     <types>
         <members>*</members>
@@ -3289,6 +3325,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>FlowVersionMilestone</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Image</members>
         <name>SharingRules</name>
     </types>
@@ -3414,6 +3454,10 @@
     </types>
     <types>
         <members>Scorecard</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>SearchRecentQuery</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -3734,6 +3778,14 @@
     </types>
     <types>
         <members>*</members>
+        <name>Tag</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>TagSet</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>TopicsForObjects</name>
     </types>
     <types>
@@ -3849,6 +3901,10 @@
         <name>WorkflowFlowAutomation</name>
     </types>
     <types>
+        <members>sfdc_default_ReportExport_Protection_Flow</members>
+        <name>WorkflowFlowAutomation</name>
+    </types>
+    <types>
         <members>*</members>
         <name>WorkflowKnowledgePublish</name>
     </types>
@@ -3890,6 +3946,10 @@
     </types>
     <types>
         <members>Address</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>AdminSuccess</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4077,6 +4137,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>EvidenceMgmt</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ExperienceBundle</members>
         <name>Settings</name>
     </types>
@@ -4142,6 +4206,10 @@
     </types>
     <types>
         <members>IndustriesEnergyUtilitiesMultiSite</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>IndustriesInsurance</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4313,6 +4381,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>QualityManagement</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>QuickText</members>
         <name>Settings</name>
     </types>
@@ -4378,6 +4450,14 @@
     </types>
     <types>
         <members>ServiceCloudVoice</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ServiceIssueManagement</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ServiceItsmChangeManagement</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4448,5 +4528,5 @@
         <members>WorkDotCom</members>
         <name>Settings</name>
     </types>
-    <version>66.0</version>
+    <version>67.0</version>
 </Package>

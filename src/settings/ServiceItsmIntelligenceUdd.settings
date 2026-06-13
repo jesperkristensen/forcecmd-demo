@@ -4,6 +4,7 @@
     <enableAsocSmlrProbToProb>false</enableAsocSmlrProbToProb>
     <enableCheckIncAttrProactvAsst>false</enableCheckIncAttrProactvAsst>
     <enableCheckProbmForAttr>false</enableCheckProbmForAttr>
+    <enableCoexistFeature>false</enableCoexistFeature>
     <enableCreaProbmForRootCseSum>false</enableCreaProbmForRootCseSum>
     <enableCreateChgReqWithEinstein>false</enableCreateChgReqWithEinstein>
     <enableEinsteinAssignGrpInc>false</enableEinsteinAssignGrpInc>
@@ -14,6 +15,8 @@
     <enableIncSmlrRecProactvAsst>false</enableIncSmlrRecProactvAsst>
     <enableIncSrvcPlanProactvAsst>false</enableIncSrvcPlanProactvAsst>
     <enableIncSummaryProactvAsst>false</enableIncSummaryProactvAsst>
+    <enableIncidentTriageAgent>false</enableIncidentTriageAgent>
+    <enableItSrvcsEmpSetup>false</enableItSrvcsEmpSetup>
     <enableItSrvcsEmployeeAgent>false</enableItSrvcsEmployeeAgent>
     <enableItSrvcsFulfillerAgent>false</enableItSrvcsFulfillerAgent>
     <enableProactivAsstForProbm>false</enableProactivAsstForProbm>
@@ -21,4 +24,5 @@
     <enableProposSumForProbm>false</enableProposSumForProbm>
     <enableQuickActnForSvcPlan>false</enableQuickActnForSvcPlan>
     <enableSumForProbm>false</enableSumForProbm>
+    <enableSvcCtlgApexTemplate>false</enableSvcCtlgApexTemplate>
 </ServiceItsmIntelligenceUddSettings>

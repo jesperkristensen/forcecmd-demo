@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GRCIntelligenceUddSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableBckgrndAsstRiskMgmt>false</enableBckgrndAsstRiskMgmt>
     <enablePolicyAuthoringAI>false</enablePolicyAuthoringAI>
     <enableProactAsstForRisk>false</enableProactAsstForRisk>
+    <enableProactRiskEvalSum>false</enableProactRiskEvalSum>
     <enableProactSummaryForRisk>false</enableProactSummaryForRisk>
 </GRCIntelligenceUddSettings>
