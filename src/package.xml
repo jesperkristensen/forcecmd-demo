@@ -3845,6 +3845,10 @@
         <name>TransactionSecurityPolicy</name>
     </types>
     <types>
+        <members>sfdc_default_ReportExport_Protection</members>
+        <name>TransactionSecurityPolicy</name>
+    </types>
+    <types>
         <members>*</members>
         <name>UIBundle</name>
     </types>
