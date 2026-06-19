@@ -4129,6 +4129,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>EnterpriseApi</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Entitlement</members>
         <name>Settings</name>
     </types>
