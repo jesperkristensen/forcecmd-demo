@@ -4065,11 +4065,19 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>DataMask</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Deployment</members>
         <name>Settings</name>
     </types>
     <types>
         <members>DevHub</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>DigitalWallet</members>
         <name>Settings</name>
     </types>
     <types>
