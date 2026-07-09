@@ -1413,6 +1413,10 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>CommandCenterApp_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
         <members>ContactCenter_UtilityBar</members>
         <name>FlexiPage</name>
     </types>
@@ -2542,6 +2546,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>PermissionSetGroup</name>
+    </types>
+    <types>
+        <members>force__SalesCloudCallCoachingSeller</members>
         <name>PermissionSetGroup</name>
     </types>
     <types>
