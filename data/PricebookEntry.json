@@ -40,6 +40,11 @@
         "UnitPrice": 100000
     },
     {
+        "Product2Id": "01t58000003PgkxAAC",
+        "Pricebook2Id": "01s58000003vwydAAA",
+        "UnitPrice": 35000
+    },
+    {
         "Product2Id": "01t58000003PgklAAC",
         "Pricebook2Id": "01s58000003vwydAAA",
         "UnitPrice": 5000
@@ -65,11 +70,6 @@
         "UnitPrice": 30000
     },
     {
-        "Product2Id": "01t58000003PgkxAAC",
-        "Pricebook2Id": "01s58000003vwydAAA",
-        "UnitPrice": 35000
-    },
-    {
         "Product2Id": "01t58000003PgkyAAC",
         "Pricebook2Id": "01s58000003vwydAAA",
         "UnitPrice": 20000
@@ -85,6 +85,11 @@
         "UnitPrice": 50000
     },
     {
+        "Product2Id": "01t58000003PgknAAC",
+        "Pricebook2Id": "01s58000003vwyeAAA",
+        "UnitPrice": 20000
+    },
+    {
         "Product2Id": "01t58000003PgkkAAC",
         "Pricebook2Id": "01s58000003vwyeAAA",
         "UnitPrice": 25000
@@ -98,11 +103,6 @@
         "Product2Id": "01t58000003PgkmAAC",
         "Pricebook2Id": "01s58000003vwyeAAA",
         "UnitPrice": 85000
-    },
-    {
-        "Product2Id": "01t58000003PgknAAC",
-        "Pricebook2Id": "01s58000003vwyeAAA",
-        "UnitPrice": 20000
     },
     {
         "Product2Id": "01t58000003PgkoAAC",
