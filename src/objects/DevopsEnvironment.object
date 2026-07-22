@@ -190,6 +190,10 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
+    <fields>
+        <fullName>Status</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
     <searchLayouts>
         <customTabListAdditionalFields>CanTrackChanges</customTabListAdditionalFields>
         <customTabListAdditionalFields>IsExpired</customTabListAdditionalFields>

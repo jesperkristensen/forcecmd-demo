@@ -4521,6 +4521,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>TransactableMarketplacePrivateOffer</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>TrialOrg</members>
         <name>Settings</name>
     </types>
