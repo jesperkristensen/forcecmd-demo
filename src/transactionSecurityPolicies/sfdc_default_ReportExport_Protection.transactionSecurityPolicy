@@ -7,7 +7,7 @@
         <twoFactorAuthentication>true</twoFactorAuthentication>
         <useStepUp>true</useStepUp>
     </action>
-    <active>false</active>
+    <active>true</active>
     <description>Standardpolitikken til at begrænse eksport af store rapporter ved at håndhæve step-up-godkendelse.</description>
     <developerName>sfdc_default_ReportExport_Protection</developerName>
     <eventName>ReportEvent</eventName>
