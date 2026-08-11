@@ -198,6 +198,7 @@
     </fields>
     <fields>
         <fullName>ExpirationDate</fullName>
+        <inlineHelpText>The date the offer becomes invalid at 12:00 AM UTC</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
@@ -232,10 +233,12 @@
     </fields>
     <fields>
         <fullName>ServiceEndDate</fullName>
+        <inlineHelpText>The date the service ends at 12:00 AM UTC</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>ServiceStartDate</fullName>
+        <inlineHelpText>The date the service starts at 12:00 AM UTC</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>

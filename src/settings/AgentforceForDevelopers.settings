@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AgentforceForDevelopersSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <agentforceForDevelopersGeoAwareOptIn>false</agentforceForDevelopersGeoAwareOptIn>
     <agentforceForDevelopersOptOut>false</agentforceForDevelopersOptOut>
 </AgentforceForDevelopersSettings>

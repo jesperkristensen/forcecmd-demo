@@ -3778,6 +3778,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>StaticDynamicValMapping</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>StaticResource</name>
     </types>
     <types>
@@ -4201,6 +4205,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>GenerativeCampaigns</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>GoogleApps</members>
         <name>Settings</name>
     </types>
@@ -4530,6 +4538,10 @@
     </types>
     <types>
         <members>UIBundle</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>UiWidget</members>
         <name>Settings</name>
     </types>
     <types>
