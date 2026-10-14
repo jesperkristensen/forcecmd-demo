@@ -1,7 +1,7 @@
 {
   "hostname": "login.salesforce.com",
   "username": "demo@force.cmd",
-  "excludeDirs":["customindex"],
+  "excludeDirs":["customindex", "contentWorkspaces"],
   "objects": {
     "Product2": true,
     "Pricebook2": ["Id", "Name", "IsActive"],
