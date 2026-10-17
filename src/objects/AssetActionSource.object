@@ -169,11 +169,6 @@
     <fields>
         <fullName>TransactionDate</fullName>
     </fields>
-    <listViews>
-        <fullName>AssetActionSource</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alt</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>AssetAction</customTabListAdditionalFields>
         <lookupDialogsAdditionalFields>AssetAction</lookupDialogsAdditionalFields>

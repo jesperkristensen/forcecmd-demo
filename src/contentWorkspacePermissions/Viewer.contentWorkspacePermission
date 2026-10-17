@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentWorkspacePermission xmlns="http://soap.sforce.com/2006/04/metadata">
+    <addComment>true</addComment>
+    <addContent>false</addContent>
+    <addContentOBO>false</addContentOBO>
+    <archiveContent>false</archiveContent>
+    <chatterSharing>true</chatterSharing>
+    <deleteContent>false</deleteContent>
+    <deliverContent>true</deliverContent>
+    <featureContent>false</featureContent>
+    <manageWorkspace>false</manageWorkspace>
+    <modifyComments>false</modifyComments>
+    <organizeFileAndFolder>false</organizeFileAndFolder>
+    <tagContent>false</tagContent>
+    <type>Viewer</type>
+    <viewComments>false</viewComments>
+</ContentWorkspacePermission>

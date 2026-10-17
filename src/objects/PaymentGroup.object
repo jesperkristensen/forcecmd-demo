@@ -6,10 +6,5 @@
         <fullName>SourceObjectId</fullName>
         <type>Lookup</type>
     </fields>
-    <listViews>
-        <fullName>PaymentGroup</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alt</label>
-    </listViews>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

@@ -159,11 +159,6 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
-    <listViews>
-        <fullName>All_CommSubscriptionChannelTypes</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle kanaltyper for kommunikationsabonnement</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>CommunicationSubscription</customTabListAdditionalFields>
         <customTabListAdditionalFields>EngagementChannelType</customTabListAdditionalFields>

@@ -150,11 +150,6 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
-    <listViews>
-        <fullName>All_DataUsePurposes</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle Dataanvendelsesformål</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>LegalBasis</customTabListAdditionalFields>
         <customTabListAdditionalFields>Description</customTabListAdditionalFields>

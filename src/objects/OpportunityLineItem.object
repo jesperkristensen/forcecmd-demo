@@ -121,6 +121,9 @@
         <fullName>Discount</fullName>
     </fields>
     <fields>
+        <fullName>LastSyncTime</fullName>
+    </fields>
+    <fields>
         <fullName>ListPrice</fullName>
     </fields>
     <fields>

@@ -97,10 +97,5 @@
     <fields>
         <fullName>TriggeringRecordType</fullName>
     </fields>
-    <listViews>
-        <fullName>All_Orchestration_Instances</fullName>
-        <filterScope>Everything</filterScope>
-        <label>All Orchestration Runs</label>
-    </listViews>
     <sharingModel>Private</sharingModel>
 </CustomObject>

@@ -243,6 +243,11 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>LastSyncTime</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
         <fullName>LeadSource</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>

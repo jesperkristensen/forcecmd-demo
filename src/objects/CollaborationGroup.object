@@ -128,14 +128,4 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
-    <listViews>
-        <fullName>All_ChatterGroups</fullName>
-        <filterScope>Everything</filterScope>
-        <filters>
-            <field>IsArchived</field>
-            <operation>equals</operation>
-            <value>0</value>
-        </filters>
-        <label>Active Groups</label>
-    </listViews>
 </CustomObject>

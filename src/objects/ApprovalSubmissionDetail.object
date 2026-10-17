@@ -121,11 +121,6 @@
         <fullName>Comments</fullName>
         <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>All_ApprovalSubmissionDetails</fullName>
-        <filterScope>Everything</filterScope>
-        <label>AllApprovalSubmissionDetails</label>
-    </listViews>
     <searchLayouts>
         <lookupDialogsAdditionalFields>ActionPerformedBy</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>ActionPerformerRole</lookupDialogsAdditionalFields>

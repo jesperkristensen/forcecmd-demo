@@ -139,6 +139,11 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>CreditMemoLockedDateTime</fullName>
+        <inlineHelpText>The time at which the credit memo record was locked.</inlineHelpText>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>CreditMemoNumber</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -167,8 +172,16 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>IsCreditMemoLocked</fullName>
+        <inlineHelpText>Indicates whether the credit memo record is locked or not.</inlineHelpText>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>NetCreditsApplied</fullName>
         <inlineHelpText>Net amount applied from the credit memo.</inlineHelpText>
+    </fields>
+    <fields>
+        <fullName>NetRefundsApplied</fullName>
     </fields>
     <fields>
         <fullName>OwnerId</fullName>
@@ -226,6 +239,22 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>TotalHeaderRefundApplied</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>TotalHeaderRefundUnapplied</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>TotalLineRefundApplied</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>TotalLineRefundUnapplied</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>TotalTaxAmount</fullName>
         <inlineHelpText>The rollup of taxes from all line items in the transaction.</inlineHelpText>
         <trackHistory>false</trackHistory>
@@ -235,20 +264,6 @@
         <inlineHelpText>The total tax calculated at the transaction header level.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>mine</fullName>
-        <columns>Name</columns>
-        <columns>CreditMemoNumber</columns>
-        <columns>BillingAccount</columns>
-        <columns>Status</columns>
-        <columns>TotalAmount</columns>
-        <columns>TotalChargeAmount</columns>
-        <columns>TotalAdjustmentAmount</columns>
-        <columns>TotalTaxAmount</columns>
-        <columns>CreditDate</columns>
-        <filterScope>Mine</filterScope>
-        <label>Mine kreditnotaer</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>BillingAccount</customTabListAdditionalFields>
         <customTabListAdditionalFields>Status</customTabListAdditionalFields>

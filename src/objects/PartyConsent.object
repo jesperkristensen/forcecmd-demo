@@ -189,11 +189,6 @@
         <fullName>PrivacyConsentStatus</fullName>
         <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>All_PartyConsents</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle partsamtykker</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Party</customTabListAdditionalFields>
         <customTabListAdditionalFields>Action</customTabListAdditionalFields>

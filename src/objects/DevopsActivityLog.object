@@ -97,10 +97,30 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>PipelineId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>PipelineStageId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>ProjectId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>RequestInfoErrorDetails</fullName>
     </fields>
     <fields>
         <fullName>Status</fullName>
+    </fields>
+    <fields>
+        <fullName>TestSuiteGroupExecId</fullName>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>WorkItemId</fullName>
+        <type>Lookup</type>
     </fields>
     <sharingModel>Private</sharingModel>
 </CustomObject>

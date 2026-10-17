@@ -13,6 +13,7 @@
     <cdpQueryCachingOptIn>false</cdpQueryCachingOptIn>
     <concurrencyLimitSharing>false</concurrencyLimitSharing>
     <disableIncrementalDatasetCreation>false</disableIncrementalDatasetCreation>
+    <enableAiSentimentInDcrPref>false</enableAiSentimentInDcrPref>
     <enableAmazonRedshiftOutputConnector>false</enableAmazonRedshiftOutputConnector>
     <enableAnalyticsSharingEnable>true</enableAnalyticsSharingEnable>
     <enableAutoCompleteCombo>true</enableAutoCompleteCombo>
@@ -26,27 +27,32 @@
     <enableDashboardFlexiTable>true</enableDashboardFlexiTable>
     <enableDashboardSubOrgEmailPref>false</enableDashboardSubOrgEmailPref>
     <enableDataCloudReportingPref>true</enableDataCloudReportingPref>
-    <enableDimensionalHierarchyInDcrPref>false</enableDimensionalHierarchyInDcrPref>
     <enableEmailReportsToPortalUsers>false</enableEmailReportsToPortalUsers>
+    <enableExploreInTableau>false</enableExploreInTableau>
     <enableFirebirdEditor>false</enableFirebirdEditor>
     <enableFloatingReportHeaders>true</enableFloatingReportHeaders>
+    <enableHeadlessBrowserServiceTOS>false</enableHeadlessBrowserServiceTOS>
     <enableIncludeDisclaimerMessage>false</enableIncludeDisclaimerMessage>
-    <enableIncrementalUpsert>false</enableIncrementalUpsert>
     <enableInsights>true</enableInsights>
-    <enableJoinedReportInDcrPref>false</enableJoinedReportInDcrPref>
+    <enableLightningDashboardLWRPref>false</enableLightningDashboardLWRPref>
     <enableLightningReportBuilder>false</enableLightningReportBuilder>
+    <enableLightningReportLWRPref>false</enableLightningReportLWRPref>
     <enableLotusNotesImages>false</enableLotusNotesImages>
     <enableMassEnableReportBuilder>true</enableMassEnableReportBuilder>
+    <enableNativeTableauLWC>false</enableNativeTableauLWC>
     <enableNewChartsEngine>true</enableNewChartsEngine>
     <enableNullDimension>false</enableNullDimension>
-    <enableOrgCanSeeLivePreviews>false</enableOrgCanSeeLivePreviews>
     <enableOrgCanViewTableau>false</enableOrgCanViewTableau>
     <enableOrgCanViewThumbnailForOA>false</enableOrgCanViewThumbnailForOA>
     <enableOrgHasMobileOfflineEnabled>true</enableOrgHasMobileOfflineEnabled>
     <enableOrgHasWatchlistEnabled>true</enableOrgHasWatchlistEnabled>
+    <enableOrgHierarchy>false</enableOrgHierarchy>
+    <enableOrgHierarchyInDcrPref>false</enableOrgHierarchyInDcrPref>
     <enableOrgWideEmailNotification>false</enableOrgWideEmailNotification>
+    <enablePredictFunction>false</enablePredictFunction>
     <enablePupparazziForNotifications>false</enablePupparazziForNotifications>
     <enableQueryLiveConnectors>false</enableQueryLiveConnectors>
+    <enableRemoteHomeOrgOps>true</enableRemoteHomeOrgOps>
     <enableRemoveFooterForRepDisplay>false</enableRemoveFooterForRepDisplay>
     <enableRemoveFooterFromRepExp>false</enableRemoveFooterFromRepExp>
     <enableReportCdnPref>true</enableReportCdnPref>
@@ -55,7 +61,9 @@
     <enableReportHideXlsExportPref>false</enableReportHideXlsExportPref>
     <enableReportInlineEditPref>true</enableReportInlineEditPref>
     <enableReportNotificationsEnable>true</enableReportNotificationsEnable>
+    <enableReportRecordPreviewOrgPref>false</enableReportRecordPreviewOrgPref>
     <enableReportSubOrgEmailPref>false</enableReportSubOrgEmailPref>
+    <enableReportTypeSearchPref>false</enableReportTypeSearchPref>
     <enableReportingOnSDMPref>false</enableReportingOnSDMPref>
     <enableRequestPrioritySchdl>false</enableRequestPrioritySchdl>
     <enableS1AnalyticsEclairEnable>true</enableS1AnalyticsEclairEnable>
@@ -66,9 +74,15 @@
     <enableShowHighContrastChart>false</enableShowHighContrastChart>
     <enableSnowflakeOutputConnector>false</enableSnowflakeOutputConnector>
     <enableSummaryFilterOrgPref>false</enableSummaryFilterOrgPref>
+    <enableTNAppAutoInstall>false</enableTNAppAutoInstall>
+    <enableTNAppAutoUpdate>false</enableTNAppAutoUpdate>
+    <enableTableauAgenticTransforms>false</enableTableauAgenticTransforms>
     <enableTableauHyperOutputConnector>false</enableTableauHyperOutputConnector>
+    <enableTableauSdmAiOptimization>false</enableTableauSdmAiOptimization>
+    <enableTableauSeamlessAuth>false</enableTableauSeamlessAuth>
     <enableUseOldChartsLookAndFeel>false</enableUseOldChartsLookAndFeel>
     <enableWaveAssetsNewDateVersion>false</enableWaveAssetsNewDateVersion>
+    <enableWaveIframeDashboard>false</enableWaveIframeDashboard>
     <enableWaveIndexMVDim>true</enableWaveIndexMVDim>
     <enableWaveIndexMVDimV2>false</enableWaveIndexMVDimV2>
     <enableWaveRecordNavigation>false</enableWaveRecordNavigation>

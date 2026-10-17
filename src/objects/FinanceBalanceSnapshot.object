@@ -172,16 +172,6 @@
         <fullName>TransactionDate</fullName>
         <inlineHelpText>The date when the finance transaction occurred</inlineHelpText>
     </fields>
-    <listViews>
-        <fullName>mine</fullName>
-        <columns>Name</columns>
-        <columns>Balance</columns>
-        <columns>ReferenceEntity</columns>
-        <columns>TransactionDate</columns>
-        <columns>EffectiveDate</columns>
-        <filterScope>Mine</filterScope>
-        <label>Mine øjebliksbilleder af finansiel saldo</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Account</customTabListAdditionalFields>
         <customTabListAdditionalFields>ReferenceEntity</customTabListAdditionalFields>

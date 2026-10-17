@@ -194,11 +194,6 @@
         <fullName>PrivacyConsentStatus</fullName>
         <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>All_ContactPointTypeConsents</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle Samtykker for kontaktpunkttype</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Party</customTabListAdditionalFields>
         <customTabListAdditionalFields>ContactPointType</customTabListAdditionalFields>

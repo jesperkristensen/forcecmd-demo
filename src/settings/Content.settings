@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableCMSC2CConnections>true</enableCMSC2CConnections>
+    <enableCMSSfRoleHierarchyPref>false</enableCMSSfRoleHierarchyPref>
     <enableChatterFileLink>true</enableChatterFileLink>
     <enableContent>true</enableContent>
     <enableContentAutoAssign>true</enableContentAutoAssign>
@@ -18,6 +19,9 @@
     <enableLWCFileUpload>true</enableLWCFileUpload>
     <enableLWCFileUploadInFlows>false</enableLWCFileUploadInFlows>
     <enableLibraryManagedFiles>false</enableLibraryManagedFiles>
+    <enableMContentManagedDomainPref>false</enableMContentManagedDomainPref>
+    <enableMaliciousFileNotifications>false</enableMaliciousFileNotifications>
+    <enableSecureSalesforceFiles>true</enableSecureSalesforceFiles>
     <enableSiteGuestUserToUploadFiles>false</enableSiteGuestUserToUploadFiles>
     <enableUploadFilesOnAttachments>false</enableUploadFilesOnAttachments>
     <setValidContentTypeForAtchDocDownload>false</setValidContentTypeForAtchDocDownload>

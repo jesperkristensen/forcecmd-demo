@@ -2,9 +2,12 @@
 <IndustriesSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableAccountScoreEnabled>false</enableAccountScoreEnabled>
     <enableAutoIdentifyDocAITemplates>false</enableAutoIdentifyDocAITemplates>
+    <enableChecklistOrgPref>false</enableChecklistOrgPref>
     <enableDontSharePartyprofWPortalOrgPref>false</enableDontSharePartyprofWPortalOrgPref>
+    <enableEventMgmtBudgetEvntTypeFilter>false</enableEventMgmtBudgetEvntTypeFilter>
     <enablePartyProfileParentSharingOrgPref>false</enablePartyProfileParentSharingOrgPref>
     <enablePartyprofParentMultiSharingOrgPref>false</enablePartyprofParentMultiSharingOrgPref>
+    <enableUseFscPackageDatamodel>false</enableUseFscPackageDatamodel>
     <participantRecordDeactivateUser>PreventDeactivateUserWithParticipantRecords</participantRecordDeactivateUser>
     <partyProfMultiShrPrtnrsOrgPref>false</partyProfMultiShrPrtnrsOrgPref>
     <rlaEditIfAccHasEdit>false</rlaEditIfAccHasEdit>

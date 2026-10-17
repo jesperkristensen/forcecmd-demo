@@ -153,15 +153,6 @@
         <fullName>Status</fullName>
         <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>mine</fullName>
-        <columns>Name</columns>
-        <columns>CompanyName</columns>
-        <columns>Description</columns>
-        <columns>Status</columns>
-        <filterScope>Mine</filterScope>
-        <label>Mine juridiske enheder</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>LastModifiedDate</customTabListAdditionalFields>
         <customTabListAdditionalFields>LastModifiedBy</customTabListAdditionalFields>

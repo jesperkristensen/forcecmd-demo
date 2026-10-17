@@ -62,6 +62,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>AppFrameworkApp</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>AppFrameworkTemplateBundle</name>
     </types>
     <types>
@@ -218,6 +222,22 @@
     </types>
     <types>
         <members>*</members>
+        <name>ContentWorkspacePermission</name>
+    </types>
+    <types>
+        <members>Author</members>
+        <name>ContentWorkspacePermission</name>
+    </types>
+    <types>
+        <members>Library Administrator</members>
+        <name>ContentWorkspacePermission</name>
+    </types>
+    <types>
+        <members>Viewer</members>
+        <name>ContentWorkspacePermission</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ConvIntelligenceSignalRule</name>
     </types>
     <types>
@@ -238,6 +258,10 @@
     </types>
     <types>
         <members>standard__AllTabSet</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>standard__AlmDevops</members>
         <name>CustomApplication</name>
     </types>
     <types>
@@ -621,6 +645,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ContactPointOttSvc</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>ContactPointPhone</members>
         <name>CustomObject</name>
     </types>
@@ -701,11 +729,115 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>DevopsDeployComponent</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsEnvDeployment</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsEnvDeploymentMbr</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>DevopsEnvironment</members>
         <name>CustomObject</name>
     </types>
     <types>
+        <members>DevopsPipeline</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsPipelineEnvironment</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsPipelineStage</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsPipelineStageTrigger</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsPipelineTestProvider</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsPipelnStgProm</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsPipelnStgPromWkItem</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsProject</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsProjectEnvironment</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsProjectPipeline</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsQualityGate</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsQualityGateResult</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsQualityGateRule</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsQualityGateRuleResult</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>DevopsRequestInfo</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsTest</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsTestExecution</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsTestProviderSyncLog</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsTestSuite</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsTestSuiteExecution</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsTestSuiteGroupExec</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsTestSuiteStage</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsTestSuiteTest</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DevopsWkItmTstSteGrpExec</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -841,6 +973,22 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>LiveAgentSession</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>LiveChatTranscript</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>LiveChatTranscriptEvent</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>LiveChatVisitor</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Location</members>
         <name>CustomObject</name>
     </types>
@@ -889,6 +1037,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>MessagingSessionClient</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Opportunity</members>
         <name>CustomObject</name>
     </types>
@@ -926,6 +1078,14 @@
     </types>
     <types>
         <members>OrgMetricScanSummary</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>OutboundEngagementTemplate</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>OutboundEngmtContentRsrc</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1089,6 +1249,18 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>SourceCodeRepoProvider</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>SourceCodeRepository</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>SourceCodeRepositoryBranch</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>StreamingChannel</members>
         <name>CustomObject</name>
     </types>
@@ -1141,6 +1313,38 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>WorkItem</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>WorkItemComponent</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>WorkItemComponentList</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>WorkPlan</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>WorkPlanTemplate</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>WorkPlanTemplateEntry</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>WorkStep</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>WorkStepTemplate</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>*</members>
         <name>CustomObjectTranslation</name>
     </types>
@@ -1171,6 +1375,14 @@
     <types>
         <members>*</members>
         <name>DataWeaveResource</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>DebugLevel</name>
+    </types>
+    <types>
+        <members>SFDC_DevConsole</members>
+        <name>DebugLevel</name>
     </types>
     <types>
         <members>*</members>
@@ -1298,6 +1510,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>EngmtChannelTypeConfig</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>EscalationRule</name>
     </types>
     <types>
@@ -1333,6 +1549,10 @@
         <name>ExternalClientApplication</name>
     </types>
     <types>
+        <members>forcecmd</members>
+        <name>ExternalClientApplication</name>
+    </types>
+    <types>
         <members>*</members>
         <name>ExternalCredential</name>
     </types>
@@ -1357,7 +1577,15 @@
         <name>ExtlClntAppConfigurablePolicies</name>
     </types>
     <types>
+        <members>forcecmd_plcy</members>
+        <name>ExtlClntAppConfigurablePolicies</name>
+    </types>
+    <types>
         <members>*</members>
+        <name>ExtlClntAppGlobalOauthSettings</name>
+    </types>
+    <types>
+        <members>forcecmd_glbloauth</members>
         <name>ExtlClntAppGlobalOauthSettings</name>
     </types>
     <types>
@@ -1377,11 +1605,23 @@
         <name>ExtlClntAppOauthConfigurablePolicies</name>
     </types>
     <types>
+        <members>forcecmd_oauthPlcy</members>
+        <name>ExtlClntAppOauthConfigurablePolicies</name>
+    </types>
+    <types>
         <members>*</members>
         <name>ExtlClntAppOauthSecuritySettings</name>
     </types>
     <types>
+        <members>forcecmd_oauthSecurity</members>
+        <name>ExtlClntAppOauthSecuritySettings</name>
+    </types>
+    <types>
         <members>*</members>
+        <name>ExtlClntAppOauthSettings</name>
+    </types>
+    <types>
+        <members>forcecmd_oauth</members>
         <name>ExtlClntAppOauthSettings</name>
     </types>
     <types>
@@ -1914,6 +2154,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>LightningOutApp</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>LightningTypeBundle</name>
     </types>
     <types>
@@ -2169,6 +2413,26 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>DevopsActivityLog.All_DevopsActivityLog_List_View</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>DevopsPipeline.All_DevopsPipeline_List_View</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>DevopsPipelineStage.All_DevopsPipelineStage_List_View</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>DevopsProject.All_DevopsProject_List_View</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>DevopsProjectPipeline.All_DevopsProjectPipeline_List_View</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>DigitalWallet.DigitalWallet</members>
         <name>ListView</name>
     </types>
@@ -2301,6 +2565,14 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>OutboundEngagementTemplate.All_OutboundEngagementTemplates</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>OutboundEngmtContentRsrc.All_OutboundEngmtContentRsrcs</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>PartyConsent.All_PartyConsents</members>
         <name>ListView</name>
     </types>
@@ -2405,6 +2677,14 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>WorkItem.All_WorkItem_List_View</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>WorkItem.ItemsToApprove</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>*</members>
         <name>LiveChatSensitiveDataRule</name>
     </types>
@@ -2466,6 +2746,14 @@
     </types>
     <types>
         <members>Contact</members>
+        <name>MatchingRules</name>
+    </types>
+    <types>
+        <members>ContactPointEmail</members>
+        <name>MatchingRules</name>
+    </types>
+    <types>
+        <members>ContactPointPhone</members>
         <name>MatchingRules</name>
     </types>
     <types>
@@ -2921,6 +3209,10 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
+        <members>*</members>
+        <name>ReplyEmailConfig</name>
+    </types>
+    <types>
         <members>EBotR_v3</members>
         <name>Report</name>
     </types>
@@ -3098,6 +3390,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>SecurityCustomBaseline</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>SharingCriteriaRule</name>
     </types>
     <types>
@@ -3225,6 +3521,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>ContactPointOttSvc</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>ContactPointTypeConsent</members>
         <name>SharingRules</name>
     </types>
@@ -3277,7 +3577,55 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>DevopsPipeline</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsPipelineStageTrigger</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsProject</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsQualityGate</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>DevopsRequestInfo</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsTest</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsTestExecution</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsTestProviderSyncLog</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsTestSuite</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsTestSuiteExecution</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsTestSuiteGroupExec</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsTestSuiteStage</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>DevopsWkItmTstSteGrpExec</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -3365,6 +3713,14 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>LiveAgentSession</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>LiveChatTranscript</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Location</members>
         <name>SharingRules</name>
     </types>
@@ -3402,6 +3758,14 @@
     </types>
     <types>
         <members>OrgDeleteRequest</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>OutboundEngagementTemplate</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>OutboundEngmtContentRsrc</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -3477,6 +3841,14 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>SourceCodeRepoProvider</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>SourceCodeRepository</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>StreamingChannel</members>
         <name>SharingRules</name>
     </types>
@@ -3530,6 +3902,22 @@
     </types>
     <types>
         <members>UserProvisioningRequest</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>WorkItem</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>WorkPlan</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>WorkPlanTemplate</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>WorkStepTemplate</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -3809,6 +4197,10 @@
         <name>TopicsForObjects</name>
     </types>
     <types>
+        <members>AssociatedLocation</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
         <members>Campaign</members>
         <name>TopicsForObjects</name>
     </types>
@@ -3850,6 +4242,26 @@
     </types>
     <types>
         <members>Task</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>WorkPlan</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>WorkPlanTemplate</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>WorkPlanTemplateEntry</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>WorkStep</members>
+        <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>WorkStepTemplate</members>
         <name>TopicsForObjects</name>
     </types>
     <types>
@@ -3973,6 +4385,18 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>AgentforcePlatformTracing</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>AgentforceProspecting</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>AgentforceSessionTracing</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Ai4m</members>
         <name>Settings</name>
     </types>
@@ -3993,6 +4417,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>AppStudio</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Blockchain</members>
         <name>Settings</name>
     </types>
@@ -4002,6 +4430,10 @@
     </types>
     <types>
         <members>BusinessHours</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>BusinessValueMetrics</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4049,10 +4481,6 @@
         <name>Settings</name>
     </types>
     <types>
-        <members>ConversationServiceIntegration</members>
-        <name>Settings</name>
-    </types>
-    <types>
         <members>ConversationalIntelligence</members>
         <name>Settings</name>
     </types>
@@ -4062,6 +4490,10 @@
     </types>
     <types>
         <members>CustomAddressField</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>CustomPreferencePage</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4093,6 +4525,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Disco</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Discovery</members>
         <name>Settings</name>
     </types>
@@ -4113,7 +4549,19 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>EasyFreemium</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EasySuitesInvoicing</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>EinsteinDocumentCapture</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>EinsteinGPTSalesEmails</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4213,6 +4661,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Help</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>HerokuAppLink</members>
         <name>Settings</name>
     </types>
@@ -4233,6 +4685,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>IndustriesCommunicationsSales</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>IndustriesEinsteinFeature</members>
         <name>Settings</name>
     </types>
@@ -4242,6 +4698,14 @@
     </types>
     <types>
         <members>IndustriesInsurance</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>IndustriesMaczPricing</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>IndustriesMfgAdvnOrder</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4273,11 +4737,19 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>LeadScore</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>LightningExperience</members>
         <name>Settings</name>
     </types>
     <types>
         <members>LiveAgent</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>MCETransformations</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4294,6 +4766,10 @@
     </types>
     <types>
         <members>Mobile</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>MsTeamsApp</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4397,6 +4873,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>PrivacyAgent</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>PrmCore</members>
         <name>Settings</name>
     </types>
@@ -4449,6 +4929,18 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>SalesBots</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>SalesCloudSurfaces</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>SalesEmailAssistant</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>Sandbox</members>
         <name>Settings</name>
     </types>
@@ -4481,11 +4973,31 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>ServiceCatalog</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ServiceCloudVoice</members>
         <name>Settings</name>
     </types>
     <types>
+        <members>ServiceHam</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ServiceHelios</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ServiceIssueManagement</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ServiceItam</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>ServiceItom</members>
         <name>Settings</name>
     </types>
     <types>
@@ -4568,5 +5080,5 @@
         <members>WorkDotCom</members>
         <name>Settings</name>
     </types>
-    <version>67.0</version>
+    <version>68.0</version>
 </Package>

@@ -5,6 +5,7 @@
     <enableAssetSharing>true</enableAssetSharing>
     <enableCommunityUserVisibility>true</enableCommunityUserVisibility>
     <enableExternalSharingModel>false</enableExternalSharingModel>
+    <enableKeepManualSharesOnTransfer>false</enableKeepManualSharesOnTransfer>
     <enableManagerGroups>false</enableManagerGroups>
     <enableManualUserRecordSharing>false</enableManualUserRecordSharing>
     <enablePortalUserVisibility>true</enablePortalUserVisibility>

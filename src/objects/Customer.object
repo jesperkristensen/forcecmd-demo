@@ -145,11 +145,6 @@
     <fields>
         <fullName>TotalLifeTimeValue</fullName>
     </fields>
-    <listViews>
-        <fullName>All_Customers</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle kunder</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>TotalLifeTimeValue</customTabListAdditionalFields>
         <searchResultsAdditionalFields>TotalLifeTimeValue</searchResultsAdditionalFields>

@@ -158,11 +158,6 @@
         <fullName>RevisionNumber</fullName>
         <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>All_AuthorizationForms</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle godkendelsesformularer</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>RevisionNumber</customTabListAdditionalFields>
         <customTabListAdditionalFields>EffectiveFromDate</customTabListAdditionalFields>

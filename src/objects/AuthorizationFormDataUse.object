@@ -147,11 +147,6 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
-    <listViews>
-        <fullName>All_AuthorizationFormDataUses</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle dataanvendelser fra godkendelsesformular</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>AuthorizationForm</customTabListAdditionalFields>
         <customTabListAdditionalFields>DataUsePurpose</customTabListAdditionalFields>

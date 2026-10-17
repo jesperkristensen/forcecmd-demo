@@ -143,11 +143,6 @@
     <fields>
         <fullName>Type</fullName>
     </fields>
-    <listViews>
-        <fullName>All_DataMaskCustomValueLibraries</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle tilpassede biblioteker</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Description</customTabListAdditionalFields>
         <customTabListAdditionalFields>Type</customTabListAdditionalFields>

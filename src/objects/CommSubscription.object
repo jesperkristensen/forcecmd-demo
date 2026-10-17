@@ -153,11 +153,6 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
-    <listViews>
-        <fullName>All_CommSubscriptions</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle kommunikationsabonnementer</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>DataUsePurpose</customTabListAdditionalFields>
         <searchResultsAdditionalFields>DataUsePurpose</searchResultsAdditionalFields>

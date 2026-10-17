@@ -170,10 +170,5 @@
         <fullName>UnappliedDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>RefundLinePayment</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alt</label>
-    </listViews>
     <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>

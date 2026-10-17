@@ -100,21 +100,6 @@
         <fullName>StepInstanceId</fullName>
         <type>Lookup</type>
     </fields>
-    <listViews>
-        <fullName>ALL_Open_Work_Items</fullName>
-        <filterScope>Everything</filterScope>
-        <filters>
-            <field>Status</field>
-            <operation>equals</operation>
-            <value>ASG</value>
-        </filters>
-        <label>All Open Work Items</label>
-    </listViews>
-    <listViews>
-        <fullName>All_Work_Items</fullName>
-        <filterScope>Everything</filterScope>
-        <label>All Work Items</label>
-    </listViews>
     <searchLayouts>
         <lookupDialogsAdditionalFields>RelatedRecord</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>Label</lookupDialogsAdditionalFields>

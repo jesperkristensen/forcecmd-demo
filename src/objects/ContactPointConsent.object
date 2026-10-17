@@ -190,11 +190,6 @@
         <fullName>PrivacyConsentStatus</fullName>
         <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>All_ContactPointConsents</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle Samtykker for kontaktpunkt</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>ContactPoint</customTabListAdditionalFields>
         <customTabListAdditionalFields>DataUsePurpose</customTabListAdditionalFields>

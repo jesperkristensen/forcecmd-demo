@@ -137,10 +137,6 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>AssociatedLocationNumber</fullName>
-        <trackHistory>false</trackHistory>
-    </fields>
-    <fields>
         <fullName>LocationId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
@@ -155,5 +151,15 @@
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
+    <searchLayouts>
+        <customTabListAdditionalFields>Location</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Type</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ActiveFrom</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ActiveTo</customTabListAdditionalFields>
+        <searchResultsAdditionalFields>Location</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Type</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ActiveFrom</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ActiveTo</searchResultsAdditionalFields>
+    </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>

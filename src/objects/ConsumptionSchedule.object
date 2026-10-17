@@ -175,16 +175,6 @@
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
-    <listViews>
-        <fullName>All_ConsumptionSchedules</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle forbrugsplaner</label>
-    </listViews>
-    <listViews>
-        <fullName>My_ConsumptionSchedules</fullName>
-        <filterScope>Mine</filterScope>
-        <label>Mine forbrugsplaner</label>
-    </listViews>
     <searchLayouts/>
     <sharingModel>Read</sharingModel>
 </CustomObject>

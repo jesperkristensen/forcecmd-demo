@@ -197,11 +197,6 @@
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
-    <listViews>
-        <fullName>All_ContactPointAddresses</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle kontaktpunkts adresser</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Parent</customTabListAdditionalFields>
         <customTabListAdditionalFields>ActiveFromDate</customTabListAdditionalFields>

@@ -110,6 +110,11 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>OwnerId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>ParentWorkItemId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
@@ -136,21 +141,6 @@
         <fullName>Status</fullName>
         <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>All_ApprovalWorkItems</fullName>
-        <filterScope>Everything</filterScope>
-        <label>AllApprovalWorkItems</label>
-    </listViews>
-    <listViews>
-        <fullName>Assigned_ApprovalWorkItems</fullName>
-        <filterScope>Everything</filterScope>
-        <filters>
-            <field>Status</field>
-            <operation>equals</operation>
-            <value>AS</value>
-        </filters>
-        <label>AssignedApprovalWorkItems</label>
-    </listViews>
     <searchLayouts>
         <lookupDialogsAdditionalFields>RelatedRecord</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>RelatedRecordObjectName</lookupDialogsAdditionalFields>

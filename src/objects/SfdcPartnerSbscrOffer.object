@@ -162,7 +162,7 @@
     </fields>
     <fields>
         <fullName>ContractTerm</fullName>
-        <inlineHelpText>Term duration, with a max of 12 months.</inlineHelpText>
+        <inlineHelpText>Term duration.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
@@ -213,6 +213,11 @@
         <fullName>OrderPrebillDays</fullName>
         <inlineHelpText>Represents the number of days before the service date that an invoice is sent to the customer.</inlineHelpText>
         <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>ParentOfferId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>PartnerCompanyName</fullName>

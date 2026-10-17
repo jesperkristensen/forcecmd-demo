@@ -134,10 +134,5 @@
     <fields>
         <fullName>Status</fullName>
     </fields>
-    <listViews>
-        <fullName>PaymentGateway</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alt</label>
-    </listViews>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

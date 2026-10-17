@@ -203,11 +203,6 @@
         <fullName>PrivacyConsentStatus</fullName>
         <trackHistory>false</trackHistory>
     </fields>
-    <listViews>
-        <fullName>All_CommSubscriptionConsents</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle samtykker til kommunikationsabonnement</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>ConsentGiver</customTabListAdditionalFields>
         <customTabListAdditionalFields>ContactPoint</customTabListAdditionalFields>

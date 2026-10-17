@@ -142,11 +142,6 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
-    <listViews>
-        <fullName>All_EngagementChannelTypes</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle engagementkanaltyper</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>ContactPointType</customTabListAdditionalFields>
         <searchResultsAdditionalFields>ContactPointType</searchResultsAdditionalFields>

@@ -80,4 +80,12 @@
         <name>standard__Shield</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>standard__AlmDevops</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>forcecmd</name>
+        <type>ExternalClientApplication</type>
+    </appMenuItems>
 </AppMenu>

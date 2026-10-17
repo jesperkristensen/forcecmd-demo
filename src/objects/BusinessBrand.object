@@ -142,11 +142,6 @@
         <fullName>ParentId</fullName>
         <type>Lookup</type>
     </fields>
-    <listViews>
-        <fullName>All_BusinessBrands</fullName>
-        <filterScope>Everything</filterScope>
-        <label>Alle forretningsbrands</label>
-    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>OrgId</customTabListAdditionalFields>
         <searchResultsAdditionalFields>OrgId</searchResultsAdditionalFields>
