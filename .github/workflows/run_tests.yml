@@ -18,4 +18,4 @@ jobs:
     - name: run tests
       run: npx forcecmd deploy '--options={"checkOnly":true,"testLevel":"RunLocalTests","rollbackOnError":false}' --save-test-result
       env:
-        FORCEPW: ${{ secrets.SALESFORCE_PASSWORD }}
+        SF_CLIENT_SECRET: ${{ secrets.SALESFORCE_CLIENT_SECRET }}

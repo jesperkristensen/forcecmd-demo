@@ -1,6 +1,6 @@
 {
-  "hostname": "login.salesforce.com",
-  "username": "demo@force.cmd",
+  "hostname": "d580000004dqyea2-dev-ed.my.salesforce.com",
+  "client_id": "3MVG98_Psg5cppyZzrlQpbko2oV6ZFdYeH7DS1tniGORNxZkyHTQAlu82r789CQXq3RDBrkMGvEyXG8G2R.KS",
   "excludeDirs":["customindex", "contentWorkspaces"],
   "objects": {
     "Product2": true,

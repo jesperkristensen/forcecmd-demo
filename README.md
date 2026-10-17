@@ -14,6 +14,6 @@ To back up sandboxes, create a branch for each sandbox.
 Setup guide:
 1. Create a repository in GitHub.
 2. Add the files `forcecmd.json`, `package.json`, `.github/workflows/git_backup.yml` and `.github/workflows/run_tests.yml` to the repository.
-3. Edit `forcecmd.json` to configure hostname, username and other desired configuration.
+3. Edit `forcecmd.json` to configure hostname, client_id and other desired configuration.
 4. Commit and push the changes.
 5. In `Settings` -> `Secrets and variables` -> `Actions` -> `Repository secrets` add a secret named `SALESFORCE_PASSWORD` with the Salesforce user's password and security token.
