@@ -2702,6 +2702,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>MailAppOwaWhitelist</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ManagedContentType</name>
     </types>
     <types>
@@ -4762,6 +4766,10 @@
     </types>
     <types>
         <members>Meetings</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>MissionforceLogistics</members>
         <name>Settings</name>
     </types>
     <types>
