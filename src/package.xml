@@ -1281,6 +1281,14 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>UiPageAuthoringConv</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>UiPageAuthoringConvTurn</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>UnstructuredStorageSpace</members>
         <name>CustomObject</name>
     </types>
@@ -3865,6 +3873,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>UiPageAuthoringConv</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>UnstructuredStorageSpace</members>
         <name>SharingRules</name>
     </types>
@@ -3931,6 +3943,14 @@
     <types>
         <members>*</members>
         <name>SiteDotCom</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>SrvcMgmtCollabAppFldDef</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>SrvcMgmtCollabAppObjDef</name>
     </types>
     <types>
         <members>*</members>
@@ -4505,6 +4525,10 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>CustomerIntelligence</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>CustomizablePropensityScoring</members>
         <name>Settings</name>
     </types>
@@ -4974,6 +4998,10 @@
     </types>
     <types>
         <members>SecurityHub</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>SelfService</members>
         <name>Settings</name>
     </types>
     <types>

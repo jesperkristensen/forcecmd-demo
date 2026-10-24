@@ -19,9 +19,11 @@
     <enableDedupE2IncidentAttachment>false</enableDedupE2IncidentAttachment>
     <enableEmailToIncident>false</enableEmailToIncident>
     <enableEmailToIncidentAi>false</enableEmailToIncidentAi>
+    <enableEmployeeServiceTeams>false</enableEmployeeServiceTeams>
     <enableHtmlEmailToIncident>false</enableHtmlEmailToIncident>
     <enableITSMChangeMgmt>false</enableITSMChangeMgmt>
     <enableITSMChgDashboard>false</enableITSMChgDashboard>
+    <enableITSMFulfillerTeams>false</enableITSMFulfillerTeams>
     <enableITSMHomeDashboard>false</enableITSMHomeDashboard>
     <enableITSMHomeFulDashboard>false</enableITSMHomeFulDashboard>
     <enableITSMIncFulDashboard>false</enableITSMIncFulDashboard>
@@ -31,6 +33,7 @@
     <enableITSMPrbFulDashboard>false</enableITSMPrbFulDashboard>
     <enableITSMPrbMgrDashboard>false</enableITSMPrbMgrDashboard>
     <enableITSMProblemMgmt>false</enableITSMProblemMgmt>
+    <enableITSMTeams>false</enableITSMTeams>
     <enableIncPriorityMatrix>false</enableIncPriorityMatrix>
     <enableIncPriorityOverride>false</enableIncPriorityOverride>
     <enableIncidentDraftEmails>false</enableIncidentDraftEmails>
