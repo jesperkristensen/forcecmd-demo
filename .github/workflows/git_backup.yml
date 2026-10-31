@@ -7,14 +7,14 @@ jobs:
   git_backup:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v6
+    - uses: actions/checkout@v7
     - name: Setup Node
-      uses: actions/setup-node@v6
+      uses: actions/setup-node@v7
       with:
         node-version: latest
         package-manager-cache: false
     - name: npm install
-      run: npm install
+      run: npm install --allow-git=root
     - name: forcecmd retrieve
       run: npx forcecmd retrieve
       env:
